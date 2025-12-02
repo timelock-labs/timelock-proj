@@ -1450,7 +1450,7 @@
     "name": "Hyperlane",
     "id": "hyperlane",
     "type": "crosschain-interoperability",
-    "icon": "https://static.arkhamintelligence.com/entities/hyperlane.png",
+    "icon": "icons/hyperlane.png",
     "website": "https://www.hyperlane.xyz",
     "twitter": "http://www.x.com/hyperlane",
     "description": ""
@@ -1460,7 +1460,7 @@
     "name": "Bend DAO",
     "id": "bend-dao",
     "type": "lending-decentralized",
-    "icon": "https://static.arkhamintelligence.com/entities/bend-dao.png",
+    "icon": "icons/bend-dao.png",
     "website": "https://www.benddao.xyz",
     "twitter": "https://twitter.com/BendDAO",
     "description": ""
@@ -1470,7 +1470,7 @@
     "name": "Hyperlane",
     "id": "hyperlane",
     "type": "crosschain-interoperability",
-    "icon": "https://static.arkhamintelligence.com/entities/hyperlane.png",
+    "icon": "icons/hyperlane.png",
     "website": "https://www.hyperlane.xyz",
     "twitter": "http://www.x.com/hyperlane",
     "description": ""
@@ -1480,7 +1480,7 @@
     "name": "Chainlink",
     "id": "chainlink",
     "type": "oracle",
-    "icon": "https://static.arkhamintelligence.com/entities/chainlink.png",
+    "icon": "icons/chainlink.png",
     "website": "https://chain.link",
     "twitter": "https://twitter.com/chainlink",
     "description": ""
@@ -1490,7 +1490,7 @@
     "name": "Veda",
     "id": "veda",
     "type": "yield",
-    "icon": "https://static.arkhamintelligence.com/entities/veda.png",
+    "icon": "icons/veda.png",
     "website": "https://veda.tech",
     "twitter": "https://x.com/veda_labs",
     "description": ""
@@ -1500,7 +1500,7 @@
     "name": "Maha DAO",
     "id": "maha-dao",
     "type": "yield",
-    "icon": "https://static.arkhamintelligence.com/entities/maha-dao.png",
+    "icon": "icons/maha-dao.png",
     "website": "https://mahadao.com/",
     "twitter": "https://twitter.com/TheMahaDAO",
     "description": ""
@@ -1510,7 +1510,7 @@
     "name": "PoolTogether",
     "id": "pooltogether",
     "type": "yield",
-    "icon": "https://static.arkhamintelligence.com/entities/pooltogether.png",
+    "icon": "icons/pooltogether.png",
     "website": "https://pooltogether.com",
     "twitter": "https://twitter.com/PoolTogether_",
     "description": ""
@@ -1520,7 +1520,7 @@
     "name": "Aethir",
     "id": "aethir",
     "type": "blockchain-infra",
-    "icon": "https://static.arkhamintelligence.com/entities/aethir.png",
+    "icon": "icons/aethir.png",
     "website": "https://aethir.com",
     "twitter": "https://x.com/AethirCloud",
     "description": ""
@@ -1530,7 +1530,7 @@
     "name": "Ambient Finance (CrocSwap)",
     "id": "ambient-finance",
     "type": "dex",
-    "icon": "https://static.arkhamintelligence.com/entities/ambient-finance.png",
+    "icon": "icons/ambient-finance.png",
     "website": "https://ambient.finance/",
     "twitter": "https://twitter.com/ambient_finance",
     "description": ""
@@ -1540,7 +1540,7 @@
     "name": "Kudoe",
     "id": "kudoe",
     "type": "misc",
-    "icon": "https://static.arkhamintelligence.com/entities/kudoe.png",
+    "icon": "icons/kudoe.png",
     "website": "https://kudoe.io",
     "twitter": "https://twitter.com/KudoeOfficial",
     "description": ""
@@ -1550,7 +1550,7 @@
     "name": "Scroll",
     "id": "scroll",
     "type": "smart-contract-platform",
-    "icon": "https://static.arkhamintelligence.com/entities/scroll.png",
+    "icon": "icons/scroll.png",
     "website": "https://scroll.io",
     "twitter": "https://twitter.com/Scroll_ZKP",
     "description": ""
@@ -1560,7 +1560,7 @@
     "name": "Autonolas",
     "id": "autonolas",
     "type": "misc",
-    "icon": "https://static.arkhamintelligence.com/entities/autonolas.png",
+    "icon": "icons/autonolas.png",
     "website": "https://olas.network/",
     "twitter": "https://twitter.com/autonolas",
     "description": ""
@@ -1570,7 +1570,7 @@
     "name": "Hyperlane",
     "id": "hyperlane",
     "type": "crosschain-interoperability",
-    "icon": "https://static.arkhamintelligence.com/entities/hyperlane.png",
+    "icon": "icons/hyperlane.png",
     "website": "https://www.hyperlane.xyz",
     "twitter": "http://www.x.com/hyperlane",
     "description": ""
@@ -1580,7 +1580,7 @@
     "name": "RabbitX",
     "id": "rabbitx",
     "type": "dex",
-    "icon": "https://static.arkhamintelligence.com/entities/rabbitx.png",
+    "icon": "icons/rabbitx.png",
     "website": "https://rabbitx.io/",
     "twitter": "https://twitter.com/rabbitx_io",
     "description": ""
@@ -1590,7 +1590,7 @@
     "name": "Meowl",
     "id": "meowl",
     "type": "meme",
-    "icon": "https://static.arkhamintelligence.com/entities/meowl.png",
+    "icon": "icons/meowl.png",
     "website": "https://meowl.xyz",
     "twitter": "https://twitter.com/meowlxyz",
     "description": ""
@@ -1600,7 +1600,7 @@
     "name": "SuperVerse",
     "id": "superverse",
     "type": "misc",
-    "icon": "https://static.arkhamintelligence.com/entities/superverse.png",
+    "icon": "icons/superverse.png",
     "website": "https://superverse.cool",
     "twitter": "http://www.x.com/SuperVerse",
     "description": ""
@@ -1610,7 +1610,7 @@
     "name": "Relay.link",
     "id": "relay-link",
     "type": "bridge",
-    "icon": "https://static.arkhamintelligence.com/entities/relay-link.png",
+    "icon": "icons/relay-link.png",
     "website": "https://relay.link/",
     "twitter": "https://x.com/RelayProtocol",
     "description": ""
@@ -1620,7 +1620,7 @@
     "name": "Ondo Finance",
     "id": "ondo-finance",
     "type": "misc",
-    "icon": "https://static.arkhamintelligence.com/entities/ondo-finance.png",
+    "icon": "icons/ondo-finance.png",
     "website": "https://ondo.finance",
     "twitter": "https://twitter.com/OndoFinance",
     "description": ""
@@ -1630,7 +1630,7 @@
     "name": "GammaSwap",
     "id": "gammaswap",
     "type": "derivatives",
-    "icon": "https://static.arkhamintelligence.com/entities/gammaswap.png",
+    "icon": "icons/gammaswap.png",
     "website": "https://gammaswap.com",
     "twitter": "https://x.com/gammaswaplabs",
     "description": ""
@@ -1640,7 +1640,7 @@
     "name": "Origin Protocol",
     "id": "origin-protocol",
     "type": "nft-marketplace",
-    "icon": "https://static.arkhamintelligence.com/entities/origin-protocol.png",
+    "icon": "icons/origin-protocol.png",
     "website": "https://originprotocol.com",
     "twitter": "https://twitter.com/OriginProtocol",
     "description": ""
@@ -1650,7 +1650,7 @@
     "name": "Reserve Protocol",
     "id": "reserve-protocol",
     "type": "stablecoin",
-    "icon": "https://static.arkhamintelligence.com/entities/reserve-protocol.png",
+    "icon": "icons/reserve-protocol.png",
     "website": "https://reserve.org",
     "twitter": "https://twitter.com/reserveprotocol",
     "description": ""
@@ -1660,7 +1660,7 @@
     "name": "Swerve.fi",
     "id": "swerve-fi",
     "type": "dex",
-    "icon": "https://static.arkhamintelligence.com/entities/swerve-fi.png",
+    "icon": "icons/swerve-fi.png",
     "website": "https://swerve.fi/",
     "twitter": "https://twitter.com/SwerveFinance",
     "description": ""
@@ -1670,7 +1670,7 @@
     "name": "ClayStack",
     "id": "claystack",
     "type": "liquid-staking",
-    "icon": "https://static.arkhamintelligence.com/entities/claystack.png",
+    "icon": "icons/claystack.png",
     "website": "https://claystack.com",
     "twitter": "https://twitter.com/ClayStack_HQ",
     "description": ""
@@ -1680,7 +1680,7 @@
     "name": "Lybra Finance",
     "id": "lybra-finance",
     "type": "misc",
-    "icon": "https://static.arkhamintelligence.com/entities/lybra-finance.png",
+    "icon": "icons/lybra-finance.png",
     "website": "https://lybra.finance/",
     "twitter": "https://twitter.com/LybraFinanceLSD",
     "description": ""
@@ -1690,7 +1690,7 @@
     "name": "Bao Finance",
     "id": "bao-finance",
     "type": "dex",
-    "icon": "https://static.arkhamintelligence.com/entities/bao-finance.png",
+    "icon": "icons/bao-finance.png",
     "website": "https://www.bao.finance/",
     "twitter": "https://twitter.com/BaoFinance",
     "description": ""
@@ -1700,7 +1700,7 @@
     "name": "Reserve Protocol",
     "id": "reserve-protocol",
     "type": "stablecoin",
-    "icon": "https://static.arkhamintelligence.com/entities/reserve-protocol.png",
+    "icon": "icons/reserve-protocol.png",
     "website": "https://reserve.org",
     "twitter": "https://twitter.com/reserveprotocol",
     "description": ""
@@ -1710,7 +1710,7 @@
     "name": "Ondo Finance",
     "id": "ondo-finance",
     "type": "misc",
-    "icon": "https://static.arkhamintelligence.com/entities/ondo-finance.png",
+    "icon": "icons/ondo-finance.png",
     "website": "https://ondo.finance",
     "twitter": "https://twitter.com/OndoFinance",
     "description": ""
@@ -1720,7 +1720,7 @@
     "name": "Primex Finance",
     "id": "primex-finance",
     "type": "dex",
-    "icon": "https://static.arkhamintelligence.com/entities/primex-finance.png",
+    "icon": "icons/primex-finance.png",
     "website": "https://primex.finance",
     "twitter": "https://x.com/primex_official",
     "description": ""
@@ -1730,7 +1730,7 @@
     "name": "Resolve Labs",
     "id": "resolv-labs",
     "type": "stablecoin",
-    "icon": "https://static.arkhamintelligence.com/entities/resolv-labs.png",
+    "icon": "icons/resolv-labs.png",
     "website": "https://resolv.xyz/",
     "twitter": "https://x.com/ResolvLabs",
     "description": ""
@@ -1740,7 +1740,7 @@
     "name": "Cult DAO",
     "id": "cult-dao",
     "type": "yield",
-    "icon": "https://static.arkhamintelligence.com/entities/cult-dao.png",
+    "icon": "icons/cult-dao.png",
     "website": "https://cultdao.io/",
     "twitter": "https://twitter.com/wearecultdao",
     "description": ""
@@ -1750,7 +1750,7 @@
     "name": "Interest Protocol",
     "id": "interest-protocol",
     "type": "yield",
-    "icon": "https://static.arkhamintelligence.com/entities/interest-protocol.png",
+    "icon": "icons/interest-protocol.png",
     "website": "https://interestprotocol.io",
     "twitter": "https://x.com/interestdefi",
     "description": ""
@@ -1760,7 +1760,7 @@
     "name": "OpenLeverage",
     "id": "openleverage",
     "type": "dex",
-    "icon": "https://static.arkhamintelligence.com/entities/openleverage.png",
+    "icon": "icons/openleverage.png",
     "website": "https://openleverage.finance/",
     "twitter": "https://twitter.com/OpenLeverage",
     "description": ""
@@ -1770,7 +1770,7 @@
     "name": "Movement Network",
     "id": "movement-network",
     "type": "smart-contract-platform",
-    "icon": "https://static.arkhamintelligence.com/entities/movement-network.png",
+    "icon": "icons/movement-network.png",
     "website": "https://www.movementnetwork.xyz",
     "twitter": "https://x.com/movementfdn",
     "description": ""
@@ -1780,7 +1780,7 @@
     "name": "Eigenlayer",
     "id": "eigenlayer",
     "type": "misc",
-    "icon": "https://static.arkhamintelligence.com/entities/eigenlayer.png",
+    "icon": "icons/eigenlayer.png",
     "website": "https://www.eigenlayer.xyz/",
     "twitter": "https://twitter.com/eigenlayer",
     "description": ""
@@ -1790,7 +1790,7 @@
     "name": "M0",
     "id": "mzero",
     "type": "blockchain-infra",
-    "icon": "https://static.arkhamintelligence.com/entities/mzero.png",
+    "icon": "icons/mzero.png",
     "website": "https://www.m0.org",
     "twitter": "http://www.x.com/m0foundation",
     "description": ""
@@ -1800,7 +1800,7 @@
     "name": "Instadapp",
     "id": "instadapp",
     "type": "misc",
-    "icon": "https://static.arkhamintelligence.com/entities/instadapp.png",
+    "icon": "icons/instadapp.png",
     "website": "https://instadapp.io",
     "twitter": "https://twitter.com/Instadapp",
     "description": ""
@@ -1810,7 +1810,7 @@
     "name": "Aster (Prev. Astherus)",
     "id": "astherus",
     "type": "derivatives",
-    "icon": "https://static.arkhamintelligence.com/entities/astherus.png",
+    "icon": "icons/astherus.png",
     "website": "https://www.asterdex.com",
     "twitter": "https://x.com/Aster_DEX",
     "description": ""
@@ -1820,7 +1820,7 @@
     "name": "Kroma Network",
     "id": "kroma-network",
     "type": "smart-contract-platform",
-    "icon": "https://static.arkhamintelligence.com/entities/kroma-network.png",
+    "icon": "icons/kroma-network.png",
     "website": "https://kroma.network",
     "twitter": "https://twitter.com/kroma_network",
     "description": ""
@@ -1830,7 +1830,7 @@
     "name": "Ampleforth",
     "id": "ampleforth",
     "type": "stablecoin",
-    "icon": "https://static.arkhamintelligence.com/entities/ampleforth.png",
+    "icon": "icons/ampleforth.png",
     "website": "https://ampleforth.org",
     "twitter": "https://twitter.com/AmpleforthOrg",
     "description": ""
@@ -1840,7 +1840,7 @@
     "name": "Matrixdock",
     "id": "matrixdock",
     "type": "real-world-assets",
-    "icon": "https://static.arkhamintelligence.com/entities/matrixdock.png",
+    "icon": "icons/matrixdock.png",
     "website": "https://www.matrixdock.com/",
     "twitter": "https://twitter.com/matrixdock",
     "description": ""
@@ -1850,7 +1850,7 @@
     "name": "Treehouse",
     "id": "treehouse-finance",
     "type": "yield",
-    "icon": "https://static.arkhamintelligence.com/entities/treehouse-finance.png",
+    "icon": "icons/treehouse-finance.png",
     "website": "https://www.treehouse.finance",
     "twitter": "https://x.com/TreehouseFi",
     "description": ""
@@ -1860,7 +1860,7 @@
     "name": "SkateFi (Prev. Range Protocol)",
     "id": "range-protocol",
     "type": "misc",
-    "icon": "https://static.arkhamintelligence.com/entities/range-protocol.png",
+    "icon": "icons/range-protocol.png",
     "website": "https://www.skatefi.org",
     "twitter": "https://x.com/skate_fi",
     "description": ""
@@ -1870,7 +1870,7 @@
     "name": "Stryke (Prev. Dopex)",
     "id": "dopex",
     "type": "derivatives",
-    "icon": "https://static.arkhamintelligence.com/entities/dopex.png",
+    "icon": "icons/dopex.png",
     "website": "https://www.dopex.io",
     "twitter": "http://www.x.com/stryke_xyz",
     "description": ""
@@ -1880,7 +1880,7 @@
     "name": "Aster (Prev. Astherus)",
     "id": "astherus",
     "type": "derivatives",
-    "icon": "https://static.arkhamintelligence.com/entities/astherus.png",
+    "icon": "icons/astherus.png",
     "website": "https://www.asterdex.com",
     "twitter": "https://x.com/Aster_DEX",
     "description": ""
@@ -1890,7 +1890,7 @@
     "name": "Stader Labs",
     "id": "stader-labs",
     "type": "liquid-staking",
-    "icon": "https://static.arkhamintelligence.com/entities/stader-labs.png",
+    "icon": "icons/stader-labs.png",
     "website": "https://staderlabs.com/",
     "twitter": "https://twitter.com/staderlabs",
     "description": ""
@@ -1900,7 +1900,7 @@
     "name": "Han e-Platform",
     "id": "hanep",
     "type": "misc",
-    "icon": "https://static.arkhamintelligence.com/entities/hanep.png",
+    "icon": "icons/hanep.png",
     "website": "https://hanep.io",
     "twitter": "https://x.com/HANeP_official",
     "description": ""
@@ -1910,7 +1910,7 @@
     "name": "Veda",
     "id": "veda",
     "type": "yield",
-    "icon": "https://static.arkhamintelligence.com/entities/veda.png",
+    "icon": "icons/veda.png",
     "website": "https://veda.tech",
     "twitter": "https://x.com/veda_labs",
     "description": ""
@@ -1920,7 +1920,7 @@
     "name": "Relay.link",
     "id": "relay-link",
     "type": "bridge",
-    "icon": "https://static.arkhamintelligence.com/entities/relay-link.png",
+    "icon": "icons/relay-link.png",
     "website": "https://relay.link/",
     "twitter": "https://x.com/RelayProtocol",
     "description": ""
@@ -1930,7 +1930,7 @@
     "name": "Beefy Finance",
     "id": "beefy-finance",
     "type": "yield",
-    "icon": "https://static.arkhamintelligence.com/entities/beefy-finance.png",
+    "icon": "icons/beefy-finance.png",
     "website": "https://beefy.finance/",
     "twitter": "https://twitter.com/beefyfinance",
     "description": ""
@@ -1940,7 +1940,7 @@
     "name": "Euler Finance",
     "id": "euler",
     "type": "lending-decentralized",
-    "icon": "https://static.arkhamintelligence.com/entities/euler.png",
+    "icon": "icons/euler.png",
     "website": "https://www.euler.finance/",
     "twitter": "https://twitter.com/eulerfinance",
     "description": ""
@@ -1950,7 +1950,7 @@
     "name": "Uniswap",
     "id": "uniswap",
     "type": "dex",
-    "icon": "https://static.arkhamintelligence.com/entities/uniswap.png",
+    "icon": "icons/uniswap.png",
     "website": "https://uniswap.org",
     "twitter": "https://twitter.com/Uniswap",
     "description": ""
@@ -1960,7 +1960,7 @@
     "name": "Scroll",
     "id": "scroll",
     "type": "smart-contract-platform",
-    "icon": "https://static.arkhamintelligence.com/entities/scroll.png",
+    "icon": "icons/scroll.png",
     "website": "https://scroll.io",
     "twitter": "https://twitter.com/Scroll_ZKP",
     "description": ""
@@ -1970,7 +1970,7 @@
     "name": "The Granary",
     "id": "granary-finance",
     "type": "lending-decentralized",
-    "icon": "https://static.arkhamintelligence.com/entities/granary-finance.png",
+    "icon": "icons/granary-finance.png",
     "website": "https://granary.finance",
     "twitter": "https://twitter.com/GranaryFinance",
     "description": ""
@@ -1980,7 +1980,7 @@
     "name": "YieldNest",
     "id": "yieldnest",
     "type": "yield",
-    "icon": "https://static.arkhamintelligence.com/entities/yieldnest.png",
+    "icon": "icons/yieldnest.png",
     "website": "https://www.yieldnest.finance",
     "twitter": "http://www.x.com/YieldNestFi",
     "description": ""
@@ -1990,7 +1990,7 @@
     "name": "Dypius (Defi Yield Protocol)",
     "id": "defi-yield-protocol",
     "type": "yield",
-    "icon": "https://static.arkhamintelligence.com/entities/defi-yield-protocol.png",
+    "icon": "icons/defi-yield-protocol.png",
     "website": "https://www.dypius.com",
     "twitter": "https://x.com/dypius",
     "description": ""
@@ -2000,7 +2000,7 @@
     "name": "Mantle",
     "id": "mantle",
     "type": "smart-contract-platform",
-    "icon": "https://static.arkhamintelligence.com/entities/mantle.png",
+    "icon": "icons/mantle.png",
     "website": "https://www.mantle.xyz",
     "twitter": "https://twitter.com/0xMantle",
     "description": ""
@@ -2010,7 +2010,7 @@
     "name": "Unslashed Finance",
     "id": "unslashed-finance",
     "type": "misc",
-    "icon": "https://static.arkhamintelligence.com/entities/unslashed-finance.png",
+    "icon": "icons/unslashed-finance.png",
     "website": "https://unslashed.finance/",
     "twitter": "https://twitter.com/UnslashedF",
     "description": ""
@@ -2020,7 +2020,7 @@
     "name": "Perennial Finance",
     "id": "perennial-finance",
     "type": "misc",
-    "icon": "https://static.arkhamintelligence.com/entities/perennial-finance.png",
+    "icon": "icons/perennial-finance.png",
     "website": "https://perennial.finance",
     "twitter": "https://twitter.com/perenniallabs",
     "description": ""
@@ -2030,7 +2030,7 @@
     "name": "Hyperlane",
     "id": "hyperlane",
     "type": "crosschain-interoperability",
-    "icon": "https://static.arkhamintelligence.com/entities/hyperlane.png",
+    "icon": "icons/hyperlane.png",
     "website": "https://www.hyperlane.xyz",
     "twitter": "http://www.x.com/hyperlane",
     "description": ""
@@ -2040,7 +2040,7 @@
     "name": "Reserve Protocol",
     "id": "reserve-protocol",
     "type": "stablecoin",
-    "icon": "https://static.arkhamintelligence.com/entities/reserve-protocol.png",
+    "icon": "icons/reserve-protocol.png",
     "website": "https://reserve.org",
     "twitter": "https://twitter.com/reserveprotocol",
     "description": ""
@@ -2050,7 +2050,7 @@
     "name": "Veda",
     "id": "veda",
     "type": "yield",
-    "icon": "https://static.arkhamintelligence.com/entities/veda.png",
+    "icon": "icons/veda.png",
     "website": "https://veda.tech",
     "twitter": "https://x.com/veda_labs",
     "description": ""
@@ -2060,7 +2060,7 @@
     "name": "Manifold",
     "id": "manifold",
     "type": "nft",
-    "icon": "https://static.arkhamintelligence.com/entities/manifold.png",
+    "icon": "icons/manifold.png",
     "website": "https://manifold.xyz/",
     "twitter": "https://twitter.com/manifoldxyz",
     "description": ""
@@ -2070,7 +2070,7 @@
     "name": "Stader Labs",
     "id": "stader-labs",
     "type": "liquid-staking",
-    "icon": "https://static.arkhamintelligence.com/entities/stader-labs.png",
+    "icon": "icons/stader-labs.png",
     "website": "https://staderlabs.com/",
     "twitter": "https://twitter.com/staderlabs",
     "description": ""
@@ -2080,7 +2080,7 @@
     "name": "Ether.fi",
     "id": "ether-fi",
     "type": "misc",
-    "icon": "https://static.arkhamintelligence.com/entities/ether-fi.png",
+    "icon": "icons/ether-fi.png",
     "website": "https://ether.fi/",
     "twitter": "https://twitter.com/ether_fi",
     "description": ""
@@ -2090,7 +2090,7 @@
     "name": "Matrixdock",
     "id": "matrixdock",
     "type": "real-world-assets",
-    "icon": "https://static.arkhamintelligence.com/entities/matrixdock.png",
+    "icon": "icons/matrixdock.png",
     "website": "https://www.matrixdock.com/",
     "twitter": "https://twitter.com/matrixdock",
     "description": ""
@@ -2100,7 +2100,7 @@
     "name": "Scroll",
     "id": "scroll",
     "type": "smart-contract-platform",
-    "icon": "https://static.arkhamintelligence.com/entities/scroll.png",
+    "icon": "icons/scroll.png",
     "website": "https://scroll.io",
     "twitter": "https://twitter.com/Scroll_ZKP",
     "description": ""
@@ -2110,7 +2110,7 @@
     "name": "NestedFi",
     "id": "nested",
     "type": "misc",
-    "icon": "https://static.arkhamintelligence.com/entities/nested.png",
+    "icon": "icons/nested.png",
     "website": "https://nested.fi",
     "twitter": "https://twitter.com/nestedfi",
     "description": ""
@@ -2120,7 +2120,7 @@
     "name": "Reserve Protocol",
     "id": "reserve-protocol",
     "type": "stablecoin",
-    "icon": "https://static.arkhamintelligence.com/entities/reserve-protocol.png",
+    "icon": "icons/reserve-protocol.png",
     "website": "https://reserve.org",
     "twitter": "https://twitter.com/reserveprotocol",
     "description": ""
@@ -2130,7 +2130,7 @@
     "name": "0x",
     "id": "0x",
     "type": "dex",
-    "icon": "https://static.arkhamintelligence.com/entities/0x.png",
+    "icon": "icons/0x.png",
     "website": "https://0x.org",
     "twitter": "https://twitter.com/0xProject",
     "description": ""
@@ -2140,7 +2140,7 @@
     "name": "Kroma Network",
     "id": "kroma-network",
     "type": "smart-contract-platform",
-    "icon": "https://static.arkhamintelligence.com/entities/kroma-network.png",
+    "icon": "icons/kroma-network.png",
     "website": "https://kroma.network",
     "twitter": "https://twitter.com/kroma_network",
     "description": ""
@@ -2150,7 +2150,7 @@
     "name": "Scroll",
     "id": "scroll",
     "type": "smart-contract-platform",
-    "icon": "https://static.arkhamintelligence.com/entities/scroll.png",
+    "icon": "icons/scroll.png",
     "website": "https://scroll.io",
     "twitter": "https://twitter.com/Scroll_ZKP",
     "description": ""
@@ -2160,7 +2160,7 @@
     "name": "Cian",
     "id": "cian",
     "type": "yield",
-    "icon": "https://static.arkhamintelligence.com/entities/cian.png",
+    "icon": "icons/cian.png",
     "website": "https://cian.app",
     "twitter": "https://twitter.com/CIAN_protocol",
     "description": ""
@@ -2170,7 +2170,7 @@
     "name": "Nouns DAO",
     "id": "nouns-dao",
     "type": "dao",
-    "icon": "https://static.arkhamintelligence.com/entities/nouns-dao.png",
+    "icon": "icons/nouns-dao.png",
     "website": "https://nouns.wtf/",
     "twitter": "https://twitter.com/nounsdao",
     "description": ""
@@ -2180,7 +2180,7 @@
     "name": "SuperVerse",
     "id": "superverse",
     "type": "misc",
-    "icon": "https://static.arkhamintelligence.com/entities/superverse.png",
+    "icon": "icons/superverse.png",
     "website": "https://superverse.cool",
     "twitter": "http://www.x.com/SuperVerse",
     "description": ""
@@ -2190,7 +2190,7 @@
     "name": "Veda",
     "id": "veda",
     "type": "yield",
-    "icon": "https://static.arkhamintelligence.com/entities/veda.png",
+    "icon": "icons/veda.png",
     "website": "https://veda.tech",
     "twitter": "https://x.com/veda_labs",
     "description": ""
@@ -2200,7 +2200,7 @@
     "name": "Velora (Prev. ParaSwap)",
     "id": "paraswap",
     "type": "dex-aggregator",
-    "icon": "https://static.arkhamintelligence.com/entities/paraswap.png",
+    "icon": "icons/paraswap.png",
     "website": "https://paraswap.io",
     "twitter": "https://twitter.com/paraswap",
     "description": ""
@@ -2210,7 +2210,7 @@
     "name": "Angle Protocol",
     "id": "angle-protocol",
     "type": "lending-decentralized",
-    "icon": "https://static.arkhamintelligence.com/entities/angle-protocol.png",
+    "icon": "icons/angle-protocol.png",
     "website": "https://angle.money",
     "twitter": "https://twitter.com/AngleProtocol",
     "description": ""
@@ -2220,7 +2220,7 @@
     "name": "Onyx",
     "id": "onyx-protocol",
     "type": "lending-decentralized",
-    "icon": "https://static.arkhamintelligence.com/entities/onyx-protocol.png",
+    "icon": "icons/onyx-protocol.png",
     "website": "https://onyx.org/",
     "twitter": "https://x.com/OnyxDAO",
     "description": ""
@@ -2230,7 +2230,7 @@
     "name": "Chainlink",
     "id": "chainlink",
     "type": "oracle",
-    "icon": "https://static.arkhamintelligence.com/entities/chainlink.png",
+    "icon": "icons/chainlink.png",
     "website": "https://chain.link",
     "twitter": "https://twitter.com/chainlink",
     "description": ""
@@ -2240,7 +2240,7 @@
     "name": "Reserve Protocol",
     "id": "reserve-protocol",
     "type": "stablecoin",
-    "icon": "https://static.arkhamintelligence.com/entities/reserve-protocol.png",
+    "icon": "icons/reserve-protocol.png",
     "website": "https://reserve.org",
     "twitter": "https://twitter.com/reserveprotocol",
     "description": ""
@@ -2250,7 +2250,7 @@
     "name": "Spectral",
     "id": "spectral",
     "type": "ai",
-    "icon": "https://static.arkhamintelligence.com/entities/spectral.png",
+    "icon": "icons/spectral.png",
     "website": "https://www.spectrallabs.xyz",
     "twitter": "http://www.x.com/Spectral_Labs",
     "description": ""
@@ -2260,7 +2260,7 @@
     "name": "DeFireX",
     "id": "defirex",
     "type": "misc",
-    "icon": "https://static.arkhamintelligence.com/entities/defirex.png",
+    "icon": "icons/defirex.png",
     "website": "https://defirex.org/",
     "twitter": "https://twitter.com/DeFireXorg",
     "description": ""
@@ -2270,7 +2270,7 @@
     "name": "Veda",
     "id": "veda",
     "type": "yield",
-    "icon": "https://static.arkhamintelligence.com/entities/veda.png",
+    "icon": "icons/veda.png",
     "website": "https://veda.tech",
     "twitter": "https://x.com/veda_labs",
     "description": ""
@@ -2280,7 +2280,7 @@
     "name": "Lombard Finance",
     "id": "lombard-finance",
     "type": "yield",
-    "icon": "https://static.arkhamintelligence.com/entities/lombard-finance.png",
+    "icon": "icons/lombard-finance.png",
     "website": "https://www.lombard.finance",
     "twitter": "https://x.com/Lombard_Finance",
     "description": ""
@@ -2290,7 +2290,7 @@
     "name": "Hyperlane",
     "id": "hyperlane",
     "type": "crosschain-interoperability",
-    "icon": "https://static.arkhamintelligence.com/entities/hyperlane.png",
+    "icon": "icons/hyperlane.png",
     "website": "https://www.hyperlane.xyz",
     "twitter": "http://www.x.com/hyperlane",
     "description": ""
@@ -2300,7 +2300,7 @@
     "name": "Relay.link",
     "id": "relay-link",
     "type": "bridge",
-    "icon": "https://static.arkhamintelligence.com/entities/relay-link.png",
+    "icon": "icons/relay-link.png",
     "website": "https://relay.link/",
     "twitter": "https://x.com/RelayProtocol",
     "description": ""
@@ -2310,7 +2310,7 @@
     "name": "ChainUp Custody",
     "id": "chainup",
     "type": "custodian",
-    "icon": "https://static.arkhamintelligence.com/entities/chainup.png",
+    "icon": "icons/chainup.png",
     "website": "https://www.chainup.com/",
     "twitter": "https://twitter.com/ChainUpOfficial",
     "description": ""
@@ -2320,7 +2320,7 @@
     "name": "Hyperlane",
     "id": "hyperlane",
     "type": "crosschain-interoperability",
-    "icon": "https://static.arkhamintelligence.com/entities/hyperlane.png",
+    "icon": "icons/hyperlane.png",
     "website": "https://www.hyperlane.xyz",
     "twitter": "http://www.x.com/hyperlane",
     "description": ""
@@ -2330,7 +2330,7 @@
     "name": "SuperVerse",
     "id": "superverse",
     "type": "misc",
-    "icon": "https://static.arkhamintelligence.com/entities/superverse.png",
+    "icon": "icons/superverse.png",
     "website": "https://superverse.cool",
     "twitter": "http://www.x.com/SuperVerse",
     "description": ""
@@ -2340,7 +2340,7 @@
     "name": "StakeStone",
     "id": "stakestone",
     "type": "staking",
-    "icon": "https://static.arkhamintelligence.com/entities/stakestone.png",
+    "icon": "icons/stakestone.png",
     "website": "https://stakestone.io",
     "twitter": "https://twitter.com/Stake_stone",
     "description": ""
