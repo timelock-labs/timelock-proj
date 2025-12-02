@@ -54,5 +54,12 @@
     "name": "Linea",
     "description": "",
     "url": "https://www.linea.build/"
+  },
+  {
+    "address":"0x2386DC45AdDed673317eF068992F19421B481F4c",
+    "icon": "/icons/instadapp.png",
+    "name": "Instadapp",
+    "description": "",
+    "url": "https://instadapp.io/"
   }
 ]
