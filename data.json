@@ -68,5 +68,12 @@
     "name": "Caliber",
     "description": "",
     "url": "https://caliber.build/"
+  },
+  {
+    "address":"0x705f82bb431fada1a0f11d7b77b3f0586c545cbc",
+    "icon": "/icons/cove.png",
+    "name": "Cove",
+    "description": "",
+    "url": "https://www.cove.finance/"
   }
 ]
