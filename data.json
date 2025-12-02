@@ -1,7 +1,16 @@
-[{
-    "address":"0x6f3E6272A167e8AcCb32072d08E0957F9c79223d",
-    "icon":"/icons/nouns-dao.png",
-    "name":"Nouns DAO",
-    "description":"",
-    "url":"https://nouns.wtf/"
-}]
+[
+  {
+    "address": "0x6f3E6272A167e8AcCb32072d08E0957F9c79223d",
+    "icon": "/icons/nouns-dao.png",
+    "name": "Nouns DAO",
+    "description": "",
+    "url": "https://nouns.wtf/"
+  },
+  {
+    "address": "0x22276a1bd16bc3052b362c2e0f65aace04ed6f99",
+    "icon": "/icons/matrixdock.png",
+    "name": "MatrixDock",
+    "description": "",
+    "url": "https://matrixdock.com/"
+  }
+]
