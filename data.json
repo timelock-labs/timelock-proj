@@ -61,5 +61,12 @@
     "name": "Instadapp",
     "description": "",
     "url": "https://instadapp.io/"
+  },
+  {
+    "address":"0x38542447c49d24e617fc06113295d7aaa3bec4b6",
+    "icon": "/icons/caliber.png",
+    "name": "Caliber",
+    "description": "",
+    "url": "https://caliber.build/"
   }
 ]
