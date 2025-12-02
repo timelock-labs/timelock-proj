@@ -1790,7 +1790,7 @@
     "name": "M0",
     "id": "mzero",
     "type": "blockchain-infra",
-    "icon": "icons/mzero.png",
+    "icon": "icons/m0-foundation.png",
     "website": "https://www.m0.org",
     "twitter": "http://www.x.com/m0foundation",
     "description": ""
@@ -2340,7 +2340,7 @@
     "name": "StakeStone",
     "id": "stakestone",
     "type": "staking",
-    "icon": "icons/stakestone.png",
+    "icon": "icons/stake-ston.png",
     "website": "https://stakestone.io",
     "twitter": "https://twitter.com/Stake_stone",
     "description": ""
