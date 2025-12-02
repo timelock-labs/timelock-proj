@@ -40,5 +40,12 @@
     "name": "BZX Network",
     "description": "",
     "url": "https://coinmarketcap.com/currencies/bzx-protocol/"
+  },
+  {
+    "address":"0x6d903f6003cca6255d85cca4d3b5e5146dc33925",
+    "icon": "/icons/base.png",
+    "name": "Base",
+    "description": "",
+    "url": "https://www.base.org/"
   }
 ]
