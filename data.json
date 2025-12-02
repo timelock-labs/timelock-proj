@@ -119,10 +119,10 @@
         "url": "https://www.3jane.xyz/"
     },
         {
-        "address": "0x1dccd4628d48a50c1a7adea3848bcc869f08f8c2",
-        "icon": "/icons/3jane.png",
-        "name": "3Jane",
+        "address": "0x7e9c956e3efa81ace71905ff0daef1a71f42cbc5",
+        "icon": "/icons/rarible.png",
+        "name": "Rarible",
         "description": "",
-        "url": "https://www.3jane.xyz/"
+        "url": "https://www.rarible.com/"
     }
 ]
