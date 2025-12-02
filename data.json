@@ -94,10 +94,12 @@
     "description": "",
     "url": "https://www.threshold.network/"
   },{
-    "address":"0x00e72315f630b11034fd081793fca1279b6a3d82",
-    "icon": "/icons/stake-ston.png",
-    "name": "StakeStone",
+    "address":"0x223592a191ecfc7fdc38a9256c3bd96e771539a9",
+    "icon": "/icons/ampleforth.png",
+    "name": "Ampleforth",
     "description": "",
-    "url": "https://stakestone.io/"
+    "url": "https://www.ampleforth.org/"
+  },{
+
   }
 ]
