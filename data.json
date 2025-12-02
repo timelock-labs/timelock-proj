@@ -110,11 +110,12 @@
         "name": "Inverse",
         "description": "",
         "url": "https://www.inverse.finance/"
-    },{
-              "address": "0x1dccd4628d48a50c1a7adea3848bcc869f08f8c2",
+    },
+    {
+        "address": "0x1dccd4628d48a50c1a7adea3848bcc869f08f8c2",
         "icon": "/icons/3jane.png",
         "name": "3Jane",
         "description": "",
-        "url": "https://www.3jane.xyz/"      
+        "url": "https://www.3jane.xyz/"
     }
 ]
