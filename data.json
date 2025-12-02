@@ -19,5 +19,12 @@
     "name": "Ether.fi",
     "description": "",
     "url": "https://ether.fi/"
+  },
+  {
+    "address": "0xa8c5e2e85aaadc47d88bb3c414ba9e853f674f85",
+    "icon": "/icons/euler.png",
+    "name": "Euler",
+    "description": "",
+    "url": "https://www.euler.finance/"
   }
 ]
