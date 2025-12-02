@@ -12,5 +12,12 @@
     "name": "MatrixDock",
     "description": "",
     "url": "https://matrixdock.com/"
+  },
+  {
+    "address": "0xcd425f44758a08baab3c4908f3e3de5776e45d7a",
+    "icon": "/icons/ether-fi.png",
+    "name": "Ether.fi",
+    "description": "",
+    "url": "https://ether.fi/"
   }
 ]
