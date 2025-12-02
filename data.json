@@ -75,12 +75,17 @@
     "name": "Cove",
     "description": "",
     "url": "https://www.cove.finance/"
-  }
-  ,{
+  },{
     "address":"0xe6394fa7d69343908a4ad5cc4ece13beb4348910",
     "icon": "/icons/hats.png",
     "name": "hats",
     "description": "",
     "url": "https://hats.finance/"
+  },{
+    "address":"0x4e4c314e2391a58775be6a15d7a05419ba7d2b6e",
+    "icon": "/icons/ben-dao.png",
+    "name": "BenDao",
+    "description": "",
+    "url": "https://www.bendao.finance/"
   }
 ]
