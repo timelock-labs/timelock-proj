@@ -47,5 +47,12 @@
     "name": "Base",
     "description": "",
     "url": "https://www.base.org/"
+  },
+  {
+    "address":"0xd6b95c960779c72b8c6752119849318e5d550574",
+    "icon": "/icons/linea.png",
+    "name": "Linea",
+    "description": "",
+    "url": "https://www.linea.build/"
   }
 ]
