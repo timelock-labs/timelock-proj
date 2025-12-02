@@ -26,5 +26,12 @@
     "name": "Euler",
     "description": "",
     "url": "https://www.euler.finance/"
+  },
+  {
+    "address":"0x23ca665c8a73292fc7ac2cc4493d2ce883bba468",
+    "icon": "/icons/ether-fi.png",
+    "name": "M0 Foundation",
+    "description": "",
+    "url": "https://www.m0.org/"
   }
 ]
