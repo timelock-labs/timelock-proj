@@ -100,6 +100,10 @@
     "description": "",
     "url": "https://www.ampleforth.org/"
   },{
-
+    "address":"0x926df14a23be491164dcf93f4c468a50ef659d5b",
+    "icon": "/icons/inverse-finance.png",
+    "name": "Inverse",
+    "description": "",
+    "url": "https://www.inverse.finance/"
   }
 ]
