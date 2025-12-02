@@ -1444,5 +1444,905 @@
     "website": "https://alongside.xyz",
     "twitter": "https://twitter.com/alongsidefi",
     "description": ""
+  },[
+  {
+    "address": "0x48753ac7bb8d990ad44f32F71f2360240B8025aa",
+    "name": "Hyperlane",
+    "id": "hyperlane",
+    "type": "crosschain-interoperability",
+    "icon": "https://static.arkhamintelligence.com/entities/hyperlane.png",
+    "website": "https://www.hyperlane.xyz",
+    "twitter": "http://www.x.com/hyperlane",
+    "description": ""
+  },
+  {
+    "address": "0x47253C6AD6ec68DeD8Fc91503A354c792Bb0932f",
+    "name": "Bend DAO",
+    "id": "bend-dao",
+    "type": "lending-decentralized",
+    "icon": "https://static.arkhamintelligence.com/entities/bend-dao.png",
+    "website": "https://www.benddao.xyz",
+    "twitter": "https://twitter.com/BendDAO",
+    "description": ""
+  },
+  {
+    "address": "0x469f45d05F8C3B3cE40d1640ffE66b795B1d2d22",
+    "name": "Hyperlane",
+    "id": "hyperlane",
+    "type": "crosschain-interoperability",
+    "icon": "https://static.arkhamintelligence.com/entities/hyperlane.png",
+    "website": "https://www.hyperlane.xyz",
+    "twitter": "http://www.x.com/hyperlane",
+    "description": ""
+  },
+  {
+    "address": "0x44835bBBA9D40DEDa9b64858095EcFB2693c9449",
+    "name": "Chainlink",
+    "id": "chainlink",
+    "type": "oracle",
+    "icon": "https://static.arkhamintelligence.com/entities/chainlink.png",
+    "website": "https://chain.link",
+    "twitter": "https://twitter.com/chainlink",
+    "description": ""
+  },
+  {
+    "address": "0x4419326b1F38aac37635be19e377014869CD78fC",
+    "name": "Veda",
+    "id": "veda",
+    "type": "yield",
+    "icon": "https://static.arkhamintelligence.com/entities/veda.png",
+    "website": "https://veda.tech",
+    "twitter": "https://x.com/veda_labs",
+    "description": ""
+  },
+  {
+    "address": "0x43c958AFFe41D44F0a02aE177b591E93c86AdbEa",
+    "name": "Maha DAO",
+    "id": "maha-dao",
+    "type": "yield",
+    "icon": "https://static.arkhamintelligence.com/entities/maha-dao.png",
+    "website": "https://mahadao.com/",
+    "twitter": "https://twitter.com/TheMahaDAO",
+    "description": ""
+  },
+  {
+    "address": "0x42cd8312D2BCe04277dD5161832460e95b24262E",
+    "name": "PoolTogether",
+    "id": "pooltogether",
+    "type": "yield",
+    "icon": "https://static.arkhamintelligence.com/entities/pooltogether.png",
+    "website": "https://pooltogether.com",
+    "twitter": "https://twitter.com/PoolTogether_",
+    "description": ""
+  },
+  {
+    "address": "0x417e1bCF39742534ae65988E4Eb3eAC1A243cBC0",
+    "name": "Aethir",
+    "id": "aethir",
+    "type": "blockchain-infra",
+    "icon": "https://static.arkhamintelligence.com/entities/aethir.png",
+    "website": "https://aethir.com",
+    "twitter": "https://x.com/AethirCloud",
+    "description": ""
+  },
+  {
+    "address": "0x41114A13230625A2735FaA7183e528Ed2538cB7b",
+    "name": "Ambient Finance (CrocSwap)",
+    "id": "ambient-finance",
+    "type": "dex",
+    "icon": "https://static.arkhamintelligence.com/entities/ambient-finance.png",
+    "website": "https://ambient.finance/",
+    "twitter": "https://twitter.com/ambient_finance",
+    "description": ""
+  },
+  {
+    "address": "0x40A2610092D485315715F416aC81d7Dc245be0e3",
+    "name": "Kudoe",
+    "id": "kudoe",
+    "type": "misc",
+    "icon": "https://static.arkhamintelligence.com/entities/kudoe.png",
+    "website": "https://kudoe.io",
+    "twitter": "https://twitter.com/KudoeOfficial",
+    "description": ""
+  },
+  {
+    "address": "0x3f9041350B661c74C6CbE440c8Bd6BC4C168a9fd",
+    "name": "Scroll",
+    "id": "scroll",
+    "type": "smart-contract-platform",
+    "icon": "https://static.arkhamintelligence.com/entities/scroll.png",
+    "website": "https://scroll.io",
+    "twitter": "https://twitter.com/Scroll_ZKP",
+    "description": ""
+  },
+  {
+    "address": "0x3C1fF68f5aa342D296d4DEe4Bb1cACCA912D95fE",
+    "name": "Autonolas",
+    "id": "autonolas",
+    "type": "misc",
+    "icon": "https://static.arkhamintelligence.com/entities/autonolas.png",
+    "website": "https://olas.network/",
+    "twitter": "https://twitter.com/autonolas",
+    "description": ""
+  },
+  {
+    "address": "0x3c19F81ED1573fB8c75e7F0a53CDb992d47FF6Dd",
+    "name": "Hyperlane",
+    "id": "hyperlane",
+    "type": "crosschain-interoperability",
+    "icon": "https://static.arkhamintelligence.com/entities/hyperlane.png",
+    "website": "https://www.hyperlane.xyz",
+    "twitter": "http://www.x.com/hyperlane",
+    "description": ""
+  },
+  {
+    "address": "0x3a6b8012d4790988c0fF6c7F045bFc7B35315Ee7",
+    "name": "RabbitX",
+    "id": "rabbitx",
+    "type": "dex",
+    "icon": "https://static.arkhamintelligence.com/entities/rabbitx.png",
+    "website": "https://rabbitx.io/",
+    "twitter": "https://twitter.com/rabbitx_io",
+    "description": ""
+  },
+  {
+    "address": "0x3A3Da19244092371dF1748470a41F7B1D4dAF43e",
+    "name": "Meowl",
+    "id": "meowl",
+    "type": "meme",
+    "icon": "https://static.arkhamintelligence.com/entities/meowl.png",
+    "website": "https://meowl.xyz",
+    "twitter": "https://twitter.com/meowlxyz",
+    "description": ""
+  },
+  {
+    "address": "0x399A14c051De50cFed6a806dA1e6c27D6448Aa60",
+    "name": "SuperVerse",
+    "id": "superverse",
+    "type": "misc",
+    "icon": "https://static.arkhamintelligence.com/entities/superverse.png",
+    "website": "https://superverse.cool",
+    "twitter": "http://www.x.com/SuperVerse",
+    "description": ""
+  },
+  {
+    "address": "0x37c897b38Efd9a08C271BD25B1eC82D6Ad5e6d1e",
+    "name": "Relay.link",
+    "id": "relay-link",
+    "type": "bridge",
+    "icon": "https://static.arkhamintelligence.com/entities/relay-link.png",
+    "website": "https://relay.link/",
+    "twitter": "https://x.com/RelayProtocol",
+    "description": ""
+  },
+  {
+    "address": "0x3715B2154d2FF4C5B027C7a1f734B53F27bc34f1",
+    "name": "Ondo Finance",
+    "id": "ondo-finance",
+    "type": "misc",
+    "icon": "https://static.arkhamintelligence.com/entities/ondo-finance.png",
+    "website": "https://ondo.finance",
+    "twitter": "https://twitter.com/OndoFinance",
+    "description": ""
+  },
+  {
+    "address": "0x36FaA1944C95707D6224368D4B0f0eec9dDC6ce3",
+    "name": "GammaSwap",
+    "id": "gammaswap",
+    "type": "derivatives",
+    "icon": "https://static.arkhamintelligence.com/entities/gammaswap.png",
+    "website": "https://gammaswap.com",
+    "twitter": "https://x.com/gammaswaplabs",
+    "description": ""
+  },
+  {
+    "address": "0x35918cDE7233F2dD33fA41ae3Cb6aE0e42E0e69F",
+    "name": "Origin Protocol",
+    "id": "origin-protocol",
+    "type": "nft-marketplace",
+    "icon": "https://static.arkhamintelligence.com/entities/origin-protocol.png",
+    "website": "https://originprotocol.com",
+    "twitter": "https://twitter.com/OriginProtocol",
+    "description": ""
+  },
+  {
+    "address": "0x32e4F7922b6E42a2CfaB604466a5c7CdC9c7e149",
+    "name": "Reserve Protocol",
+    "id": "reserve-protocol",
+    "type": "stablecoin",
+    "icon": "https://static.arkhamintelligence.com/entities/reserve-protocol.png",
+    "website": "https://reserve.org",
+    "twitter": "https://twitter.com/reserveprotocol",
+    "description": ""
+  },
+  {
+    "address": "0x329239599afB305DA0A2eC69c58F8a6697F9F88d",
+    "name": "Swerve.fi",
+    "id": "swerve-fi",
+    "type": "dex",
+    "icon": "https://static.arkhamintelligence.com/entities/swerve-fi.png",
+    "website": "https://swerve.fi/",
+    "twitter": "https://twitter.com/SwerveFinance",
+    "description": ""
+  },
+  {
+    "address": "0x324eBA6a72610B189c902ae6f80F2695D2a68a00",
+    "name": "ClayStack",
+    "id": "claystack",
+    "type": "liquid-staking",
+    "icon": "https://static.arkhamintelligence.com/entities/claystack.png",
+    "website": "https://claystack.com",
+    "twitter": "https://twitter.com/ClayStack_HQ",
+    "description": ""
+  },
+  {
+    "address": "0x2f0a037FbE917f63E4504B0b07d92cc93C8CF484",
+    "name": "Lybra Finance",
+    "id": "lybra-finance",
+    "type": "misc",
+    "icon": "https://static.arkhamintelligence.com/entities/lybra-finance.png",
+    "website": "https://lybra.finance/",
+    "twitter": "https://twitter.com/LybraFinanceLSD",
+    "description": ""
+  },
+  {
+    "address": "0x2dEe6958272308Ff5AE4831aE038Abd4ac96Be04",
+    "name": "Bao Finance",
+    "id": "bao-finance",
+    "type": "dex",
+    "icon": "https://static.arkhamintelligence.com/entities/bao-finance.png",
+    "website": "https://www.bao.finance/",
+    "twitter": "https://twitter.com/BaoFinance",
+    "description": ""
+  },
+  {
+    "address": "0x2D970A1e0bF345C401717BE3F0367FAEC61f4739",
+    "name": "Reserve Protocol",
+    "id": "reserve-protocol",
+    "type": "stablecoin",
+    "icon": "https://static.arkhamintelligence.com/entities/reserve-protocol.png",
+    "website": "https://reserve.org",
+    "twitter": "https://twitter.com/reserveprotocol",
+    "description": ""
+  },
+  {
+    "address": "0x2c5898da4DF1d45EAb2B7B192a361C3b9EB18d9c",
+    "name": "Ondo Finance",
+    "id": "ondo-finance",
+    "type": "misc",
+    "icon": "https://static.arkhamintelligence.com/entities/ondo-finance.png",
+    "website": "https://ondo.finance",
+    "twitter": "https://twitter.com/OndoFinance",
+    "description": ""
+  },
+  {
+    "address": "0x29DD1E7b2df51F26f39C70cB4c1d8f7c5922E93f",
+    "name": "Primex Finance",
+    "id": "primex-finance",
+    "type": "dex",
+    "icon": "https://static.arkhamintelligence.com/entities/primex-finance.png",
+    "website": "https://primex.finance",
+    "twitter": "https://x.com/primex_official",
+    "description": ""
+  },
+  {
+    "address": "0x290D9544669c9c7a64F6899a0a3b28d563F6ebEe",
+    "name": "Resolve Labs",
+    "id": "resolv-labs",
+    "type": "stablecoin",
+    "icon": "https://static.arkhamintelligence.com/entities/resolv-labs.png",
+    "website": "https://resolv.xyz/",
+    "twitter": "https://x.com/ResolvLabs",
+    "description": ""
+  },
+  {
+    "address": "0x2686Ca30eDB7EC24FbB7cE39B7ef242dCE035945",
+    "name": "Cult DAO",
+    "id": "cult-dao",
+    "type": "yield",
+    "icon": "https://static.arkhamintelligence.com/entities/cult-dao.png",
+    "website": "https://cultdao.io/",
+    "twitter": "https://twitter.com/wearecultdao",
+    "description": ""
+  },
+  {
+    "address": "0x266d1020A84B9E8B0ed320831838152075F8C4cA",
+    "name": "Interest Protocol",
+    "id": "interest-protocol",
+    "type": "yield",
+    "icon": "https://static.arkhamintelligence.com/entities/interest-protocol.png",
+    "website": "https://interestprotocol.io",
+    "twitter": "https://x.com/interestdefi",
+    "description": ""
+  },
+  {
+    "address": "0x2645252e2155c12e2726d0Ccd5fc0d1cCCFE07E6",
+    "name": "OpenLeverage",
+    "id": "openleverage",
+    "type": "dex",
+    "icon": "https://static.arkhamintelligence.com/entities/openleverage.png",
+    "website": "https://openleverage.finance/",
+    "twitter": "https://twitter.com/OpenLeverage",
+    "description": ""
+  },
+  {
+    "address": "0x25a5A3FA61cba5Fd5fb1D75D0AcfEB81370778Eb",
+    "name": "Movement Network",
+    "id": "movement-network",
+    "type": "smart-contract-platform",
+    "icon": "https://static.arkhamintelligence.com/entities/movement-network.png",
+    "website": "https://www.movementnetwork.xyz",
+    "twitter": "https://x.com/movementfdn",
+    "description": ""
+  },
+  {
+    "address": "0x2520C6b2C1FBE1813AB5c7c1018CDa39529e9FF2",
+    "name": "Eigenlayer",
+    "id": "eigenlayer",
+    "type": "misc",
+    "icon": "https://static.arkhamintelligence.com/entities/eigenlayer.png",
+    "website": "https://www.eigenlayer.xyz/",
+    "twitter": "https://twitter.com/eigenlayer",
+    "description": ""
+  },
+  {
+    "address": "0x23CA665c8a73292Fc7AC2cC4493d2cE883BBA468",
+    "name": "M0",
+    "id": "mzero",
+    "type": "blockchain-infra",
+    "icon": "https://static.arkhamintelligence.com/entities/mzero.png",
+    "website": "https://www.m0.org",
+    "twitter": "http://www.x.com/m0foundation",
+    "description": ""
+  },
+  {
+    "address": "0x2386DC45AdDed673317eF068992F19421B481F4c",
+    "name": "Instadapp",
+    "id": "instadapp",
+    "type": "misc",
+    "icon": "https://static.arkhamintelligence.com/entities/instadapp.png",
+    "website": "https://instadapp.io",
+    "twitter": "https://twitter.com/Instadapp",
+    "description": ""
+  },
+  {
+    "address": "0x22BbAea402d7FBabbee69570fe7d4dD0c6dDe83c",
+    "name": "Aster (Prev. Astherus)",
+    "id": "astherus",
+    "type": "derivatives",
+    "icon": "https://static.arkhamintelligence.com/entities/astherus.png",
+    "website": "https://www.asterdex.com",
+    "twitter": "https://x.com/Aster_DEX",
+    "description": ""
+  },
+  {
+    "address": "0x22605A12cB77Fe420B0cC1263cEb58a77352FDc1",
+    "name": "Kroma Network",
+    "id": "kroma-network",
+    "type": "smart-contract-platform",
+    "icon": "https://static.arkhamintelligence.com/entities/kroma-network.png",
+    "website": "https://kroma.network",
+    "twitter": "https://twitter.com/kroma_network",
+    "description": ""
+  },
+  {
+    "address": "0x223592a191ECfC7FDC38a9256c3BD96E771539A9",
+    "name": "Ampleforth",
+    "id": "ampleforth",
+    "type": "stablecoin",
+    "icon": "https://static.arkhamintelligence.com/entities/ampleforth.png",
+    "website": "https://ampleforth.org",
+    "twitter": "https://twitter.com/AmpleforthOrg",
+    "description": ""
+  },
+  {
+    "address": "0x22276A1BD16bc3052b362C2e0f65aacE04ed6F99",
+    "name": "Matrixdock",
+    "id": "matrixdock",
+    "type": "real-world-assets",
+    "icon": "https://static.arkhamintelligence.com/entities/matrixdock.png",
+    "website": "https://www.matrixdock.com/",
+    "twitter": "https://twitter.com/matrixdock",
+    "description": ""
+  },
+  {
+    "address": "0x2225DAbFfC7F862c99477381E971E8B1FDaB467e",
+    "name": "Treehouse",
+    "id": "treehouse-finance",
+    "type": "yield",
+    "icon": "https://static.arkhamintelligence.com/entities/treehouse-finance.png",
+    "website": "https://www.treehouse.finance",
+    "twitter": "https://x.com/TreehouseFi",
+    "description": ""
+  },
+  {
+    "address": "0x21E0803103d3cf8Ab0755a02e9e4F55a5590E07F",
+    "name": "SkateFi (Prev. Range Protocol)",
+    "id": "range-protocol",
+    "type": "misc",
+    "icon": "https://static.arkhamintelligence.com/entities/range-protocol.png",
+    "website": "https://www.skatefi.org",
+    "twitter": "https://x.com/skate_fi",
+    "description": ""
+  },
+  {
+    "address": "0x20f9b64877eB0C1F180eb80321ee4f373842C714",
+    "name": "Stryke (Prev. Dopex)",
+    "id": "dopex",
+    "type": "derivatives",
+    "icon": "https://static.arkhamintelligence.com/entities/dopex.png",
+    "website": "https://www.dopex.io",
+    "twitter": "http://www.x.com/stryke_xyz",
+    "description": ""
+  },
+  {
+    "address": "0x20F4E8cBf7C0062464E1496164B6847112ec41BF",
+    "name": "Aster (Prev. Astherus)",
+    "id": "astherus",
+    "type": "derivatives",
+    "icon": "https://static.arkhamintelligence.com/entities/astherus.png",
+    "website": "https://www.asterdex.com",
+    "twitter": "https://x.com/Aster_DEX",
+    "description": ""
+  },
+  {
+    "address": "0x20Ea6f63de406040E1e4B67aD98E84A0Eb3778Be",
+    "name": "Stader Labs",
+    "id": "stader-labs",
+    "type": "liquid-staking",
+    "icon": "https://static.arkhamintelligence.com/entities/stader-labs.png",
+    "website": "https://staderlabs.com/",
+    "twitter": "https://twitter.com/staderlabs",
+    "description": ""
+  },
+  {
+    "address": "0x1FF7652E80ab0Ee42Ba6fAD132a1e8A334384F4c",
+    "name": "Han e-Platform",
+    "id": "hanep",
+    "type": "misc",
+    "icon": "https://static.arkhamintelligence.com/entities/hanep.png",
+    "website": "https://hanep.io",
+    "twitter": "https://x.com/HANeP_official",
+    "description": ""
+  },
+  {
+    "address": "0x1F52658486f0c0ff080efc87A2F2eb572276654D",
+    "name": "Veda",
+    "id": "veda",
+    "type": "yield",
+    "icon": "https://static.arkhamintelligence.com/entities/veda.png",
+    "website": "https://veda.tech",
+    "twitter": "https://x.com/veda_labs",
+    "description": ""
+  },
+  {
+    "address": "0x1Ed47efb9252E6FE586C8bda9af7bc67e97D4f2D",
+    "name": "Relay.link",
+    "id": "relay-link",
+    "type": "bridge",
+    "icon": "https://static.arkhamintelligence.com/entities/relay-link.png",
+    "website": "https://relay.link/",
+    "twitter": "https://x.com/RelayProtocol",
+    "description": ""
+  },
+  {
+    "address": "0x1c9270ac5C42E51611d7b97b1004313D52c80293",
+    "name": "Beefy Finance",
+    "id": "beefy-finance",
+    "type": "yield",
+    "icon": "https://static.arkhamintelligence.com/entities/beefy-finance.png",
+    "website": "https://beefy.finance/",
+    "twitter": "https://twitter.com/beefyfinance",
+    "description": ""
+  },
+  {
+    "address": "0x1b8C367aE56656b1D0901b2ADd1AD3226fF74f5a",
+    "name": "Euler Finance",
+    "id": "euler",
+    "type": "lending-decentralized",
+    "icon": "https://static.arkhamintelligence.com/entities/euler.png",
+    "website": "https://www.euler.finance/",
+    "twitter": "https://twitter.com/eulerfinance",
+    "description": ""
+  },
+  {
+    "address": "0x1a9C8182C09F50C8318d769245beA52c32BE35BC",
+    "name": "Uniswap",
+    "id": "uniswap",
+    "type": "dex",
+    "icon": "https://static.arkhamintelligence.com/entities/uniswap.png",
+    "website": "https://uniswap.org",
+    "twitter": "https://twitter.com/Uniswap",
+    "description": ""
+  },
+  {
+    "address": "0x1A658B88fD0a3c82fa1a0609fCDbD32e7dd4aB9C",
+    "name": "Scroll",
+    "id": "scroll",
+    "type": "smart-contract-platform",
+    "icon": "https://static.arkhamintelligence.com/entities/scroll.png",
+    "website": "https://scroll.io",
+    "twitter": "https://twitter.com/Scroll_ZKP",
+    "description": ""
+  },
+  {
+    "address": "0x198147E0A57F009E337EA3F0E5FE9bbCa3ED1975",
+    "name": "The Granary",
+    "id": "granary-finance",
+    "type": "lending-decentralized",
+    "icon": "https://static.arkhamintelligence.com/entities/granary-finance.png",
+    "website": "https://granary.finance",
+    "twitter": "https://twitter.com/GranaryFinance",
+    "description": ""
+  },
+  {
+    "address": "0x1854B5e23096740DF9C89804f1b5A4E52cf34169",
+    "name": "YieldNest",
+    "id": "yieldnest",
+    "type": "yield",
+    "icon": "https://static.arkhamintelligence.com/entities/yieldnest.png",
+    "website": "https://www.yieldnest.finance",
+    "twitter": "http://www.x.com/YieldNestFi",
+    "description": ""
+  },
+  {
+    "address": "0x15ee4F9ec8E667bB89388363c641368759f639D3",
+    "name": "Dypius (Defi Yield Protocol)",
+    "id": "defi-yield-protocol",
+    "type": "yield",
+    "icon": "https://static.arkhamintelligence.com/entities/defi-yield-protocol.png",
+    "website": "https://www.dypius.com",
+    "twitter": "https://x.com/dypius",
+    "description": ""
+  },
+  {
+    "address": "0x155Dc3D5395687A14433D2A5019d970cEd31b195",
+    "name": "Mantle",
+    "id": "mantle",
+    "type": "smart-contract-platform",
+    "icon": "https://static.arkhamintelligence.com/entities/mantle.png",
+    "website": "https://www.mantle.xyz",
+    "twitter": "https://twitter.com/0xMantle",
+    "description": ""
+  },
+  {
+    "address": "0x1417fA839F4D03E59DBDA9e60165a752D41b2045",
+    "name": "Unslashed Finance",
+    "id": "unslashed-finance",
+    "type": "misc",
+    "icon": "https://static.arkhamintelligence.com/entities/unslashed-finance.png",
+    "website": "https://unslashed.finance/",
+    "twitter": "https://twitter.com/UnslashedF",
+    "description": ""
+  },
+  {
+    "address": "0x13b7A79e050ef2C3fDc858EFD5c066c3655be841",
+    "name": "Perennial Finance",
+    "id": "perennial-finance",
+    "type": "misc",
+    "icon": "https://static.arkhamintelligence.com/entities/perennial-finance.png",
+    "website": "https://perennial.finance",
+    "twitter": "https://twitter.com/perenniallabs",
+    "description": ""
+  },
+  {
+    "address": "0x139B3aa747941fB88C30104E59beE5B813ff7Acc",
+    "name": "Hyperlane",
+    "id": "hyperlane",
+    "type": "crosschain-interoperability",
+    "icon": "https://static.arkhamintelligence.com/entities/hyperlane.png",
+    "website": "https://www.hyperlane.xyz",
+    "twitter": "http://www.x.com/hyperlane",
+    "description": ""
+  },
+  {
+    "address": "0x12e4F043c6464984A45173E0444105058b6C3c7B",
+    "name": "Reserve Protocol",
+    "id": "reserve-protocol",
+    "type": "stablecoin",
+    "icon": "https://static.arkhamintelligence.com/entities/reserve-protocol.png",
+    "website": "https://reserve.org",
+    "twitter": "https://twitter.com/reserveprotocol",
+    "description": ""
+  },
+  {
+    "address": "0x12DeD18937cecdDDa386532B5aA2d1561617Fa27",
+    "name": "Veda",
+    "id": "veda",
+    "type": "yield",
+    "icon": "https://static.arkhamintelligence.com/entities/veda.png",
+    "website": "https://veda.tech",
+    "twitter": "https://x.com/veda_labs",
+    "description": ""
+  },
+  {
+    "address": "0x11F412403fB8F5cC7d1947763a2D86543103a601",
+    "name": "Manifold",
+    "id": "manifold",
+    "type": "nft",
+    "icon": "https://static.arkhamintelligence.com/entities/manifold.png",
+    "website": "https://manifold.xyz/",
+    "twitter": "https://twitter.com/manifoldxyz",
+    "description": ""
+  },
+  {
+    "address": "0x1112D5C55670Cb5144BF36114C20a122908068B9",
+    "name": "Stader Labs",
+    "id": "stader-labs",
+    "type": "liquid-staking",
+    "icon": "https://static.arkhamintelligence.com/entities/stader-labs.png",
+    "website": "https://staderlabs.com/",
+    "twitter": "https://twitter.com/staderlabs",
+    "description": ""
+  },
+  {
+    "address": "0x0F2c66475EC9cef9C6B369CD8ecb04aAf4Db3329",
+    "name": "Ether.fi",
+    "id": "ether-fi",
+    "type": "misc",
+    "icon": "https://static.arkhamintelligence.com/entities/ether-fi.png",
+    "website": "https://ether.fi/",
+    "twitter": "https://twitter.com/ether_fi",
+    "description": ""
+  },
+  {
+    "address": "0x0eB8F11Ec17C160B0d51586B0e420fAfF07b6f47",
+    "name": "Matrixdock",
+    "id": "matrixdock",
+    "type": "real-world-assets",
+    "icon": "https://static.arkhamintelligence.com/entities/matrixdock.png",
+    "website": "https://www.matrixdock.com/",
+    "twitter": "https://twitter.com/matrixdock",
+    "description": ""
+  },
+  {
+    "address": "0x0e58939204eEDa84F796FBc86840A50af10eC4F4",
+    "name": "Scroll",
+    "id": "scroll",
+    "type": "smart-contract-platform",
+    "icon": "https://static.arkhamintelligence.com/entities/scroll.png",
+    "website": "https://scroll.io",
+    "twitter": "https://twitter.com/Scroll_ZKP",
+    "description": ""
+  },
+  {
+    "address": "0x0e04E8127cF11dB51d4c8841F71833aF1231ebcC",
+    "name": "NestedFi",
+    "id": "nested",
+    "type": "misc",
+    "icon": "https://static.arkhamintelligence.com/entities/nested.png",
+    "website": "https://nested.fi",
+    "twitter": "https://twitter.com/nestedfi",
+    "description": ""
+  },
+  {
+    "address": "0x0DfA007C74E6bEae02c5bA9E0e900c9A0422456d",
+    "name": "Reserve Protocol",
+    "id": "reserve-protocol",
+    "type": "stablecoin",
+    "icon": "https://static.arkhamintelligence.com/entities/reserve-protocol.png",
+    "website": "https://reserve.org",
+    "twitter": "https://twitter.com/reserveprotocol",
+    "description": ""
+  },
+  {
+    "address": "0x0DCfb77A581bC8fE432E904643a5480Cc183F38D",
+    "name": "0x",
+    "id": "0x",
+    "type": "dex",
+    "icon": "https://static.arkhamintelligence.com/entities/0x.png",
+    "website": "https://0x.org",
+    "twitter": "https://twitter.com/0xProject",
+    "description": ""
+  },
+  {
+    "address": "0x0dB80fB708Be1fC513C935A7BC6D63f912E1098B",
+    "name": "Kroma Network",
+    "id": "kroma-network",
+    "type": "smart-contract-platform",
+    "icon": "https://static.arkhamintelligence.com/entities/kroma-network.png",
+    "website": "https://kroma.network",
+    "twitter": "https://twitter.com/kroma_network",
+    "description": ""
+  },
+  {
+    "address": "0x0CD4c0F24a0A9f3E2Fe80ed385D8AD5a2FfECA44",
+    "name": "Scroll",
+    "id": "scroll",
+    "type": "smart-contract-platform",
+    "icon": "https://static.arkhamintelligence.com/entities/scroll.png",
+    "website": "https://scroll.io",
+    "twitter": "https://twitter.com/Scroll_ZKP",
+    "description": ""
+  },
+  {
+    "address": "0x0CBee811C47C3A5cb4637f1E58d98B0Abbb4c54f",
+    "name": "Cian",
+    "id": "cian",
+    "type": "yield",
+    "icon": "https://static.arkhamintelligence.com/entities/cian.png",
+    "website": "https://cian.app",
+    "twitter": "https://twitter.com/CIAN_protocol",
+    "description": ""
+  },
+  {
+    "address": "0x0BC3807Ec262cB779b38D65b38158acC3bfedE10",
+    "name": "Nouns DAO",
+    "id": "nouns-dao",
+    "type": "dao",
+    "icon": "https://static.arkhamintelligence.com/entities/nouns-dao.png",
+    "website": "https://nouns.wtf/",
+    "twitter": "https://twitter.com/nounsdao",
+    "description": ""
+  },
+  {
+    "address": "0x0afA5DB1438F82BC143Fb6e1f07F0bBd433c0123",
+    "name": "SuperVerse",
+    "id": "superverse",
+    "type": "misc",
+    "icon": "https://static.arkhamintelligence.com/entities/superverse.png",
+    "website": "https://superverse.cool",
+    "twitter": "http://www.x.com/SuperVerse",
+    "description": ""
+  },
+  {
+    "address": "0x0AD030B3ED355Aa1690b0748176129AeFc2C33BD",
+    "name": "Veda",
+    "id": "veda",
+    "type": "yield",
+    "icon": "https://static.arkhamintelligence.com/entities/veda.png",
+    "website": "https://veda.tech",
+    "twitter": "https://x.com/veda_labs",
+    "description": ""
+  },
+  {
+    "address": "0x0A53500007000A02f5c60e60F04fA290507c0005",
+    "name": "Velora (Prev. ParaSwap)",
+    "id": "paraswap",
+    "type": "dex-aggregator",
+    "icon": "https://static.arkhamintelligence.com/entities/paraswap.png",
+    "website": "https://paraswap.io",
+    "twitter": "https://twitter.com/paraswap",
+    "description": ""
+  },
+  {
+    "address": "0x09D81464c7293C774203E46E3C921559c8E9D53f",
+    "name": "Angle Protocol",
+    "id": "angle-protocol",
+    "type": "lending-decentralized",
+    "icon": "https://static.arkhamintelligence.com/entities/angle-protocol.png",
+    "website": "https://angle.money",
+    "twitter": "https://twitter.com/AngleProtocol",
+    "description": ""
+  },
+  {
+    "address": "0x08eDF0F2AF8672029eb445742B3b4072c6158DF3",
+    "name": "Onyx",
+    "id": "onyx-protocol",
+    "type": "lending-decentralized",
+    "icon": "https://static.arkhamintelligence.com/entities/onyx-protocol.png",
+    "website": "https://onyx.org/",
+    "twitter": "https://x.com/OnyxDAO",
+    "description": ""
+  },
+  {
+    "address": "0x08558D8bB5E792839fC6A21367e6590071305115",
+    "name": "Chainlink",
+    "id": "chainlink",
+    "type": "oracle",
+    "icon": "https://static.arkhamintelligence.com/entities/chainlink.png",
+    "website": "https://chain.link",
+    "twitter": "https://twitter.com/chainlink",
+    "description": ""
+  },
+  {
+    "address": "0x0835b0832f5A7a1e6eA55454ED7B01eb36eb6Ba3",
+    "name": "Reserve Protocol",
+    "id": "reserve-protocol",
+    "type": "stablecoin",
+    "icon": "https://static.arkhamintelligence.com/entities/reserve-protocol.png",
+    "website": "https://reserve.org",
+    "twitter": "https://twitter.com/reserveprotocol",
+    "description": ""
+  },
+  {
+    "address": "0x072ff28113eEb3D79D58deB73012d2c0c0b4D0df",
+    "name": "Spectral",
+    "id": "spectral",
+    "type": "ai",
+    "icon": "https://static.arkhamintelligence.com/entities/spectral.png",
+    "website": "https://www.spectrallabs.xyz",
+    "twitter": "http://www.x.com/Spectral_Labs",
+    "description": ""
+  },
+  {
+    "address": "0x068ca64DeF5E2B7050546eCBdA7425999B2Ec5C2",
+    "name": "DeFireX",
+    "id": "defirex",
+    "type": "misc",
+    "icon": "https://static.arkhamintelligence.com/entities/defirex.png",
+    "website": "https://defirex.org/",
+    "twitter": "https://twitter.com/DeFireXorg",
+    "description": ""
+  },
+  {
+    "address": "0x064C10d1A1659Af66A49Afdd4e77e376bFaec6E8",
+    "name": "Veda",
+    "id": "veda",
+    "type": "yield",
+    "icon": "https://static.arkhamintelligence.com/entities/veda.png",
+    "website": "https://veda.tech",
+    "twitter": "https://x.com/veda_labs",
+    "description": ""
+  },
+  {
+    "address": "0x055E84e7FE8955E2781010B866f10Ef6E1E77e59",
+    "name": "Lombard Finance",
+    "id": "lombard-finance",
+    "type": "yield",
+    "icon": "https://static.arkhamintelligence.com/entities/lombard-finance.png",
+    "website": "https://www.lombard.finance",
+    "twitter": "https://x.com/Lombard_Finance",
+    "description": ""
+  },
+  {
+    "address": "0x0528445c44eC5A91DbeA8C447Fb711AD5aF858dE",
+    "name": "Hyperlane",
+    "id": "hyperlane",
+    "type": "crosschain-interoperability",
+    "icon": "https://static.arkhamintelligence.com/entities/hyperlane.png",
+    "website": "https://www.hyperlane.xyz",
+    "twitter": "http://www.x.com/hyperlane",
+    "description": ""
+  },
+  {
+    "address": "0x04719a2c2bF08fE755297035337616662fA8d392",
+    "name": "Relay.link",
+    "id": "relay-link",
+    "type": "bridge",
+    "icon": "https://static.arkhamintelligence.com/entities/relay-link.png",
+    "website": "https://relay.link/",
+    "twitter": "https://x.com/RelayProtocol",
+    "description": ""
+  },
+  {
+    "address": "0x01D0Be6a499F91a4572F78F042D0f7a1FdE1EbcE",
+    "name": "ChainUp Custody",
+    "id": "chainup",
+    "type": "custodian",
+    "icon": "https://static.arkhamintelligence.com/entities/chainup.png",
+    "website": "https://www.chainup.com/",
+    "twitter": "https://twitter.com/ChainUpOfficial",
+    "description": ""
+  },
+  {
+    "address": "0x01a74ea66C1D645ae2Ef6B4fB4A161ff18D76f79",
+    "name": "Hyperlane",
+    "id": "hyperlane",
+    "type": "crosschain-interoperability",
+    "icon": "https://static.arkhamintelligence.com/entities/hyperlane.png",
+    "website": "https://www.hyperlane.xyz",
+    "twitter": "http://www.x.com/hyperlane",
+    "description": ""
+  },
+  {
+    "address": "0x0167Eed0Dd3e644fA06E6de44bF65503B37a7e47",
+    "name": "SuperVerse",
+    "id": "superverse",
+    "type": "misc",
+    "icon": "https://static.arkhamintelligence.com/entities/superverse.png",
+    "website": "https://superverse.cool",
+    "twitter": "http://www.x.com/SuperVerse",
+    "description": ""
+  },
+  {
+    "address": "0x00E72315F630b11034Fd081793fCa1279B6A3d82",
+    "name": "StakeStone",
+    "id": "stakestone",
+    "type": "staking",
+    "icon": "https://static.arkhamintelligence.com/entities/stakestone.png",
+    "website": "https://stakestone.io",
+    "twitter": "https://twitter.com/Stake_stone",
+    "description": ""
   }
 ]
