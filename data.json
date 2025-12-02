@@ -1,128 +1,128 @@
 [
-    {
-        "address": "0xb1a32fc9f9d8b2cf86c068cae13108809547ef71",
-        "icon": "/icons/nouns-dao.png",
-        "name": "Nouns DAO",
-        "description": "",
-        "url": "https://nouns.wtf/"
-    },
-    {
-        "address": "0x22276a1bd16bc3052b362c2e0f65aace04ed6f99",
-        "icon": "/icons/matrixdock.png",
-        "name": "MatrixDock",
-        "description": "",
-        "url": "https://matrixdock.com/"
-    },
-    {
-        "address": "0xcd425f44758a08baab3c4908f3e3de5776e45d7a",
-        "icon": "/icons/ether-fi.png",
-        "name": "Ether.fi",
-        "description": "",
-        "url": "https://ether.fi/"
-    },
-    {
-        "address": "0xa8c5e2e85aaadc47d88bb3c414ba9e853f674f85",
-        "icon": "/icons/euler.png",
-        "name": "Euler",
-        "description": "",
-        "url": "https://www.euler.finance/"
-    },
-    {
-        "address": "0x23ca665c8a73292fc7ac2cc4493d2ce883bba468",
-        "icon": "/icons/m0-foundation.png",
-        "name": "M0 Foundation",
-        "description": "",
-        "url": "https://www.m0.org/"
-    },
-    {
-        "address": "0xfedc4dd5247b93feb41e899a09c44cfabec29cbc",
-        "icon": "/icons/bzx.png",
-        "name": "BZX Network",
-        "description": "",
-        "url": "https://coinmarketcap.com/currencies/bzx-protocol/"
-    },
-    {
-        "address": "0x6d903f6003cca6255d85cca4d3b5e5146dc33925",
-        "icon": "/icons/base.png",
-        "name": "Base",
-        "description": "",
-        "url": "https://www.base.org/"
-    },
-    {
-        "address": "0xd6b95c960779c72b8c6752119849318e5d550574",
-        "icon": "/icons/linea.png",
-        "name": "Linea",
-        "description": "",
-        "url": "https://www.linea.build/"
-    },
-    {
-        "address": "0x2386DC45AdDed673317eF068992F19421B481F4c",
-        "icon": "/icons/instadapp.png",
-        "name": "Instadapp",
-        "description": "",
-        "url": "https://instadapp.io/"
-    },
-    {
-        "address": "0x38542447c49d24e617fc06113295d7aaa3bec4b6",
-        "icon": "/icons/caliber.png",
-        "name": "Caliber",
-        "description": "",
-        "url": "https://caliber.build/"
-    },
-    {
-        "address": "0x705f82bb431fada1a0f11d7b77b3f0586c545cbc",
-        "icon": "/icons/cove.png",
-        "name": "Cove",
-        "description": "",
-        "url": "https://www.cove.finance/"
-    },
-    {
-        "address": "0xe6394fa7d69343908a4ad5cc4ece13beb4348910",
-        "icon": "/icons/hats.png",
-        "name": "hats",
-        "description": "",
-        "url": "https://hats.finance/"
-    },
-    {
-        "address": "0x4e4c314e2391a58775be6a15d7a05419ba7d2b6e",
-        "icon": "/icons/ben-dao.png",
-        "name": "BenDao",
-        "description": "",
-        "url": "https://www.bendao.finance/"
-    },
-    {
-        "address": "0x87f005317692d05baa4193ab0c961c69e175f45f",
-        "icon": "/icons/threshold-network.png",
-        "name": "ThresHold",
-        "description": "",
-        "url": "https://www.threshold.network/"
-    },
-    {
-        "address": "0x223592a191ecfc7fdc38a9256c3bd96e771539a9",
-        "icon": "/icons/ampleforth.png",
-        "name": "Ampleforth",
-        "description": "",
-        "url": "https://www.ampleforth.org/"
-    },
-    {
-        "address": "0x926df14a23be491164dcf93f4c468a50ef659d5b",
-        "icon": "/icons/inverse-finance.png",
-        "name": "Inverse",
-        "description": "",
-        "url": "https://www.inverse.finance/"
-    },
-    {
-        "address": "0x1dccd4628d48a50c1a7adea3848bcc869f08f8c2",
-        "icon": "/icons/3jane.png",
-        "name": "3Jane",
-        "description": "",
-        "url": "https://www.3jane.xyz/"
-    },
-        {
-        "address": "0x7e9c956e3efa81ace71905ff0daef1a71f42cbc5",
-        "icon": "/icons/rarible.png",
-        "name": "Rarible",
-        "description": "",
-        "url": "https://www.rarible.com/"
-    }
+  {
+    "address": "0xb1a32fc9f9d8b2cf86c068cae13108809547ef71",
+    "icon": "/icons/nouns-dao.png",
+    "name": "Nouns DAO",
+    "description": "",
+    "url": "https://nouns.wtf/"
+  },
+  {
+    "address": "0x22276a1bd16bc3052b362c2e0f65aace04ed6f99",
+    "icon": "/icons/matrixdock.png",
+    "name": "MatrixDock",
+    "description": "",
+    "url": "https://matrixdock.com/"
+  },
+  {
+    "address": "0xcd425f44758a08baab3c4908f3e3de5776e45d7a",
+    "icon": "/icons/ether-fi.png",
+    "name": "Ether.fi",
+    "description": "",
+    "url": "https://ether.fi/"
+  },
+  {
+    "address": "0xa8c5e2e85aaadc47d88bb3c414ba9e853f674f85",
+    "icon": "/icons/euler.png",
+    "name": "Euler",
+    "description": "",
+    "url": "https://www.euler.finance/"
+  },
+  {
+    "address": "0x23ca665c8a73292fc7ac2cc4493d2ce883bba468",
+    "icon": "/icons/m0-foundation.png",
+    "name": "M0 Foundation",
+    "description": "",
+    "url": "https://www.m0.org/"
+  },
+  {
+    "address": "0xfedc4dd5247b93feb41e899a09c44cfabec29cbc",
+    "icon": "/icons/bzx.png",
+    "name": "BZX Network",
+    "description": "",
+    "url": "https://coinmarketcap.com/currencies/bzx-protocol/"
+  },
+  {
+    "address": "0x6d903f6003cca6255d85cca4d3b5e5146dc33925",
+    "icon": "/icons/base.png",
+    "name": "Base",
+    "description": "",
+    "url": "https://www.base.org/"
+  },
+  {
+    "address": "0xd6b95c960779c72b8c6752119849318e5d550574",
+    "icon": "/icons/linea.png",
+    "name": "Linea",
+    "description": "",
+    "url": "https://www.linea.build/"
+  },
+  {
+    "address": "0x2386DC45AdDed673317eF068992F19421B481F4c",
+    "icon": "/icons/instadapp.png",
+    "name": "Instadapp",
+    "description": "",
+    "url": "https://instadapp.io/"
+  },
+  {
+    "address": "0x38542447c49d24e617fc06113295d7aaa3bec4b6",
+    "icon": "/icons/caliber.png",
+    "name": "Caliber",
+    "description": "",
+    "url": "https://caliber.build/"
+  },
+  {
+    "address": "0x705f82bb431fada1a0f11d7b77b3f0586c545cbc",
+    "icon": "/icons/cove.png",
+    "name": "Cove",
+    "description": "",
+    "url": "https://www.cove.finance/"
+  },
+  {
+    "address": "0xe6394fa7d69343908a4ad5cc4ece13beb4348910",
+    "icon": "/icons/hats.png",
+    "name": "hats",
+    "description": "",
+    "url": "https://hats.finance/"
+  },
+  {
+    "address": "0x4e4c314e2391a58775be6a15d7a05419ba7d2b6e",
+    "icon": "/icons/ben-dao.png",
+    "name": "BenDao",
+    "description": "",
+    "url": "https://www.bendao.finance/"
+  },
+  {
+    "address": "0x87f005317692d05baa4193ab0c961c69e175f45f",
+    "icon": "/icons/threshold-network.png",
+    "name": "ThresHold",
+    "description": "",
+    "url": "https://www.threshold.network/"
+  },
+  {
+    "address": "0x223592a191ecfc7fdc38a9256c3bd96e771539a9",
+    "icon": "/icons/ampleforth.png",
+    "name": "Ampleforth",
+    "description": "",
+    "url": "https://www.ampleforth.org/"
+  },
+  {
+    "address": "0x926df14a23be491164dcf93f4c468a50ef659d5b",
+    "icon": "/icons/inverse-finance.png",
+    "name": "Inverse",
+    "description": "",
+    "url": "https://www.inverse.finance/"
+  },
+  {
+    "address": "0x1dccd4628d48a50c1a7adea3848bcc869f08f8c2",
+    "icon": "/icons/3jane.png",
+    "name": "3Jane",
+    "description": "",
+    "url": "https://www.3jane.xyz/"
+  },
+  {
+    "address": "0x7e9c956e3efa81ace71905ff0daef1a71f42cbc5",
+    "icon": "/icons/rarible.png",
+    "name": "Rarible",
+    "description": "",
+    "url": "https://www.rarible.com/"
+  }
 ]
