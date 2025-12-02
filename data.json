@@ -87,5 +87,17 @@
     "name": "BenDao",
     "description": "",
     "url": "https://www.bendao.finance/"
+  },{
+        "address":"0x87f005317692d05baa4193ab0c961c69e175f45f",
+    "icon": "/icons/threshold-network.png",
+    "name": "ThresHold",
+    "description": "",
+    "url": "https://www.threshold.network/"
+  },{
+    "address":"0x00e72315f630b11034fd081793fca1279b6a3d82",
+    "icon": "/icons/stake-ston.png",
+    "name": "StakeStone",
+    "description": "",
+    "url": "https://stakestone.io/"
   }
 ]
