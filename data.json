@@ -387,7 +387,7 @@
   },
   {
     "address": "0xd51dbA7a94e1adEa403553A8235C302cEbF41a3c",
-    "name": "Fei Protocol",
+    "name": "Fei",
     "id": "fei-protocol",
     "type": "stablecoin",
     "icon": "/icons/fei-protocol.png",
@@ -437,7 +437,7 @@
   },
   {
     "address": "0xCABcD58CcF2369f3e05992C503c30C38Bf9DF21b",
-    "name": "Reserve Protocol",
+    "name": "Reserve",
     "id": "reserve-protocol",
     "type": "stablecoin",
     "icon": "/icons/reserve-protocol.png",
@@ -537,7 +537,7 @@
   },
   {
     "address": "0xbbB685D609B6a0fbc2f6647De51fCa1F2D02D30e",
-    "name": "Renzo Protocol",
+    "name": "Renzo",
     "id": "renzo-protocol",
     "type": "liquid-staking",
     "icon": "/icons/renzo-protocol.png",
@@ -777,7 +777,7 @@
   },
   {
     "address": "0xa133C9A92Fb8dDB962Af1cbae58b2723A0bdf23b",
-    "name": "Gearbox Protocol",
+    "name": "Gearbox",
     "id": "gearbox-protocol",
     "type": "lending-decentralized",
     "icon": "/icons/gearbox-protocol.png",
@@ -927,7 +927,7 @@
   },
   {
     "address": "0x92024C4bDa9DA602b711B9AbB610d072018eb58b",
-    "name": "Exactly Protocol",
+    "name": "Exactly",
     "id": "exactly-protocol",
     "type": "lending-decentralized",
     "icon": "/icons/exactly-protocol.png",
@@ -1067,7 +1067,7 @@
   },
   {
     "address": "0x81F6e9914136Da1A1d3b1eFd14F7E0761c3d4cc7",
-    "name": "Renzo Protocol",
+    "name": "Renzo",
     "id": "renzo-protocol",
     "type": "liquid-staking",
     "icon": "/icons/renzo-protocol.png",
@@ -1177,7 +1177,7 @@
   },
   {
     "address": "0x72426BA137DEC62657306b12B1E869d43FeC6eC7",
-    "name": "Origin Protocol",
+    "name": "Origin",
     "id": "origin-protocol",
     "type": "nft-marketplace",
     "icon": "/icons/origin-protocol.png",
