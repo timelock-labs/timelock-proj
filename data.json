@@ -125,7 +125,7 @@
     "description": "",
     "website": "https://www.rarible.com/"
   },
-  {
+ {
     "address": "0xFFdf60c0f83be68C906fb5B8c481A719845bb0a0",
     "name": "Primex Finance",
     "id": "primex-finance",
@@ -133,12 +133,6 @@
     "icon": "/icons/primex-finance.png",
     "website": "https://primex.finance",
     "twitter": "https://x.com/primex_official",
-    "description": ""
-  },
-  {
-    "address": "0xffA04a1138F47407aA3e69244D46009aB92f5648",
-    "name": "RBAC",
-    "icon": "/icons/undefined.png",
     "description": ""
   },
   {
@@ -162,12 +156,6 @@
     "description": ""
   },
   {
-    "address": "0xFEf3DE53daE9035e2e8CAf4a9163f991d27FE03A",
-    "name": "Purecash",
-    "icon": "/icons/undefined.png",
-    "description": ""
-  },
-  {
     "address": "0xfedC4dD5247B93feb41e899A09C44cFaBec29Cbc",
     "name": "bZx",
     "id": "bzx",
@@ -175,12 +163,6 @@
     "icon": "/icons/bzx.png",
     "website": "https://bzx.network",
     "twitter": "https://twitter.com/bZxHQ",
-    "description": ""
-  },
-  {
-    "address": "0xfeD30dBc21DDC8eee3123175D1bf000eA6dEFcc5",
-    "name": "RecoveryTreasury (Proxy)",
-    "icon": "/icons/undefined.png",
     "description": ""
   },
   {
@@ -194,12 +176,6 @@
     "description": ""
   },
   {
-    "address": "0xFe0e452478caf9B2007D527Ec5c75d03ddB81d79",
-    "name": "RecoveryTreasury (Proxy)",
-    "icon": "/icons/undefined.png",
-    "description": ""
-  },
-  {
     "address": "0xFD5D54dB16A514951C5DB740B5780C9A75ddf87B",
     "name": "Beefy Finance",
     "id": "beefy-finance",
@@ -210,36 +186,6 @@
     "description": ""
   },
   {
-    "address": "0xfd4B809AD88db6Ca9dbB295A4B9d23bB0093f497",
-    "name": "Solv",
-    "icon": "/icons/undefined.png",
-    "description": ""
-  },
-  {
-    "address": "0xFd4255F16378306CA83E37015Df01a1700DAc296",
-    "name": "HAT",
-    "icon": "/icons/undefined.png",
-    "description": ""
-  },
-  {
-    "address": "0xFCd5197B292f79b4E281a9e4b8A70B405bD13846",
-    "name": "Dram",
-    "icon": "/icons/undefined.png",
-    "description": ""
-  },
-  {
-    "address": "0xFCBE9abB1D642111C8FF6031edDbf1f3D9894DBb",
-    "name": "Phiat",
-    "icon": "/icons/undefined.png",
-    "description": ""
-  },
-  {
-    "address": "0xFc6Ef69F3aA8d6380a55A42BC0c6EeAC12942510",
-    "name": "TransparentUpgradeableProxy",
-    "icon": "/icons/undefined.png",
-    "description": ""
-  },
-  {
     "address": "0xfb034c1C6c7F42171b2d1Cb8486E0f43ED07A968",
     "name": "Euler Finance",
     "id": "euler",
@@ -247,24 +193,6 @@
     "icon": "/icons/euler.png",
     "website": "https://www.euler.finance/",
     "twitter": "https://twitter.com/eulerfinance",
-    "description": ""
-  },
-  {
-    "address": "0xF7A88c5d5154669647a9D152eDC03Bdd820B85E0",
-    "name": "HAT",
-    "icon": "/icons/undefined.png",
-    "description": ""
-  },
-  {
-    "address": "0xf77e0E1A3d081947223F32e4B17a9A9E66Bf1204",
-    "name": "Network (Proxy)",
-    "icon": "/icons/undefined.png",
-    "description": ""
-  },
-  {
-    "address": "0xf72AcD1388E7cC053E657a34ab1848eB01A33bFe",
-    "name": "RBAC",
-    "icon": "/icons/undefined.png",
     "description": ""
   },
   {
@@ -308,12 +236,6 @@
     "description": ""
   },
   {
-    "address": "0xf2F94Eaab0D67c9EFA39CFA742FC42101054D5DB",
-    "name": "Dram",
-    "icon": "/icons/undefined.png",
-    "description": ""
-  },
-  {
     "address": "0xf253f83AcA21aAbD2A20553AE0BF7F65C755A07F",
     "name": "Curve.fi",
     "id": "curve-fi",
@@ -321,66 +243,6 @@
     "icon": "/icons/curve-fi.png",
     "website": "https://curve.fi",
     "twitter": "https://twitter.com/CurveFinance",
-    "description": ""
-  },
-  {
-    "address": "0xf02D5A6aDEC0286be3e13886C9C2e782679B6c39",
-    "name": "Network (Proxy)",
-    "icon": "/icons/undefined.png",
-    "description": ""
-  },
-  {
-    "address": "0xF01Ea1DBCdd05d4Fe7dbaE00fa05f5765d1E1281",
-    "name": "RecoveryTreasury (Proxy)",
-    "icon": "/icons/undefined.png",
-    "description": ""
-  },
-  {
-    "address": "0xef92a559B1b10Ccb7136DDFcadBb3c2e579B2b8B",
-    "name": "ERC721",
-    "icon": "/icons/undefined.png",
-    "description": ""
-  },
-  {
-    "address": "0xEf1462451C30Ea7aD8555386226059Fe837CA4EF",
-    "name": "PolygonZkEVM",
-    "icon": "/icons/undefined.png",
-    "description": ""
-  },
-  {
-    "address": "0xEd5A54A23182403e6768EAF6F8fDBfBEBcc30f89",
-    "name": "Monolith",
-    "icon": "/icons/undefined.png",
-    "description": ""
-  },
-  {
-    "address": "0xec607225ABc934bA2c1F887Ae6B5805003a207DF",
-    "name": "PolygonZkEVM",
-    "icon": "/icons/undefined.png",
-    "description": ""
-  },
-  {
-    "address": "0xEC4384f90257a1F43BD82DEEC6Ad1B488ebB6D00",
-    "name": "Utake (UTE)",
-    "icon": "/icons/undefined.png",
-    "description": ""
-  },
-  {
-    "address": "0xEC2224304d655217Ab810e5FeF5F64c76769238C",
-    "name": "SQMGTimeLock",
-    "icon": "/icons/undefined.png",
-    "description": ""
-  },
-  {
-    "address": "0xebe4ED0470109373c0245C10a3D5F4802720C486",
-    "name": "Staking",
-    "icon": "/icons/undefined.png",
-    "description": ""
-  },
-  {
-    "address": "0xeBB155A38FaE625A5D977962E1A22Ad872d95A7c",
-    "name": "Constellation",
-    "icon": "/icons/undefined.png",
     "description": ""
   },
   {
@@ -414,12 +276,6 @@
     "description": ""
   },
   {
-    "address": "0xe8e7138Ce691f408DE5F4327fA2225ED71dB5755",
-    "name": "Purecash",
-    "icon": "/icons/undefined.png",
-    "description": ""
-  },
-  {
     "address": "0xE84f5b1582BA325fDf9cE6B0c1F087ccfC924e54",
     "name": "Curve.fi",
     "id": "curve-fi",
@@ -450,54 +306,6 @@
     "description": ""
   },
   {
-    "address": "0xE6394fa7d69343908A4aD5Cc4EcE13Beb4348910",
-    "name": "HAT",
-    "icon": "/icons/undefined.png",
-    "description": ""
-  },
-  {
-    "address": "0xE5C1B4F78931C3d944bBcd546499a2620d715649",
-    "name": "RecoveryTreasury (Proxy)",
-    "icon": "/icons/undefined.png",
-    "description": ""
-  },
-  {
-    "address": "0xE47A6CE7287eB4C60c52e213c889C76fd1a99669",
-    "name": "NEOPTimeLock",
-    "icon": "/icons/undefined.png",
-    "description": ""
-  },
-  {
-    "address": "0xe4721d62e234cE30E0aaDF6A66D1da6c87522d05",
-    "name": "RecoveryTreasury (Proxy)",
-    "icon": "/icons/undefined.png",
-    "description": ""
-  },
-  {
-    "address": "0xE45692Ccf89ae6CE36D9A8d3BF374384ec43DE69",
-    "name": "Proxy",
-    "icon": "/icons/undefined.png",
-    "description": ""
-  },
-  {
-    "address": "0xE3EEe3e0D2398799C884a47FC40C029C8e241852",
-    "name": "Midas",
-    "icon": "/icons/undefined.png",
-    "description": ""
-  },
-  {
-    "address": "0xe2eF26C4612B3e425B11b6CEb6D602aA8D24Ada4",
-    "name": "NounsDAOExecutor",
-    "icon": "/icons/undefined.png",
-    "description": ""
-  },
-  {
-    "address": "0xe2Ee4e8b2f7347f4012021C84705299F8a92eeAF",
-    "name": "Lott_Link_",
-    "icon": "/icons/undefined.png",
-    "description": ""
-  },
-  {
     "address": "0xe2A63438747D2c71E14BdC2Cc222be89B1C11D03",
     "name": "Equilibria Finance",
     "id": "equilibria-finance",
@@ -505,12 +313,6 @@
     "icon": "/icons/equilibria-finance.png",
     "website": "https://equilibria.fi",
     "twitter": "https://twitter.com/Equilibriafi",
-    "description": ""
-  },
-  {
-    "address": "0xE284813D35d8A3671590B7169a787f8004A888A6",
-    "name": "CollateralManager",
-    "icon": "/icons/undefined.png",
     "description": ""
   },
   {
@@ -524,42 +326,6 @@
     "description": ""
   },
   {
-    "address": "0xE1A68a0404426d6BBc459794e576640dEE3FC916",
-    "name": "ZivoeTLC",
-    "icon": "/icons/undefined.png",
-    "description": ""
-  },
-  {
-    "address": "0xE150031B1ACE87018afeD752e4b8Be02C8FB4C0E",
-    "name": "ChronicleVAO_Superstate_USTB_",
-    "icon": "/icons/undefined.png",
-    "description": ""
-  },
-  {
-    "address": "0xE1410CE4EAa13eAB2D652839574055fec7C326a0",
-    "name": "ERC721",
-    "icon": "/icons/undefined.png",
-    "description": ""
-  },
-  {
-    "address": "0xE1336Ab07d441fC5c951836d70599e121b187198",
-    "name": "Vault",
-    "icon": "/icons/undefined.png",
-    "description": ""
-  },
-  {
-    "address": "0xE0Ba575BAB16a28aaa9d7662787f856b8B8e354A",
-    "name": "RecoveryTreasury (Proxy)",
-    "icon": "/icons/undefined.png",
-    "description": ""
-  },
-  {
-    "address": "0xdFBD5D742e01DB2734a04e7cB04aCb3EB5B3dD61",
-    "name": "ChronicleVAO_Superstate_USTB_",
-    "icon": "/icons/undefined.png",
-    "description": ""
-  },
-  {
     "address": "0xdf3914Ad8e29509718Ec1efc5037A7F1764380B8",
     "name": "Sturdy Finance",
     "id": "sturdy-finance",
@@ -570,12 +336,6 @@
     "description": ""
   },
   {
-    "address": "0xdE67A93BFBCD4d9f46860d299C2EDBfC95F50278",
-    "name": "TransparentUpgradeableProxy",
-    "icon": "/icons/undefined.png",
-    "description": ""
-  },
-  {
     "address": "0xDE1E704dae0B4051e80DAbB26ab6ad6c12262DA0",
     "name": "Deus Finance",
     "id": "deus-finance",
@@ -583,24 +343,6 @@
     "icon": "/icons/deus-finance.png",
     "website": "https://deus.finance",
     "twitter": "https://twitter.com/DeusDao",
-    "description": ""
-  },
-  {
-    "address": "0xdD8dC53f61D2EEA7Ce38346ab0455ab4a1297cC5",
-    "name": "Dram",
-    "icon": "/icons/undefined.png",
-    "description": ""
-  },
-  {
-    "address": "0xDD85Ff8845Fc7208deF67bA0FD2F9C599Faa72ff",
-    "name": "Wrapped Ether (WWETH)",
-    "icon": "/icons/undefined.png",
-    "description": ""
-  },
-  {
-    "address": "0xDC55b504D121A2B19C77247Bf23B0dAe5F07B705",
-    "name": "NounsDAOExecutor",
-    "icon": "/icons/undefined.png",
     "description": ""
   },
   {
@@ -624,12 +366,6 @@
     "description": ""
   },
   {
-    "address": "0xDBb745A02377DA7affc51bB09A9Fc0cabc896d9f",
-    "name": "PolygonZkEVM",
-    "icon": "/icons/undefined.png",
-    "description": ""
-  },
-  {
     "address": "0xdA9F8373e5129021695F220B84bAe3204bC27Cf6",
     "name": "Magpie",
     "id": "magpie",
@@ -640,30 +376,6 @@
     "description": ""
   },
   {
-    "address": "0xD98EF9FcCD470fB767c3180300338C3cA9163e4a",
-    "name": "TimeLock (Proxy)",
-    "icon": "/icons/undefined.png",
-    "description": ""
-  },
-  {
-    "address": "0xD8E3c7AcB8c9337B5CEeeC2539a81297B9d5AD96",
-    "name": "v",
-    "icon": "/icons/undefined.png",
-    "description": ""
-  },
-  {
-    "address": "0xd7D4F7eB786E5e21e87Be0fCda6665263AeD8cb3",
-    "name": "RBAC",
-    "icon": "/icons/undefined.png",
-    "description": ""
-  },
-  {
-    "address": "0xd7c7423f5Ebb5fb4243F24d1B7Eb172D0056E96b",
-    "name": "GovernanceTimeLock",
-    "icon": "/icons/undefined.png",
-    "description": ""
-  },
-  {
     "address": "0xD6dABBc2b275114a2366555d6C481EF08FDC2556",
     "name": "Pareto (Prev. Idle)",
     "id": "idle-finance",
@@ -671,12 +383,6 @@
     "icon": "/icons/idle-finance.png",
     "website": "https://pareto.credit/",
     "twitter": "https://x.com/paretocredit",
-    "description": ""
-  },
-  {
-    "address": "0xd5f279ff9EB21c6D40C8f345a66f2751C4eeA1fB",
-    "name": "lilnouns.eth",
-    "icon": "/icons/undefined.png",
     "description": ""
   },
   {
@@ -720,36 +426,6 @@
     "description": ""
   },
   {
-    "address": "0xd177000c8f4D69ada2aCDeCa6fEB15ceA9586A07",
-    "name": "Ditto",
-    "icon": "/icons/undefined.png",
-    "description": ""
-  },
-  {
-    "address": "0xCfA0E2641Ce128959EbCDF680073E0C480B98442",
-    "name": "Diment",
-    "icon": "/icons/undefined.png",
-    "description": ""
-  },
-  {
-    "address": "0xcebFA3Cdf71B2775C5B6a3C10057296A43d672b5",
-    "name": "RecoveryTreasury (Proxy)",
-    "icon": "/icons/undefined.png",
-    "description": ""
-  },
-  {
-    "address": "0xcEb215484F6a3Da7aa06CD556395e87635CbB8D0",
-    "name": "RecoveryTreasury (Proxy)",
-    "icon": "/icons/undefined.png",
-    "description": ""
-  },
-  {
-    "address": "0xcea138A2244454ae46C73e2cD22051a57027C2F9",
-    "name": "Mnt",
-    "icon": "/icons/undefined.png",
-    "description": ""
-  },
-  {
     "address": "0xCE8DdA3c60E7D59d74Df844428e43018394Aa5Fc",
     "name": "Veda",
     "id": "veda",
@@ -757,18 +433,6 @@
     "icon": "/icons/veda.png",
     "website": "https://veda.tech",
     "twitter": "https://x.com/veda_labs",
-    "description": ""
-  },
-  {
-    "address": "0xCe30229925b54618B6c88fCC4c71c554ccd9dC9c",
-    "name": "TimeLockYolk",
-    "icon": "/icons/undefined.png",
-    "description": ""
-  },
-  {
-    "address": "0xcD425f44758a08BaAB3C4908f3e3dE5776e45d7a",
-    "name": "EtherFi",
-    "icon": "/icons/undefined.png",
     "description": ""
   },
   {
@@ -782,12 +446,6 @@
     "description": ""
   },
   {
-    "address": "0xcA9055403E441670D728A508a4a9e649E3798C30",
-    "name": "Constellation",
-    "icon": "/icons/undefined.png",
-    "description": ""
-  },
-  {
     "address": "0xCa2DF225ba3c4743E02611EC423FaAC311dEEEd4",
     "name": "Swell Network",
     "id": "swell",
@@ -798,24 +456,6 @@
     "description": ""
   },
   {
-    "address": "0xCA2b3CF3989e70813719ac7703daF4B14f46b377",
-    "name": "Alchemy",
-    "icon": "/icons/undefined.png",
-    "description": ""
-  },
-  {
-    "address": "0xC8b69C6e30bEFE65A959dFb4075F3C0A00814AFD",
-    "name": "NounsDAOExecutor",
-    "icon": "/icons/undefined.png",
-    "description": ""
-  },
-  {
-    "address": "0xC7d8C1ADff691Eef3894aD2175381F3A4AFe5Ec2",
-    "name": "Purecash",
-    "icon": "/icons/undefined.png",
-    "description": ""
-  },
-  {
     "address": "0xC7Cb1dE2721BFC0E0DA1b9D526bCdC54eF1C0eFC",
     "name": "Instadapp",
     "id": "instadapp",
@@ -823,12 +463,6 @@
     "icon": "/icons/instadapp.png",
     "website": "https://instadapp.io",
     "twitter": "https://twitter.com/Instadapp",
-    "description": ""
-  },
-  {
-    "address": "0xc70470Cdc428d6A3966cd25F476F84D898158638",
-    "name": "GenesisTimeLock",
-    "icon": "/icons/undefined.png",
     "description": ""
   },
   {
@@ -852,30 +486,6 @@
     "description": ""
   },
   {
-    "address": "0xC601b90E87525D26b13BeC5Dd397548EC02E1ae6",
-    "name": "PolygonZkEVM",
-    "icon": "/icons/undefined.png",
-    "description": ""
-  },
-  {
-    "address": "0xc5cAB79A195497ec19495a7ffa8E263557c41AAC",
-    "name": "Summer",
-    "icon": "/icons/undefined.png",
-    "description": ""
-  },
-  {
-    "address": "0xC4EeBf4BfDc8DfCD1cB86653212767c8cFffDa43",
-    "name": "Wrapped Ether (LWETH)",
-    "icon": "/icons/undefined.png",
-    "description": ""
-  },
-  {
-    "address": "0xC42D060411646876bd1A1884b6c6dB3001449107",
-    "name": "Diagonal",
-    "icon": "/icons/undefined.png",
-    "description": ""
-  },
-  {
     "address": "0xc37D83D1a5D82984F795bf0f7B31005fF7dd796c",
     "name": "Lybra Finance",
     "id": "lybra-finance",
@@ -883,18 +493,6 @@
     "icon": "/icons/lybra-finance.png",
     "website": "https://lybra.finance/",
     "twitter": "https://twitter.com/LybraFinanceLSD",
-    "description": ""
-  },
-  {
-    "address": "0xC32309a8182Da53B895DEE7839418893D14CC5E2",
-    "name": "DualTrack",
-    "icon": "/icons/undefined.png",
-    "description": ""
-  },
-  {
-    "address": "0xc2bd852ec94c214430eA78dFB3536f96eFf8b901",
-    "name": "Constellation",
-    "icon": "/icons/undefined.png",
     "description": ""
   },
   {
@@ -918,12 +516,6 @@
     "description": ""
   },
   {
-    "address": "0xC09FAF9f792ec79c9D58318857838f7214b1ab87",
-    "name": "RecoveryTreasury (Proxy)",
-    "icon": "/icons/undefined.png",
-    "description": ""
-  },
-  {
     "address": "0xc0939a4Ed0129bc5162F6f693935B3F72a46a90D",
     "name": "Contango",
     "id": "contango",
@@ -944,48 +536,6 @@
     "description": ""
   },
   {
-    "address": "0xBE6A0FDE9C38A2CAef74b28b2D31D128953Cc9a8",
-    "name": "Graveyard",
-    "icon": "/icons/undefined.png",
-    "description": ""
-  },
-  {
-    "address": "0xBDd348ef54d1B956011a39953889C642C513762a",
-    "name": "RecoveryTreasury (Proxy)",
-    "icon": "/icons/undefined.png",
-    "description": ""
-  },
-  {
-    "address": "0xBDB169429691Df28Af62aB1c54D95b07694BEDBD",
-    "name": "ChronicleVAO_Centrifuge_LFT_",
-    "icon": "/icons/undefined.png",
-    "description": ""
-  },
-  {
-    "address": "0xBDa41e99694713fF3AB358D6b9408cbB82D76655",
-    "name": "Qorpo",
-    "icon": "/icons/undefined.png",
-    "description": ""
-  },
-  {
-    "address": "0xbD3Af18e0b7ebB30d49B253Ab00788b92604552C",
-    "name": "HashesDAO",
-    "icon": "/icons/undefined.png",
-    "description": ""
-  },
-  {
-    "address": "0xbC29f7781a26DD3958D0cAF26885C4820d031AE6",
-    "name": "ThreeDaysDelay",
-    "icon": "/icons/undefined.png",
-    "description": ""
-  },
-  {
-    "address": "0xbbeb101cC8EF794CA929E63D76e1704414503D28",
-    "name": "Custom",
-    "icon": "/icons/undefined.png",
-    "description": ""
-  },
-  {
     "address": "0xbbB685D609B6a0fbc2f6647De51fCa1F2D02D30e",
     "name": "Renzo Protocol",
     "id": "renzo-protocol",
@@ -993,12 +543,6 @@
     "icon": "/icons/renzo-protocol.png",
     "website": "https://www.renzoprotocol.com/",
     "twitter": "https://twitter.com/RenzoProtocol",
-    "description": ""
-  },
-  {
-    "address": "0xbbA73a593b889e67d25857A865205975217f00Ca",
-    "name": "RecoveryTreasury (Proxy)",
-    "icon": "/icons/undefined.png",
     "description": ""
   },
   {
@@ -1022,12 +566,6 @@
     "description": ""
   },
   {
-    "address": "0xb72d8F5213b3E52FAf13Aa074b03C4788e78349F",
-    "name": "Governance",
-    "icon": "/icons/undefined.png",
-    "description": ""
-  },
-  {
     "address": "0xB6A1F58C5Df9f13312639cdDDA0D128bf28CDD87",
     "name": "0x",
     "id": "0x",
@@ -1035,12 +573,6 @@
     "icon": "/icons/0x.png",
     "website": "https://0x.org",
     "twitter": "https://twitter.com/0xProject",
-    "description": ""
-  },
-  {
-    "address": "0xB6914FF11eD47B0b7D382515F11d2AAa63eF10eC",
-    "name": "RecoveryTreasury (Proxy)",
-    "icon": "/icons/undefined.png",
     "description": ""
   },
   {
@@ -1061,12 +593,6 @@
     "icon": "/icons/curve-fi.png",
     "website": "https://curve.fi",
     "twitter": "https://twitter.com/CurveFinance",
-    "description": ""
-  },
-  {
-    "address": "0xB45021F5313B93927699aAe6CBe989bccf6B5900",
-    "name": "MAHA",
-    "icon": "/icons/undefined.png",
     "description": ""
   },
   {
@@ -1100,30 +626,6 @@
     "description": ""
   },
   {
-    "address": "0xB2A4da4FB275f6c933059dD04730E9858C559b91",
-    "name": "Thurman",
-    "icon": "/icons/undefined.png",
-    "description": ""
-  },
-  {
-    "address": "0xB2A3CF69C97AFD4dE7882E5fEE120e4efC77B706",
-    "name": "StrataMasterChef",
-    "icon": "/icons/undefined.png",
-    "description": ""
-  },
-  {
-    "address": "0xb27afc7844988948FBd6210AeF4E1362bC2d8E6a",
-    "name": "Protocol",
-    "icon": "/icons/undefined.png",
-    "description": ""
-  },
-  {
-    "address": "0xb264609de2b6293c114206B374BC7802c53BFFE3",
-    "name": "ChronicleVAO_Centrifuge_JTRSY_",
-    "icon": "/icons/undefined.png",
-    "description": ""
-  },
-  {
     "address": "0xb237d234F05AF7A5cC809341170d7412eFe16060",
     "name": "Grap Finance",
     "id": "grap-finance",
@@ -1134,18 +636,6 @@
     "description": ""
   },
   {
-    "address": "0xB1fEF6D6A0C223901780C86b3903Ff450474bc09",
-    "name": "BeansDAOExecutor",
-    "icon": "/icons/undefined.png",
-    "description": ""
-  },
-  {
-    "address": "0xb1a32FC9F9D8b2cf86C068Cae13108809547ef71",
-    "name": "nouns.eth",
-    "icon": "/icons/undefined.png",
-    "description": ""
-  },
-  {
     "address": "0xAf6f9640092cB1236E5DB6E517576355b6C40b7f",
     "name": "Arrakis Finance",
     "id": "arrakis-finance",
@@ -1153,18 +643,6 @@
     "icon": "/icons/arrakis-finance.png",
     "website": "https://www.arrakis.finance",
     "twitter": "https://twitter.com/ArrakisFinance",
-    "description": ""
-  },
-  {
-    "address": "0xaF339E2F162624CEa68EF5c6D4A08b1EbDeB2fE1",
-    "name": "Proxy",
-    "icon": "/icons/undefined.png",
-    "description": ""
-  },
-  {
-    "address": "0xaF1BFd8bF02C5EC169d20faba53BF0fa761bf65f",
-    "name": "NounsDAOExecutor",
-    "icon": "/icons/undefined.png",
     "description": ""
   },
   {
@@ -1198,36 +676,6 @@
     "description": ""
   },
   {
-    "address": "0xaCE9b45002dc79D2a3bd34d1e830A5D26f082eA5",
-    "name": "DrGreen",
-    "icon": "/icons/undefined.png",
-    "description": ""
-  },
-  {
-    "address": "0xACE69d799fbEBD0e417F04addECf2a5C8dea8Bd9",
-    "name": "Mapu",
-    "icon": "/icons/undefined.png",
-    "description": ""
-  },
-  {
-    "address": "0xACd5EfFb39C45541A21fEadDB9198dEe1521eBAe",
-    "name": "Monolith",
-    "icon": "/icons/undefined.png",
-    "description": ""
-  },
-  {
-    "address": "0xAcA6aE1D8Ec94f90598fb29C8A9b7Ad82E5132bb",
-    "name": "PolygonZkEVM",
-    "icon": "/icons/undefined.png",
-    "description": ""
-  },
-  {
-    "address": "0xAba0026afc5c8B605F844F073e48eA0ACb7D22E5",
-    "name": "RecoveryTreasury (Proxy)",
-    "icon": "/icons/undefined.png",
-    "description": ""
-  },
-  {
     "address": "0xAB4fCaE71EC6C583B9D46fA5F94aeCC51c0E9C26",
     "name": "Lybra Finance",
     "id": "lybra-finance",
@@ -1258,24 +706,6 @@
     "description": ""
   },
   {
-    "address": "0xaa236C2b18f1963eaD681051D2dF2CFb7F493dC0",
-    "name": "RBAC",
-    "icon": "/icons/undefined.png",
-    "description": ""
-  },
-  {
-    "address": "0xa9Ea50025fD38f698eD09628EB73021773f2Fc95",
-    "name": "MultiLock",
-    "icon": "/icons/undefined.png",
-    "description": ""
-  },
-  {
-    "address": "0xA905f9f0b525420d4E5214E73d70dfFe8438D8C8",
-    "name": "GovernorCharlie",
-    "icon": "/icons/undefined.png",
-    "description": ""
-  },
-  {
     "address": "0xA85c89C546FeFEf876CDd7d8030914F138593a57",
     "name": "Cian",
     "id": "cian",
@@ -1283,18 +713,6 @@
     "icon": "/icons/cian.png",
     "website": "https://cian.app",
     "twitter": "https://twitter.com/CIAN_protocol",
-    "description": ""
-  },
-  {
-    "address": "0xa7C9A15AFD4fEB20bC2809D99f1334672ba12f5F",
-    "name": "NounsDAOExecutor",
-    "icon": "/icons/undefined.png",
-    "description": ""
-  },
-  {
-    "address": "0xA7b62203E910708bC438cb87F17906A4FEB8a6FE",
-    "name": "PolygonZkEVM",
-    "icon": "/icons/undefined.png",
     "description": ""
   },
   {
@@ -1318,12 +736,6 @@
     "description": ""
   },
   {
-    "address": "0xa6B4BFA0Da2a857e074eB9F108e14012c2c71C7c",
-    "name": "NoDelay",
-    "icon": "/icons/undefined.png",
-    "description": ""
-  },
-  {
     "address": "0xA649f6335828f070dDDd7A8c4F5bef2b6FF7Bd51",
     "name": "Movement Network",
     "id": "movement-network",
@@ -1331,12 +743,6 @@
     "icon": "/icons/movement-network.png",
     "website": "https://www.movementnetwork.xyz",
     "twitter": "https://x.com/movementfdn",
-    "description": ""
-  },
-  {
-    "address": "0xa4be4cDC552891a6702E1aE9645EF445179a4463",
-    "name": "FON (FON)",
-    "icon": "/icons/undefined.png",
     "description": ""
   },
   {
@@ -1350,12 +756,6 @@
     "description": ""
   },
   {
-    "address": "0xa25BdB144c7d0c0Be3b0A35149D77471FF5e94C2",
-    "name": "RAMM",
-    "icon": "/icons/undefined.png",
-    "description": ""
-  },
-  {
     "address": "0xa1F8A6807c402E4A15ef4EBa36528A3FED24E577",
     "name": "Curve.fi",
     "id": "curve-fi",
@@ -1363,12 +763,6 @@
     "icon": "/icons/curve-fi.png",
     "website": "https://curve.fi",
     "twitter": "https://twitter.com/CurveFinance",
-    "description": ""
-  },
-  {
-    "address": "0xa1B74d2280966A89AC7e0F3A8bc5f0867C776d98",
-    "name": "GnarsDAOExecutor",
-    "icon": "/icons/undefined.png",
     "description": ""
   },
   {
@@ -1382,12 +776,6 @@
     "description": ""
   },
   {
-    "address": "0xA1364224955541d39F8e5F6fA741dE03Ba9e676D",
-    "name": "MultiLock",
-    "icon": "/icons/undefined.png",
-    "description": ""
-  },
-  {
     "address": "0xa133C9A92Fb8dDB962Af1cbae58b2723A0bdf23b",
     "name": "Gearbox Protocol",
     "id": "gearbox-protocol",
@@ -1395,63 +783,6 @@
     "icon": "/icons/gearbox-protocol.png",
     "website": "https://gearbox.fi/",
     "twitter": "https://twitter.com/GearboxProtocol",
-    "description": ""
-  },
-  {
-    "address": "0x9fA426294bCC3DDE926b26272200aF8105efa25D",
-    "name": "Karrat",
-    "icon": "/icons/undefined.png",
-    "description": ""
-  },
-  {
-    "address": "0x9F6f9E72F566951E7941EF580375B67c77E5f13a",
-    "name": "Constellation",
-    "icon": "/icons/undefined.png",
-    "description": ""
-  },
-  {
-    "address": "0x9f26d4C958fD811A1F59B01B86Be7dFFc9d20761",
-    "name": "EtherFi",
-    "icon": "/icons/undefined.png",
-    "description": ""
-  },
-  {
-    "address": "0x9e71Cf1b19A99daFae80dC271237432A3E32f515",
-    "name": "RBAC",
-    "icon": "/icons/undefined.png",
-    "description": ""
-  },
-  {
-    "address": "0x9dEd81e0001d711e6d9e185dE644fBC530628061",
-    "name": "OpenSea Pro (Gem)",
-    "id": "gem",
-    "type": "nft-marketplace",
-    "icon": "/icons/gem.png",
-    "twitter": "https://twitter.com/openseapro",
-    "description": ""
-  },
-  {
-    "address": "0x9Ca06254f612d5Aeb977dfCde8105FaE953D9c11",
-    "name": "AugustusGovernance",
-    "icon": "/icons/undefined.png",
-    "description": ""
-  },
-  {
-    "address": "0x9Bf3403870a03386F358BFB7D82781EA1533fFCD",
-    "name": "Ethena",
-    "icon": "/icons/undefined.png",
-    "description": ""
-  },
-  {
-    "address": "0x9bdc4598B6f2BB8744c885A7D8227e3b3Ab9E0f3",
-    "name": "PolygonZkEVM",
-    "icon": "/icons/undefined.png",
-    "description": ""
-  },
-  {
-    "address": "0x9ac31643FF9ee216eFD5d99C0b6E0dA1e175E040",
-    "name": "RecoveryTreasury (Proxy)",
-    "icon": "/icons/undefined.png",
     "description": ""
   },
   {
@@ -1525,12 +856,6 @@
     "description": ""
   },
   {
-    "address": "0x97Eee9C5B9A4b089813365CcF0315C4E9aa6f516",
-    "name": "AggregatedFinance",
-    "icon": "/icons/undefined.png",
-    "description": ""
-  },
-  {
     "address": "0x97A23E208D9de5546C3dfac655cB88288c8d6Aff",
     "name": "Sommelier Finance",
     "id": "sommelier-finance",
@@ -1538,12 +863,6 @@
     "icon": "/icons/sommelier-finance.png",
     "website": "https://sommelier.finance",
     "twitter": "https://twitter.com/sommfinance",
-    "description": ""
-  },
-  {
-    "address": "0x9785833Ee809df5D4aC4AA1C248CD7E2D2BF27E6",
-    "name": "RecoveryTreasury (Proxy)",
-    "icon": "/icons/undefined.png",
     "description": ""
   },
   {
@@ -1584,18 +903,6 @@
     "icon": "/icons/ether-fi.png",
     "website": "https://ether.fi/",
     "twitter": "https://twitter.com/ether_fi",
-    "description": ""
-  },
-  {
-    "address": "0x940f341a3b54e7d0aa7B828e5A7b7a2c3e53D08F",
-    "name": "RecoveryTreasury (Proxy)",
-    "icon": "/icons/undefined.png",
-    "description": ""
-  },
-  {
-    "address": "0x936ea843F34d800b55eBb509a6B07880aeB30416",
-    "name": "Rel",
-    "icon": "/icons/undefined.png",
     "description": ""
   },
   {
@@ -1649,18 +956,6 @@
     "description": ""
   },
   {
-    "address": "0x8Ff368D355Fc17EAEF8Ee2075B113e86CeE55466",
-    "name": "Proxy",
-    "icon": "/icons/undefined.png",
-    "description": ""
-  },
-  {
-    "address": "0x8f3AE32ddD5e20c814d12acdc15Eaf2e225b77d9",
-    "name": "IronBank",
-    "icon": "/icons/undefined.png",
-    "description": ""
-  },
-  {
     "address": "0x8Ee9e244F92fa158147B6114d0A8a53Dee76E97D",
     "name": "Sturdy Finance",
     "id": "sturdy-finance",
@@ -1668,12 +963,6 @@
     "icon": "/icons/sturdy-finance.png",
     "website": "https://sturdy.finance/",
     "twitter": "https://twitter.com/SturdyFinance",
-    "description": ""
-  },
-  {
-    "address": "0x8EbF6F0Ec8e4E179652F445747c1F4426D8B0a8d",
-    "name": "JoseonGov",
-    "icon": "/icons/undefined.png",
     "description": ""
   },
   {
@@ -1697,30 +986,6 @@
     "description": ""
   },
   {
-    "address": "0x8D34969140CC4cDc1d40D3245C21e418f8086EcC",
-    "name": "RecoveryTreasury (Proxy)",
-    "icon": "/icons/undefined.png",
-    "description": ""
-  },
-  {
-    "address": "0x8cFDF9E9f7EA8c0871025318407A6f1Fbc5d5a18",
-    "name": "LootDAOExecutor",
-    "icon": "/icons/undefined.png",
-    "description": ""
-  },
-  {
-    "address": "0x8cb6F695B1Dd2C7BE5d32B7ce010924116E381b8",
-    "name": "MultiLock",
-    "icon": "/icons/undefined.png",
-    "description": ""
-  },
-  {
-    "address": "0x8C75dB6367e6eE1980d1999598bd38cbfD690A2A",
-    "name": "HAT",
-    "icon": "/icons/undefined.png",
-    "description": ""
-  },
-  {
     "address": "0x8b4f1616751117C38a0f84F9A146cca191ea3EC5",
     "name": "YAM.finance",
     "id": "yam-finance",
@@ -1728,12 +993,6 @@
     "icon": "/icons/yam-finance.png",
     "website": "https://yam.finance",
     "twitter": "https://twitter.com/YamFinance",
-    "description": ""
-  },
-  {
-    "address": "0x8B2F3A2b210A33A2B31820715C32456f0dc1989C",
-    "name": "ChronicleVAO_Fission_NAV_",
-    "icon": "/icons/undefined.png",
     "description": ""
   },
   {
@@ -1747,18 +1006,6 @@
     "description": ""
   },
   {
-    "address": "0x8aB756f9A9Eb09A3843Fb2Fb86530e8bdb76aA48",
-    "name": "RecoveryTreasury (Proxy)",
-    "icon": "/icons/undefined.png",
-    "description": ""
-  },
-  {
-    "address": "0x8984eEB3958B34907D59c60524c61Aba2612ED48",
-    "name": "PolygonZkEVM",
-    "icon": "/icons/undefined.png",
-    "description": ""
-  },
-  {
     "address": "0x89308AC8f0Ab4d3E07607D0Bf9fbAc8d5D87352E",
     "name": "Veda",
     "id": "veda",
@@ -1769,18 +1016,6 @@
     "description": ""
   },
   {
-    "address": "0x88E5A15Bf0Dabd903a436c7877dD188ADd6FB283",
-    "name": "PolygonZkEVM",
-    "icon": "/icons/undefined.png",
-    "description": ""
-  },
-  {
-    "address": "0x8818aeb6B0995f36e21CD2698f0B679124487a89",
-    "name": "NounsDAOExecutor",
-    "icon": "/icons/undefined.png",
-    "description": ""
-  },
-  {
     "address": "0x87F005317692D05BAA4193AB0c961c69e175f45f",
     "name": "Threshold Network",
     "id": "threshold-network",
@@ -1788,24 +1023,6 @@
     "icon": "/icons/threshold-network.png",
     "website": "https://threshold.network/",
     "twitter": "https://twitter.com/TheTNetwork",
-    "description": ""
-  },
-  {
-    "address": "0x877e633FBb739B11a141D3707C8797019373519c",
-    "name": "RBAC",
-    "icon": "/icons/undefined.png",
-    "description": ""
-  },
-  {
-    "address": "0x87012fF425b983B61a1a2CB49e784986CCA32943",
-    "name": "Mock",
-    "icon": "/icons/undefined.png",
-    "description": ""
-  },
-  {
-    "address": "0x86A101920e908a76F7DadC90021Dc23a577fA59a",
-    "name": "Diagonal",
-    "icon": "/icons/undefined.png",
     "description": ""
   },
   {
@@ -1839,24 +1056,6 @@
     "description": ""
   },
   {
-    "address": "0x8369Ce02609314572F793ffb1f9ec63ea50E46EA",
-    "name": "Mock",
-    "icon": "/icons/undefined.png",
-    "description": ""
-  },
-  {
-    "address": "0x82Eda0249f9eb33a5f28328Eec4aF38484ACE394",
-    "name": "OpenMoney",
-    "icon": "/icons/undefined.png",
-    "description": ""
-  },
-  {
-    "address": "0x823bD2d0c21eAbD72BBbDeBE0C373bf3b0fc1E3e",
-    "name": "XypherCouncil",
-    "icon": "/icons/undefined.png",
-    "description": ""
-  },
-  {
     "address": "0x821794E69d2831975a11f80E8092c682D5Ec8F83",
     "name": "Frax Finance",
     "id": "frax-finance",
@@ -1887,18 +1086,6 @@
     "description": ""
   },
   {
-    "address": "0x8130e52415493DB75a426b7E644C056B6f8EDc75",
-    "name": "KoansDAOExecutor",
-    "icon": "/icons/undefined.png",
-    "description": ""
-  },
-  {
-    "address": "0x811074e281d86f862dC84e7df80Ed38aA22aa23D",
-    "name": "SweepersGovernanceExecutor",
-    "icon": "/icons/undefined.png",
-    "description": ""
-  },
-  {
     "address": "0x7EDE533c0B9257ae93908cdE5F98d1Cc51DD120E",
     "name": "Veda",
     "id": "veda",
@@ -1906,12 +1093,6 @@
     "icon": "/icons/veda.png",
     "website": "https://veda.tech",
     "twitter": "https://x.com/veda_labs",
-    "description": ""
-  },
-  {
-    "address": "0x7ed9dcC97c33Ec1c38c59D9819E19Deb6CA451C5",
-    "name": "Cicada",
-    "icon": "/icons/undefined.png",
     "description": ""
   },
   {
@@ -1935,42 +1116,6 @@
     "description": ""
   },
   {
-    "address": "0x7E811ed833c031Bfc8257d6E119E88586BF74763",
-    "name": "LotteryController",
-    "icon": "/icons/undefined.png",
-    "description": ""
-  },
-  {
-    "address": "0x7Deee377B91FD419C8ff2257197AE457fe0175aE",
-    "name": "Ethena",
-    "icon": "/icons/undefined.png",
-    "description": ""
-  },
-  {
-    "address": "0x7de3c70a76806b2327e8C212f35ed0F499293Dd9",
-    "name": "Bark",
-    "icon": "/icons/undefined.png",
-    "description": ""
-  },
-  {
-    "address": "0x7d75AB6D8d6294AAa56478b0Eaf3ceB655E25cFC",
-    "name": "NDAOExecutor",
-    "icon": "/icons/undefined.png",
-    "description": ""
-  },
-  {
-    "address": "0x7D2b17aC7B895501ec1d51031932E6da56CFe7D1",
-    "name": "RecoveryTreasury (Proxy)",
-    "icon": "/icons/undefined.png",
-    "description": ""
-  },
-  {
-    "address": "0x7c64787fd189Cd21D882642edc31FEDab6080FE3",
-    "name": "PolygonZkEVM",
-    "icon": "/icons/undefined.png",
-    "description": ""
-  },
-  {
     "address": "0x7c5Ff0C46B76B7E7078C6D311b13B4B688bd377c",
     "name": "Veda",
     "id": "veda",
@@ -1978,18 +1123,6 @@
     "icon": "/icons/veda.png",
     "website": "https://veda.tech",
     "twitter": "https://x.com/veda_labs",
-    "description": ""
-  },
-  {
-    "address": "0x79CdA4F5F712F15261B0944Fb2BC8Ee637700AEA",
-    "name": "Csigma",
-    "icon": "/icons/undefined.png",
-    "description": ""
-  },
-  {
-    "address": "0x796cB8F85e090952Ca6138602d687DAC8c756E69",
-    "name": "ChronicleVAO_Centrifuge_ACRDX_",
-    "icon": "/icons/undefined.png",
     "description": ""
   },
   {
@@ -2003,30 +1136,6 @@
     "description": ""
   },
   {
-    "address": "0x780cF466014Ae9D23ED4Cd1226902bA40Bd80fe3",
-    "name": "TransparentUpgradeableProxy",
-    "icon": "/icons/undefined.png",
-    "description": ""
-  },
-  {
-    "address": "0x7777720711f49d04191957e36e14B8D306a5902d",
-    "name": "NTZCToken (NTZC)",
-    "icon": "/icons/undefined.png",
-    "description": ""
-  },
-  {
-    "address": "0x774493ed9cD378a345706983599Af2cE805D425b",
-    "name": "PolygonZkEVM",
-    "icon": "/icons/undefined.png",
-    "description": ""
-  },
-  {
-    "address": "0x769f653c1CD9f2abcBACBfeAaE5C9D8Dc2033Fef",
-    "name": "Network (Proxy)",
-    "icon": "/icons/undefined.png",
-    "description": ""
-  },
-  {
     "address": "0x752eBeb79963cf0732E9c0fec72a49FD1DEfAEAC",
     "name": "Curve.fi",
     "id": "curve-fi",
@@ -2034,18 +1143,6 @@
     "icon": "/icons/curve-fi.png",
     "website": "https://curve.fi",
     "twitter": "https://twitter.com/CurveFinance",
-    "description": ""
-  },
-  {
-    "address": "0x74B5B0146eD957da2b020FF249E3843F8642a637",
-    "name": "Zip",
-    "icon": "/icons/undefined.png",
-    "description": ""
-  },
-  {
-    "address": "0x749106F6c80C1f58Da263D6eF9C0647f9FDA2e6B",
-    "name": "COA",
-    "icon": "/icons/undefined.png",
     "description": ""
   },
   {
@@ -2079,18 +1176,6 @@
     "description": ""
   },
   {
-    "address": "0x7308f698DE64fB865AfEBFDa37f04113e816b380",
-    "name": "RBAC",
-    "icon": "/icons/undefined.png",
-    "description": ""
-  },
-  {
-    "address": "0x72980c23114A820120cE6fE2ddf9122D8287cE69",
-    "name": "PolygonZkEVM",
-    "icon": "/icons/undefined.png",
-    "description": ""
-  },
-  {
     "address": "0x72426BA137DEC62657306b12B1E869d43FeC6eC7",
     "name": "Origin Protocol",
     "id": "origin-protocol",
@@ -2108,12 +1193,6 @@
     "icon": "/icons/ambient-finance.png",
     "website": "https://ambient.finance/",
     "twitter": "https://twitter.com/ambient_finance",
-    "description": ""
-  },
-  {
-    "address": "0x71BE8303f4DBed83939db7068071864fC430AF67",
-    "name": "YQCDAOExecutor",
-    "icon": "/icons/undefined.png",
     "description": ""
   },
   {
@@ -2177,12 +1256,6 @@
     "description": ""
   },
   {
-    "address": "0x6a7b390ea07dda5d64455D2ADAd3ADbCd23bc538",
-    "name": "RBAC",
-    "icon": "/icons/undefined.png",
-    "description": ""
-  },
-  {
     "address": "0x6A67809ACFc114Aa691c8D60F5963807DC8Fc2e6",
     "name": "SuperVerse",
     "id": "superverse",
@@ -2190,30 +1263,6 @@
     "icon": "/icons/superverse.png",
     "website": "https://superverse.cool",
     "twitter": "http://www.x.com/SuperVerse",
-    "description": ""
-  },
-  {
-    "address": "0x6A4c7cAdA167a0Da8B0323dCC3F0083aC5706817",
-    "name": "NounsDAOExecutorV2 (Proxy)",
-    "icon": "/icons/undefined.png",
-    "description": ""
-  },
-  {
-    "address": "0x6a445a3964510918ac6DF1BbAB2AC9Bfa43163b5",
-    "name": "TimeLockAIEggs",
-    "icon": "/icons/undefined.png",
-    "description": ""
-  },
-  {
-    "address": "0x6a2495F3e01CF52D41625Ba6ff61ca6Da07a8d44",
-    "name": "RBAC",
-    "icon": "/icons/undefined.png",
-    "description": ""
-  },
-  {
-    "address": "0x69d081cBF556FBF1D6710242250455C9a9c9d1a4",
-    "name": "Dram",
-    "icon": "/icons/undefined.png",
     "description": ""
   },
   {
@@ -2227,18 +1276,6 @@
     "description": ""
   },
   {
-    "address": "0x69000d5a9f4Ca229227b90f61285f5866d139F11",
-    "name": "MAHA",
-    "icon": "/icons/undefined.png",
-    "description": ""
-  },
-  {
-    "address": "0x690002dA1F2d828D72Aa89367623dF7A432E85A9",
-    "name": "MAHA",
-    "icon": "/icons/undefined.png",
-    "description": ""
-  },
-  {
     "address": "0x68E0a14EAD593E757EE04d520E71F8263fb34c40",
     "name": "Veda",
     "id": "veda",
@@ -2246,36 +1283,6 @@
     "icon": "/icons/veda.png",
     "website": "https://veda.tech",
     "twitter": "https://x.com/veda_labs",
-    "description": ""
-  },
-  {
-    "address": "0x685531B51128074BC828DbA8f0456Ad2E11f26eD",
-    "name": "ChronicleVAO_Centrifuge_JAAA_",
-    "icon": "/icons/undefined.png",
-    "description": ""
-  },
-  {
-    "address": "0x6658Ff011849b587096Cc68899Db6b5059f6ee03",
-    "name": "Proxy (EIP-1967 Transparent)",
-    "icon": "/icons/undefined.png",
-    "description": ""
-  },
-  {
-    "address": "0x6611ec2a0Ec414A1398b31eeF5Ce323a64ec3494",
-    "name": "ChronicleVAO_Centrifuge_JTRSY_",
-    "icon": "/icons/undefined.png",
-    "description": ""
-  },
-  {
-    "address": "0x65b15e985f7eBbAb726a5AF67F9D5FBc97Ddec44",
-    "name": "NounsDAOExecutor",
-    "icon": "/icons/undefined.png",
-    "description": ""
-  },
-  {
-    "address": "0x650bD9Dee50E3eE15cbb49749ff6ABcf55A8FB1e",
-    "name": "InceptionTimeLock",
-    "icon": "/icons/undefined.png",
     "description": ""
   },
   {
@@ -2299,30 +1306,6 @@
     "description": ""
   },
   {
-    "address": "0x639A14c1c29A7D58447782e28e0ff5C7cBe60948",
-    "name": "Constellation",
-    "icon": "/icons/undefined.png",
-    "description": ""
-  },
-  {
-    "address": "0x6258B5f031EDdBD6F25f2fa24633827FbE84c180",
-    "name": "Dram",
-    "icon": "/icons/undefined.png",
-    "description": ""
-  },
-  {
-    "address": "0x616634E975DBcf4C3BDF25a5e0F8f37C4FfF0FC7",
-    "name": "App",
-    "icon": "/icons/undefined.png",
-    "description": ""
-  },
-  {
-    "address": "0x6159B003fF5a37de6Ca0859f4617e9A0064226d1",
-    "name": "NounsBRDAOExecutor",
-    "icon": "/icons/undefined.png",
-    "description": ""
-  },
-  {
     "address": "0x6000E0D20ea0086C00900700de0ED90dD006Bb30",
     "name": "Velora (Prev. ParaSwap)",
     "id": "paraswap",
@@ -2330,30 +1313,6 @@
     "icon": "/icons/paraswap.png",
     "website": "https://paraswap.io",
     "twitter": "https://twitter.com/paraswap",
-    "description": ""
-  },
-  {
-    "address": "0x5Fe284B1D135a901DF3D9798E70E15E4F0056c99",
-    "name": "Karrat",
-    "icon": "/icons/undefined.png",
-    "description": ""
-  },
-  {
-    "address": "0x5EdDCfE6b829621487a00E3b3d211eF80986dE9A",
-    "name": "OneDayDelay",
-    "icon": "/icons/undefined.png",
-    "description": ""
-  },
-  {
-    "address": "0x5EA35dB9aC1F19f575b80d1566e455cb5ae53f5A",
-    "name": "RecoveryTreasury (Proxy)",
-    "icon": "/icons/undefined.png",
-    "description": ""
-  },
-  {
-    "address": "0x5e56Fae7d8945f59F16F0A80296C2e18dc90645B",
-    "name": "Proxy (EIP-1167 Minimal)",
-    "icon": "/icons/undefined.png",
     "description": ""
   },
   {
@@ -2377,36 +1336,6 @@
     "description": ""
   },
   {
-    "address": "0x5b5AA9d560d36427165386D1F2F3135A4d16B30B",
-    "name": "RBAC",
-    "icon": "/icons/undefined.png",
-    "description": ""
-  },
-  {
-    "address": "0x5b12f04e22384B01f42Ed14Da23eAcd21f14AC17",
-    "name": "IronBank",
-    "icon": "/icons/undefined.png",
-    "description": ""
-  },
-  {
-    "address": "0x5a33C6f76F3234C6cf136ACbb99e96DfF060C38B",
-    "name": "Proxy",
-    "icon": "/icons/undefined.png",
-    "description": ""
-  },
-  {
-    "address": "0x59cf937Ea9FA9D7398223E3aA33d92F7f5f986A2",
-    "name": "Network (Proxy)",
-    "icon": "/icons/undefined.png",
-    "description": ""
-  },
-  {
-    "address": "0x585A2640ceFD85939c79107D23cfb06B44ec525A",
-    "name": "RecoveryTreasury (Proxy)",
-    "icon": "/icons/undefined.png",
-    "description": ""
-  },
-  {
     "address": "0x57Dbf921727818fd2e8a3e97B4958Ab69F6b6815",
     "name": "Axiom.xyz",
     "id": "axiom-xyz",
@@ -2427,18 +1356,6 @@
     "description": ""
   },
   {
-    "address": "0x568D1A8EB95AFC16668614b729Ef0aE8917C0eDd",
-    "name": "NounsDAOExecutor",
-    "icon": "/icons/undefined.png",
-    "description": ""
-  },
-  {
-    "address": "0x55Dd565C6f94B3Bad1f4A35398af4a526Fcd465f",
-    "name": "NounsDAOExecutorV2 (Proxy)",
-    "icon": "/icons/undefined.png",
-    "description": ""
-  },
-  {
     "address": "0x555FFF48549C1A25a723Bd8e7eD10870D82E8379",
     "name": "BIM Finance",
     "id": "bim-finance",
@@ -2446,24 +1363,6 @@
     "icon": "/icons/bim-finance.png",
     "website": "https://bim.finance",
     "twitter": "https://x.com/BIM_Finance",
-    "description": ""
-  },
-  {
-    "address": "0x555c60113410BF6F97185974d155b5434Bb94f4d",
-    "name": "RoyalSenateExecutor (Proxy)",
-    "icon": "/icons/undefined.png",
-    "description": ""
-  },
-  {
-    "address": "0x553826Cb0D0Ee63155920F42b4E60aaE6607DFCB",
-    "name": "NounsDAOExecutor",
-    "icon": "/icons/undefined.png",
-    "description": ""
-  },
-  {
-    "address": "0x5517F3638D84CdbbB5046827Ce3952Bc488479fC",
-    "name": "PolygonZkEVM",
-    "icon": "/icons/undefined.png",
     "description": ""
   },
   {
@@ -2487,66 +1386,6 @@
     "description": ""
   },
   {
-    "address": "0x53A6C3cce79fF0C69383138C6ad1B2954A64E58f",
-    "name": "EnclabsLend",
-    "icon": "/icons/undefined.png",
-    "description": ""
-  },
-  {
-    "address": "0x537Ce04f26AF8b713DFEb56d175112d80C4d7e98",
-    "name": "PolygonZkEVM",
-    "icon": "/icons/undefined.png",
-    "description": ""
-  },
-  {
-    "address": "0x52C5DcF49f10C827E070cee4aDf1D006942eAaB6",
-    "name": "NounsDAOExecutor",
-    "icon": "/icons/undefined.png",
-    "description": ""
-  },
-  {
-    "address": "0x52c263698B5B11AaCAf0f74333DC921B26FFA5b7",
-    "name": "My",
-    "icon": "/icons/undefined.png",
-    "description": ""
-  },
-  {
-    "address": "0x52aF0b92C1a41200c352CB1cC1506C2Bfb0f6021",
-    "name": "Proxy",
-    "icon": "/icons/undefined.png",
-    "description": ""
-  },
-  {
-    "address": "0x528fB7f75384eC26c1a65C088B637F0d1bf35702",
-    "name": "BIGCAP",
-    "icon": "/icons/undefined.png",
-    "description": ""
-  },
-  {
-    "address": "0x52882c7564fAca480549145fAc4d0b09eD0D9c17",
-    "name": "CDKValidium",
-    "icon": "/icons/undefined.png",
-    "description": ""
-  },
-  {
-    "address": "0x51a314CC82ab5Fb7574B60d8EE9F6c9c42E6F9DD",
-    "name": "Dram",
-    "icon": "/icons/undefined.png",
-    "description": ""
-  },
-  {
-    "address": "0x515482b4CC49833B1234ae31fdfFa218BAfB45d5",
-    "name": "Mock",
-    "icon": "/icons/undefined.png",
-    "description": ""
-  },
-  {
-    "address": "0x5109ae4feB1C847A92c8EE794B89706B3f9576b5",
-    "name": "DGKTimeLock",
-    "icon": "/icons/undefined.png",
-    "description": ""
-  },
-  {
     "address": "0x509b82c847f90E9d19297C25965c534ae0562C35",
     "name": "Tranchess",
     "id": "tranchess",
@@ -2557,36 +1396,6 @@
     "description": ""
   },
   {
-    "address": "0x4fFAC630C56E41135a7B1F892d3AF8061DF3620d",
-    "name": "RewardDistributor",
-    "icon": "/icons/undefined.png",
-    "description": ""
-  },
-  {
-    "address": "0x4fCfEb559bD1C34b224E772Cd5daD639DB3794b7",
-    "name": "RecoveryTreasury (Proxy)",
-    "icon": "/icons/undefined.png",
-    "description": ""
-  },
-  {
-    "address": "0x4fBCfaaB73a61251d0A823840c0Ad828C3512eEB",
-    "name": "GovernanceTimeLock",
-    "icon": "/icons/undefined.png",
-    "description": ""
-  },
-  {
-    "address": "0x4fb0f2d166540C4D9970ABED3f22272d51053137",
-    "name": "Constellation",
-    "icon": "/icons/undefined.png",
-    "description": ""
-  },
-  {
-    "address": "0x4F824672c85E4381716cf16880245474ea8Ee94D",
-    "name": "DeriTokenManager",
-    "icon": "/icons/undefined.png",
-    "description": ""
-  },
-  {
     "address": "0x4f4AC7a7032A14243aEbDa98Ee04a5D7Fe293d07",
     "name": "TrueFi",
     "id": "truefi",
@@ -2594,12 +1403,6 @@
     "icon": "/icons/truefi.png",
     "website": "https://truefi.io",
     "twitter": "https://twitter.com/TrueFiDAO",
-    "description": ""
-  },
-  {
-    "address": "0x4f2682b78F37910704fB1AFF29358A1da07E022d",
-    "name": "StrataMasterChef",
-    "icon": "/icons/undefined.png",
     "description": ""
   },
   {
@@ -2623,12 +1426,6 @@
     "description": ""
   },
   {
-    "address": "0x4eBB20995B6264b4b1E25f4473a4636CDB6a9790",
-    "name": "Diva",
-    "icon": "/icons/undefined.png",
-    "description": ""
-  },
-  {
     "address": "0x4dEdfbF50d03586f2D5D1653Ea4a75Fe311592dE",
     "name": "Veda",
     "id": "veda",
@@ -2639,18 +1436,6 @@
     "description": ""
   },
   {
-    "address": "0x4D5fE1B3F6b8f830b3b14c56dc3a938aF1D8abEc",
-    "name": "Constellation",
-    "icon": "/icons/undefined.png",
-    "description": ""
-  },
-  {
-    "address": "0x4D4F73D111e43CF5864D18bc8E186DE8094962B2",
-    "name": "AlpsDAOExecutor",
-    "icon": "/icons/undefined.png",
-    "description": ""
-  },
-  {
     "address": "0x4c362faB50Bc81F0F58ef2DA6b6E10b55FC1d478",
     "name": "Alongside",
     "id": "alongside",
@@ -2658,12 +1443,6 @@
     "icon": "/icons/alongside.png",
     "website": "https://alongside.xyz",
     "twitter": "https://twitter.com/alongsidefi",
-    "description": ""
-  },
-  {
-    "address": "0x49A84600dc343096195FBA50bA2865Be0c73Fc29",
-    "name": "Proxy (EIP-1167 Minimal)",
-    "icon": "/icons/undefined.png",
     "description": ""
   }
 ]
