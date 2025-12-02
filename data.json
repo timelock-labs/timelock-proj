@@ -76,4 +76,11 @@
     "description": "",
     "url": "https://www.cove.finance/"
   }
+  ,{
+    "address":"0xe6394fa7d69343908a4ad5cc4ece13beb4348910",
+    "icon": "/icons/hats.png",
+    "name": "hats",
+    "description": "",
+    "url": "https://hats.finance/"
+  }
 ]
