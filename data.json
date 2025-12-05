@@ -5,7 +5,7 @@
     "name": "Nouns DAO",
     "description": "",
     "website": "https://nouns.wtf/",
-    "chainId":1,
+    "chain_id":1,
     "chain_name":"mannet"
   },
   {
@@ -14,7 +14,7 @@
     "name": "MatrixDock",
     "description": "",
     "website": "https://matrixdock.com/",
-    "chainId":1,
+    "chain_id":1,
     "chain_name":"mannet"
   },
   {
@@ -23,7 +23,7 @@
     "name": "Ether.fi",
     "description": "",
     "website": "https://ether.fi/",
-    "chainId":1,
+    "chain_id":1,
     "chain_name":"mannet"
   },
   {
@@ -32,7 +32,7 @@
     "name": "Euler",
     "description": "",
     "website": "https://www.euler.finance/",
-    "chainId":1,
+    "chain_id":1,
     "chain_name":"mannet"
   },
   {
@@ -41,7 +41,7 @@
     "name": "M0 Foundation",
     "description": "",
     "website": "https://www.m0.org/",
-    "chainId":1,
+    "chain_id":1,
     "chain_name":"mannet"
   },
   {
@@ -50,7 +50,7 @@
     "name": "BZX Network",
     "description": "",
     "website": "https://coinmarketcap.com/currencies/bzx-protocol/",
-    "chainId":1,
+    "chain_id":1,
     "chain_name":"mannet"
   },
   {
@@ -59,7 +59,7 @@
     "name": "Base",
     "description": "",
     "website": "https://www.base.org/",
-    "chainId":1,
+    "chain_id":1,
     "chain_name":"mannet"
   },
   {
@@ -68,7 +68,7 @@
     "name": "Linea",
     "description": "",
     "website": "https://www.linea.build/",
-    "chainId":1,
+    "chain_id":1,
     "chain_name":"mannet"
   },
   {
@@ -77,7 +77,7 @@
     "name": "Instadapp",
     "description": "",
     "website": "https://instadapp.io/",
-    "chainId":1,
+    "chain_id":1,
     "chain_name":"mannet"
   },
   {
@@ -86,7 +86,7 @@
     "name": "Caliber",
     "description": "",
     "website": "https://caliber.build/",
-    "chainId":1,
+    "chain_id":1,
     "chain_name":"mannet"
   },
   {
@@ -95,7 +95,7 @@
     "name": "Cove",
     "description": "",
     "website": "https://www.cove.finance/",
-    "chainId":1,
+    "chain_id":1,
     "chain_name":"mannet"
   },
   {
@@ -104,7 +104,7 @@
     "name": "hats",
     "description": "",
     "website": "https://hats.finance/",
-    "chainId":1,
+    "chain_id":1,
     "chain_name":"mannet"
   },
   {
@@ -113,7 +113,7 @@
     "name": "BenDao",
     "description": "",
     "website": "https://www.bendao.finance/",
-    "chainId":1,
+    "chain_id":1,
     "chain_name":"mannet"
   },
   {
@@ -122,7 +122,7 @@
     "name": "ThresHold",
     "description": "",
     "website": "https://www.threshold.network/",
-    "chainId":1,
+    "chain_id":1,
     "chain_name":"mannet"
   },
   {
@@ -131,7 +131,7 @@
     "name": "Ampleforth",
     "description": "",
     "website": "https://www.ampleforth.org/",
-    "chainId":1,
+    "chain_id":1,
     "chain_name":"mannet"
   },
   {
@@ -140,7 +140,7 @@
     "name": "Inverse",
     "description": "",
     "website": "https://www.inverse.finance/",
-    "chainId":1,
+    "chain_id":1,
     "chain_name":"mannet"
   },
   {
@@ -149,7 +149,7 @@
     "name": "3Jane",
     "description": "",
     "website": "https://www.3jane.xyz/",
-    "chainId":1,
+    "chain_id":1,
     "chain_name":"mannet"
   },
   {
@@ -158,7 +158,7 @@
     "name": "Rarible",
     "description": "",
     "website": "https://www.rarible.com/",
-    "chainId":1,
+    "chain_id":1,
     "chain_name":"mannet"
   },
  {
@@ -170,7 +170,7 @@
     "website": "https://primex.finance",
     "twitter": "https://x.com/primex_official",
     "description": "",
-    "chainId":1,
+    "chain_id":1,
     "chain_name":"mannet"
   },
   {
@@ -182,7 +182,7 @@
     "website": "https://lybra.finance/",
     "twitter": "https://twitter.com/LybraFinanceLSD",
     "description": "",
-    "chainId":1,
+    "chain_id":1,
     "chain_name":"mannet"
   },
   {
@@ -194,7 +194,7 @@
     "website": "https://veda.tech",
     "twitter": "https://x.com/veda_labs",
     "description": "",
-    "chainId":1,
+    "chain_id":1,
     "chain_name":"mannet"
   },
   {
@@ -206,7 +206,7 @@
     "website": "https://bzx.network",
     "twitter": "https://twitter.com/bZxHQ",
     "description": "",
-    "chainId":1,
+    "chain_id":1,
     "chain_name":"mannet"
   },
   {
@@ -218,7 +218,7 @@
     "website": "https://ens.domains",
     "twitter": "https://twitter.com/ensdomains",
     "description": "",
-    "chainId":1,
+    "chain_id":1,
     "chain_name":"mannet"
   },
   {
@@ -230,7 +230,7 @@
     "website": "https://beefy.finance/",
     "twitter": "https://twitter.com/beefyfinance",
     "description": "",
-    "chainId":1,
+    "chain_id":1,
     "chain_name":"mannet"
   },
   {
@@ -242,7 +242,7 @@
     "website": "https://www.euler.finance/",
     "twitter": "https://twitter.com/eulerfinance",
     "description": "",
-    "chainId":1,
+    "chain_id":1,
     "chain_name":"mannet"
   },
   {
@@ -254,7 +254,7 @@
     "website": "https://chain.link",
     "twitter": "https://twitter.com/chainlink",
     "description": "",
-    "chainId":1,
+    "chain_id":1,
     "chain_name":"mannet"
   },
   {
@@ -266,7 +266,7 @@
     "website": "https://fluence.network/",
     "twitter": "https://twitter.com/fluence_project",
     "description": "",
-    "chainId":1,
+    "chain_id":1,
     "chain_name":"mannet"
   },
   {
@@ -278,7 +278,7 @@
     "website": "https://relay.link/",
     "twitter": "https://x.com/RelayProtocol",
     "description": "",
-    "chainId":1,
+    "chain_id":1,
     "chain_name":"mannet"
   },
   {
@@ -290,7 +290,7 @@
     "website": "https://www.rockx.com",
     "twitter": "https://twitter.com/rockx_official",
     "description": "",
-    "chainId":1,
+    "chain_id":1,
     "chain_name":"mannet"
   },
   {
@@ -302,7 +302,7 @@
     "website": "https://curve.fi",
     "twitter": "https://twitter.com/CurveFinance",
     "description": "",
-    "chainId":1,
+    "chain_id":1,
     "chain_name":"mannet"
   },
   {
@@ -314,7 +314,7 @@
     "website": "https://veda.tech",
     "twitter": "https://x.com/veda_labs",
     "description": "",
-    "chainId":1,
+    "chain_id":1,
     "chain_name":"mannet"
   },
   {
@@ -326,7 +326,7 @@
     "website": "https://sturdy.finance/",
     "twitter": "https://twitter.com/SturdyFinance",
     "description": "",
-    "chainId":1,
+    "chain_id":1,
     "chain_name":"mannet"
   },
   {
@@ -338,7 +338,7 @@
     "website": "https://www.turtle.xyz/",
     "twitter": "https://x.com/turtledotxyz",
     "description": "",
-    "chainId":1,
+    "chain_id":1,
     "chain_name":"mannet"
   },
   {
@@ -350,7 +350,7 @@
     "website": "https://curve.fi",
     "twitter": "https://twitter.com/CurveFinance",
     "description": "",
-    "chainId":1,
+    "chain_id":1,
     "chain_name":"mannet"
   },
   {
@@ -362,7 +362,7 @@
     "website": "https://strike.org/",
     "twitter": "https://twitter.com/StrikeFinance",
     "description": "",
-    "chainId":1,
+    "chain_id":1,
     "chain_name":"mannet"
   },
   {
@@ -374,7 +374,7 @@
     "website": "https://arbitrum.foundation/",
     "twitter": "https://twitter.com/arbitrum",
     "description": "",
-    "chainId":1,
+    "chain_id":1,
     "chain_name":"mannet"
   },
   {
@@ -386,7 +386,7 @@
     "website": "https://equilibria.fi",
     "twitter": "https://twitter.com/Equilibriafi",
     "description": "",
-    "chainId":1,
+    "chain_id":1,
     "chain_name":"mannet"
   },
   {
@@ -398,7 +398,7 @@
     "website": "https://silo.finance",
     "twitter": "https://twitter.com/SiloFinance",
     "description": "",
-    "chainId":1,
+    "chain_id":1,
     "chain_name":"mannet"
   },
   {
@@ -410,7 +410,7 @@
     "website": "https://sturdy.finance/",
     "twitter": "https://twitter.com/SturdyFinance",
     "description": "",
-    "chainId":1,
+    "chain_id":1,
     "chain_name":"mannet"
   },
   {
@@ -422,7 +422,7 @@
     "website": "https://deus.finance",
     "twitter": "https://twitter.com/DeusDao",
     "description": "",
-    "chainId":1,
+    "chain_id":1,
     "chain_name":"mannet"
   },
   {
@@ -434,7 +434,7 @@
     "website": "https://scroll.io",
     "twitter": "https://twitter.com/Scroll_ZKP",
     "description": "",
-    "chainId":1,
+    "chain_id":1,
     "chain_name":"mannet"
   },
   {
@@ -446,7 +446,7 @@
     "website": "https://veda.tech",
     "twitter": "https://x.com/veda_labs",
     "description": "",
-    "chainId":1,
+    "chain_id":1,
     "chain_name":"mannet"
   },
   {
@@ -458,7 +458,7 @@
     "website": "https://www.magpiexyz.io/",
     "twitter": "https://twitter.com/magpiexyz_io",
     "description": "",
-    "chainId":1,
+    "chain_id":1,
     "chain_name":"mannet"
   },
   {
@@ -470,7 +470,7 @@
     "website": "https://pareto.credit/",
     "twitter": "https://x.com/paretocredit",
     "description": "",
-    "chainId":1,
+    "chain_id":1,
     "chain_name":"mannet"
   },
   {
@@ -482,7 +482,7 @@
     "website": "https://fei.money",
     "twitter": "https://twitter.com/feiprotocol",
     "description": "",
-    "chainId":1,
+    "chain_id":1,
     "chain_name":"mannet"
   },
   {
@@ -494,7 +494,7 @@
     "website": "https://curve.fi",
     "twitter": "https://twitter.com/CurveFinance",
     "description": "",
-    "chainId":1,
+    "chain_id":1,
     "chain_name":"mannet"
   },
   {
@@ -506,7 +506,7 @@
     "website": "https://www.arrakis.finance",
     "twitter": "https://twitter.com/ArrakisFinance",
     "description": "",
-    "chainId":1,
+    "chain_id":1,
     "chain_name":"mannet"
   },
   {
@@ -518,7 +518,7 @@
     "website": "https://stakedao.org/",
     "twitter": "https://twitter.com/StakeDAOHQ",
     "description": "",
-    "chainId":1,
+    "chain_id":1,
     "chain_name":"mannet"
   },
   {
@@ -530,7 +530,7 @@
     "website": "https://veda.tech",
     "twitter": "https://x.com/veda_labs",
     "description": "",
-    "chainId":1,
+    "chain_id":1,
     "chain_name":"mannet"
   },
   {
@@ -542,7 +542,7 @@
     "website": "https://reserve.org",
     "twitter": "https://twitter.com/reserveprotocol",
     "description": "",
-    "chainId":1,
+    "chain_id":1,
     "chain_name":"mannet"
   },
   {
@@ -554,7 +554,7 @@
     "website": "https://www.swellnetwork.io/",
     "twitter": "https://twitter.com/swellnetworkio",
     "description": "",
-    "chainId":1,
+    "chain_id":1,
     "chain_name":"mannet"
   },
   {
@@ -566,7 +566,7 @@
     "website": "https://instadapp.io",
     "twitter": "https://twitter.com/Instadapp",
     "description": "",
-    "chainId":1,
+    "chain_id":1,
     "chain_name":"mannet"
   },
   {
@@ -578,7 +578,7 @@
     "website": "https://openeden.com",
     "twitter": "http://www.x.com/OpenEden_X",
     "description": "",
-    "chainId":1,
+    "chain_id":1,
     "chain_name":"mannet"
   },
   {
@@ -590,7 +590,7 @@
     "website": "https://www.matrixdock.com/",
     "twitter": "https://twitter.com/matrixdock",
     "description": "",
-    "chainId":1,
+    "chain_id":1,
     "chain_name":"mannet"
   },
   {
@@ -602,7 +602,7 @@
     "website": "https://lybra.finance/",
     "twitter": "https://twitter.com/LybraFinanceLSD",
     "description": "",
-    "chainId":1,
+    "chain_id":1,
     "chain_name":"mannet"
   },
   {
@@ -614,7 +614,7 @@
     "website": "https://www.mantle.xyz",
     "twitter": "https://twitter.com/0xMantle",
     "description": "",
-    "chainId":1,
+    "chain_id":1,
     "chain_name":"mannet"
   },
   {
@@ -626,7 +626,7 @@
     "website": "https://nested.fi",
     "twitter": "https://twitter.com/nestedfi",
     "description": "",
-    "chainId":1,
+    "chain_id":1,
     "chain_name":"mannet"
   },
   {
@@ -638,7 +638,7 @@
     "website": "https://contango.exchange/",
     "twitter": "https://twitter.com/Contango_xyz",
     "description": "",
-    "chainId":1,
+    "chain_id":1,
     "chain_name":"mannet"
   },
   {
@@ -650,7 +650,7 @@
     "website": "https://sturdy.finance/",
     "twitter": "https://twitter.com/SturdyFinance",
     "description": "",
-    "chainId":1,
+    "chain_id":1,
     "chain_name":"mannet"
   },
   {
@@ -662,7 +662,7 @@
     "website": "https://www.renzoprotocol.com/",
     "twitter": "https://twitter.com/RenzoProtocol",
     "description": "",
-    "chainId":1,
+    "chain_id":1,
     "chain_name":"mannet"
   },
   {
@@ -674,7 +674,7 @@
     "website": "https://www.swellnetwork.io/",
     "twitter": "https://twitter.com/swellnetworkio",
     "description": "",
-    "chainId":1,
+    "chain_id":1,
     "chain_name":"mannet"
   },
   {
@@ -686,7 +686,7 @@
     "website": "https://augmentlabs.io/",
     "twitter": "https://twitter.com/augmentlabs_io",
     "description": "",
-    "chainId":1,
+    "chain_id":1,
     "chain_name":"mannet"
   },
   {
@@ -698,7 +698,7 @@
     "website": "https://0x.org",
     "twitter": "https://twitter.com/0xProject",
     "description": "",
-    "chainId":1,
+    "chain_id":1,
     "chain_name":"mannet"
   },
   {
@@ -710,7 +710,7 @@
     "website": "https://walletconnect.com",
     "twitter": "https://twitter.com/WalletConnect",
     "description": "",
-    "chainId":1,
+    "chain_id":1,
     "chain_name":"mannet"
   },
   {
@@ -722,7 +722,7 @@
     "website": "https://curve.fi",
     "twitter": "https://twitter.com/CurveFinance",
     "description": "",
-    "chainId":1,
+    "chain_id":1,
     "chain_name":"mannet"
   },
   {
@@ -734,7 +734,7 @@
     "website": "https://instadapp.io",
     "twitter": "https://twitter.com/Instadapp",
     "description": "",
-    "chainId":1,
+    "chain_id":1,
     "chain_name":"mannet"
   },
   {
@@ -746,7 +746,7 @@
     "website": "https://cian.app",
     "twitter": "https://twitter.com/CIAN_protocol",
     "description": "",
-    "chainId":1,
+    "chain_id":1,
     "chain_name":"mannet"
   },
   {
@@ -758,7 +758,7 @@
     "website": "https://alongside.xyz",
     "twitter": "https://twitter.com/alongsidefi",
     "description": "",
-    "chainId":1,
+    "chain_id":1,
     "chain_name":"mannet"
   },
   {
@@ -770,7 +770,7 @@
     "website": "https://grap.finance",
     "twitter": "https://twitter.com/GrapFinance",
     "description": "",
-    "chainId":1,
+    "chain_id":1,
     "chain_name":"mannet"
   },
   {
@@ -782,7 +782,7 @@
     "website": "https://www.arrakis.finance",
     "twitter": "https://twitter.com/ArrakisFinance",
     "description": "",
-    "chainId":1,
+    "chain_id":1,
     "chain_name":"mannet"
   },
   {
@@ -794,7 +794,7 @@
     "website": "https://veda.tech",
     "twitter": "https://x.com/veda_labs",
     "description": "",
-    "chainId":1,
+    "chain_id":1,
     "chain_name":"mannet"
   },
   {
@@ -806,7 +806,7 @@
     "website": "https://curve.fi",
     "twitter": "https://twitter.com/CurveFinance",
     "description": "",
-    "chainId":1,
+    "chain_id":1,
     "chain_name":"mannet"
   },
   {
@@ -818,7 +818,7 @@
     "website": "https://sommelier.finance",
     "twitter": "https://twitter.com/sommfinance",
     "description": "",
-    "chainId":1,
+    "chain_id":1,
     "chain_name":"mannet"
   },
   {
@@ -830,7 +830,7 @@
     "website": "https://lybra.finance/",
     "twitter": "https://twitter.com/LybraFinanceLSD",
     "description": "",
-    "chainId":1,
+    "chain_id":1,
     "chain_name":"mannet"
   },
   {
@@ -842,7 +842,7 @@
     "website": "https://www.hyperlane.xyz",
     "twitter": "http://www.x.com/hyperlane",
     "description": "",
-    "chainId":1,
+    "chain_id":1,
     "chain_name":"mannet"
   },
   {
@@ -854,7 +854,7 @@
     "website": "https://sommelier.finance",
     "twitter": "https://twitter.com/sommfinance",
     "description": "",
-    "chainId":1,
+    "chain_id":1,
     "chain_name":"mannet"
   },
   {
@@ -866,7 +866,7 @@
     "website": "https://cian.app",
     "twitter": "https://twitter.com/CIAN_protocol",
     "description": "",
-    "chainId":1,
+    "chain_id":1,
     "chain_name":"mannet"
   },
   {
@@ -878,7 +878,7 @@
     "website": "https://frax.com/",
     "twitter": "https://twitter.com/fraxfinance",
     "description": "",
-    "chainId":1,
+    "chain_id":1,
     "chain_name":"mannet"
   },
   {
@@ -890,7 +890,7 @@
     "website": "https://www.eigenlayer.xyz/",
     "twitter": "https://twitter.com/eigenlayer",
     "description": "",
-    "chainId":1,
+    "chain_id":1,
     "chain_name":"mannet"
   },
   {
@@ -902,7 +902,7 @@
     "website": "https://www.movementnetwork.xyz",
     "twitter": "https://x.com/movementfdn",
     "description": "",
-    "chainId":1,
+    "chain_id":1,
     "chain_name":"mannet"
   },
   {
@@ -914,7 +914,7 @@
     "website": "https://primex.finance",
     "twitter": "https://x.com/primex_official",
     "description": "",
-    "chainId":1,
+    "chain_id":1,
     "chain_name":"mannet"
   },
   {
@@ -926,7 +926,7 @@
     "website": "https://curve.fi",
     "twitter": "https://twitter.com/CurveFinance",
     "description": "",
-    "chainId":1,
+    "chain_id":1,
     "chain_name":"mannet"
   },
   {
@@ -938,7 +938,7 @@
     "website": "https://lista.org/",
     "twitter": "https://twitter.com/LISTA_DAO",
     "description": "",
-    "chainId":1,
+    "chain_id":1,
     "chain_name":"mannet"
   },
   {
@@ -950,7 +950,7 @@
     "website": "https://gearbox.fi/",
     "twitter": "https://twitter.com/GearboxProtocol",
     "description": "",
-    "chainId":1,
+    "chain_id":1,
     "chain_name":"mannet"
   },
   {
@@ -962,7 +962,7 @@
     "website": "https://chain.link",
     "twitter": "https://twitter.com/chainlink",
     "description": "",
-    "chainId":1,
+    "chain_id":1,
     "chain_name":"mannet"
   },
   {
@@ -974,7 +974,7 @@
     "website": "https://www.matrixdock.com/",
     "twitter": "https://twitter.com/matrixdock",
     "description": "",
-    "chainId":1,
+    "chain_id":1,
     "chain_name":"mannet"
   },
   {
@@ -986,7 +986,7 @@
     "website": "https://www.avalonfinance.xyz",
     "twitter": "https://x.com/avalonfinance_",
     "description": "",
-    "chainId":1,
+    "chain_id":1,
     "chain_name":"mannet"
   },
   {
@@ -998,7 +998,7 @@
     "website": "https://superverse.cool",
     "twitter": "http://www.x.com/SuperVerse",
     "description": "",
-    "chainId":1,
+    "chain_id":1,
     "chain_name":"mannet"
   },
   {
@@ -1010,7 +1010,7 @@
     "website": "https://curve.fi",
     "twitter": "https://twitter.com/CurveFinance",
     "description": "",
-    "chainId":1,
+    "chain_id":1,
     "chain_name":"mannet"
   },
   {
@@ -1022,7 +1022,7 @@
     "website": "https://curve.fi",
     "twitter": "https://twitter.com/CurveFinance",
     "description": "",
-    "chainId":1,
+    "chain_id":1,
     "chain_name":"mannet"
   },
   {
@@ -1034,7 +1034,7 @@
     "website": "https://curve.fi",
     "twitter": "https://twitter.com/CurveFinance",
     "description": "",
-    "chainId":1,
+    "chain_id":1,
     "chain_name":"mannet"
   },
   {
@@ -1046,7 +1046,7 @@
     "website": "https://sommelier.finance",
     "twitter": "https://twitter.com/sommfinance",
     "description": "",
-    "chainId":1,
+    "chain_id":1,
     "chain_name":"mannet"
   },
   {
@@ -1058,7 +1058,7 @@
     "website": "https://veda.tech",
     "twitter": "https://x.com/veda_labs",
     "description": "",
-    "chainId":1,
+    "chain_id":1,
     "chain_name":"mannet"
   },
   {
@@ -1070,7 +1070,7 @@
     "website": "https://www.fodl.finance/",
     "twitter": "https://twitter.com/FODLfi",
     "description": "",
-    "chainId":1,
+    "chain_id":1,
     "chain_name":"mannet"
   },
   {
@@ -1082,7 +1082,7 @@
     "website": "https://olympusdao.finance",
     "twitter": "https://twitter.com/OlympusDAO",
     "description": "",
-    "chainId":1,
+    "chain_id":1,
     "chain_name":"mannet"
   },
   {
@@ -1094,7 +1094,7 @@
     "website": "https://ether.fi/",
     "twitter": "https://twitter.com/ether_fi",
     "description": "",
-    "chainId":1,
+    "chain_id":1,
     "chain_name":"mannet"
   },
   {
@@ -1106,7 +1106,7 @@
     "website": "https://inverse.finance",
     "twitter": "https://twitter.com/InverseFinance",
     "description": "",
-    "chainId":1,
+    "chain_id":1,
     "chain_name":"mannet"
   },
   {
@@ -1118,7 +1118,7 @@
     "website": "https://claystack.com",
     "twitter": "https://twitter.com/ClayStack_HQ",
     "description": "",
-    "chainId":1,
+    "chain_id":1,
     "chain_name":"mannet"
   },
   {
@@ -1130,7 +1130,7 @@
     "website": "https://exact.ly/",
     "twitter": "https://twitter.com/ExactlyProtocol",
     "description": "",
-    "chainId":1,
+    "chain_id":1,
     "chain_name":"mannet"
   },
   {
@@ -1142,7 +1142,7 @@
     "website": "https://veda.tech",
     "twitter": "https://x.com/veda_labs",
     "description": "",
-    "chainId":1,
+    "chain_id":1,
     "chain_name":"mannet"
   },
   {
@@ -1154,7 +1154,7 @@
     "website": "https://88mph.app",
     "twitter": "https://twitter.com/88mphapp",
     "description": "",
-    "chainId":1,
+    "chain_id":1,
     "chain_name":"mannet"
   },
   {
@@ -1166,7 +1166,7 @@
     "website": "https://sturdy.finance/",
     "twitter": "https://twitter.com/SturdyFinance",
     "description": "",
-    "chainId":1,
+    "chain_id":1,
     "chain_name":"mannet"
   },
   {
@@ -1178,7 +1178,7 @@
     "website": "https://yield.fi/",
     "twitter": "https://x.com/getyieldfi",
     "description": "",
-    "chainId":1,
+    "chain_id":1,
     "chain_name":"mannet"
   },
   {
@@ -1190,7 +1190,7 @@
     "website": "https://radicle.xyz",
     "twitter": "https://twitter.com/radicle",
     "description": "",
-    "chainId":1,
+    "chain_id":1,
     "chain_name":"mannet"
   },
   {
@@ -1202,7 +1202,7 @@
     "website": "https://yam.finance",
     "twitter": "https://twitter.com/YamFinance",
     "description": "",
-    "chainId":1,
+    "chain_id":1,
     "chain_name":"mannet"
   },
   {
@@ -1214,7 +1214,7 @@
     "website": "https://veda.tech",
     "twitter": "https://x.com/veda_labs",
     "description": "",
-    "chainId":1,
+    "chain_id":1,
     "chain_name":"mannet"
   },
   {
@@ -1226,7 +1226,7 @@
     "website": "https://veda.tech",
     "twitter": "https://x.com/veda_labs",
     "description": "",
-    "chainId":1,
+    "chain_id":1,
     "chain_name":"mannet"
   },
   {
@@ -1238,7 +1238,7 @@
     "website": "https://threshold.network/",
     "twitter": "https://twitter.com/TheTNetwork",
     "description": "",
-    "chainId":1,
+    "chain_id":1,
     "chain_name":"mannet"
   },
   {
@@ -1250,7 +1250,7 @@
     "website": "https://veda.tech",
     "twitter": "https://x.com/veda_labs",
     "description": "",
-    "chainId":1,
+    "chain_id":1,
     "chain_name":"mannet"
   },
   {
@@ -1262,7 +1262,7 @@
     "website": "https://frax.com/",
     "twitter": "https://twitter.com/fraxfinance",
     "description": "",
-    "chainId":1,
+    "chain_id":1,
     "chain_name":"mannet"
   },
   {
@@ -1274,7 +1274,7 @@
     "website": "https://sturdy.finance/",
     "twitter": "https://twitter.com/SturdyFinance",
     "description": "",
-    "chainId":1,
+    "chain_id":1,
     "chain_name":"mannet"
   },
   {
@@ -1286,7 +1286,7 @@
     "website": "https://frax.com/",
     "twitter": "https://twitter.com/fraxfinance",
     "description": "",
-    "chainId":1,
+    "chain_id":1,
     "chain_name":"mannet"
   },
   {
@@ -1298,7 +1298,7 @@
     "website": "https://www.renzoprotocol.com/",
     "twitter": "https://twitter.com/RenzoProtocol",
     "description": "",
-    "chainId":1,
+    "chain_id":1,
     "chain_name":"mannet"
   },
   {
@@ -1310,7 +1310,7 @@
     "website": "https://lybra.finance/",
     "twitter": "https://twitter.com/LybraFinanceLSD",
     "description": "",
-    "chainId":1,
+    "chain_id":1,
     "chain_name":"mannet"
   },
   {
@@ -1322,7 +1322,7 @@
     "website": "https://veda.tech",
     "twitter": "https://x.com/veda_labs",
     "description": "",
-    "chainId":1,
+    "chain_id":1,
     "chain_name":"mannet"
   },
   {
@@ -1334,7 +1334,7 @@
     "website": "https://veda.tech",
     "twitter": "https://x.com/veda_labs",
     "description": "",
-    "chainId":1,
+    "chain_id":1,
     "chain_name":"mannet"
   },
   {
@@ -1346,7 +1346,7 @@
     "website": "https://rarible.com",
     "twitter": "https://twitter.com/rarible",
     "description": "",
-    "chainId":1,
+    "chain_id":1,
     "chain_name":"mannet"
   },
   {
@@ -1358,7 +1358,7 @@
     "website": "https://veda.tech",
     "twitter": "https://x.com/veda_labs",
     "description": "",
-    "chainId":1,
+    "chain_id":1,
     "chain_name":"mannet"
   },
   {
@@ -1370,7 +1370,7 @@
     "website": "https://indexed.finance/",
     "twitter": "https://twitter.com/ndxfi",
     "description": "",
-    "chainId":1,
+    "chain_id":1,
     "chain_name":"mannet"
   },
   {
@@ -1382,7 +1382,7 @@
     "website": "https://curve.fi",
     "twitter": "https://twitter.com/CurveFinance",
     "description": "",
-    "chainId":1,
+    "chain_id":1,
     "chain_name":"mannet"
   },
   {
@@ -1394,7 +1394,7 @@
     "website": "https://veda.tech",
     "twitter": "https://x.com/veda_labs",
     "description": "",
-    "chainId":1,
+    "chain_id":1,
     "chain_name":"mannet"
   },
   {
@@ -1406,7 +1406,7 @@
     "website": "https://superverse.cool",
     "twitter": "http://www.x.com/SuperVerse",
     "description": "",
-    "chainId":1,
+    "chain_id":1,
     "chain_name":"mannet"
   },
   {
@@ -1418,7 +1418,7 @@
     "website": "https://www.arrakis.finance",
     "twitter": "https://twitter.com/ArrakisFinance",
     "description": "",
-    "chainId":1,
+    "chain_id":1,
     "chain_name":"mannet"
   },
   {
@@ -1430,7 +1430,7 @@
     "website": "https://originprotocol.com",
     "twitter": "https://twitter.com/OriginProtocol",
     "description": "",
-    "chainId":1,
+    "chain_id":1,
     "chain_name":"mannet"
   },
   {
@@ -1442,7 +1442,7 @@
     "website": "https://ambient.finance/",
     "twitter": "https://twitter.com/ambient_finance",
     "description": "",
-    "chainId":1,
+    "chain_id":1,
     "chain_name":"mannet"
   },
   {
@@ -1454,7 +1454,7 @@
     "website": "https://derivadex.com",
     "twitter": "https://twitter.com/DDX_Official",
     "description": "",
-    "chainId":1,
+    "chain_id":1,
     "chain_name":"mannet"
   },
   {
@@ -1466,7 +1466,7 @@
     "website": "https://abracadabra.money/",
     "twitter": "https://twitter.com/MIM_Spell",
     "description": "",
-    "chainId":1,
+    "chain_id":1,
     "chain_name":"mannet"
   },
   {
@@ -1478,7 +1478,7 @@
     "website": "https://compound.finance",
     "twitter": "https://twitter.com/compoundfinance",
     "description": "",
-    "chainId":1,
+    "chain_id":1,
     "chain_name":"mannet"
   },
   {
@@ -1490,7 +1490,7 @@
     "website": "https://www.tprotocol.io/",
     "twitter": "https://twitter.com/TProtocol_",
     "description": "",
-    "chainId":1,
+    "chain_id":1,
     "chain_name":"mannet"
   },
   {
@@ -1502,7 +1502,7 @@
     "website": "https://veda.tech",
     "twitter": "https://x.com/veda_labs",
     "description": "",
-    "chainId":1,
+    "chain_id":1,
     "chain_name":"mannet"
   },
   {
@@ -1514,7 +1514,7 @@
     "website": "https://lifty.io",
     "twitter": "https://twitter.com/lifty_io",
     "description": "",
-    "chainId":1,
+    "chain_id":1,
     "chain_name":"mannet"
   },
   {
@@ -1526,7 +1526,7 @@
     "website": "https://superverse.cool",
     "twitter": "http://www.x.com/SuperVerse",
     "description": "",
-    "chainId":1,
+    "chain_id":1,
     "chain_name":"mannet"
   },
   {
@@ -1538,7 +1538,7 @@
     "website": "https://manifold.xyz/",
     "twitter": "https://twitter.com/manifoldxyz",
     "description": "",
-    "chainId":1,
+    "chain_id":1,
     "chain_name":"mannet"
   },
   {
@@ -1550,7 +1550,7 @@
     "website": "https://veda.tech",
     "twitter": "https://x.com/veda_labs",
     "description": "",
-    "chainId":1,
+    "chain_id":1,
     "chain_name":"mannet"
   },
   {
@@ -1562,7 +1562,7 @@
     "website": "https://veda.tech",
     "twitter": "https://x.com/veda_labs",
     "description": "",
-    "chainId":1,
+    "chain_id":1,
     "chain_name":"mannet"
   },
   {
@@ -1574,7 +1574,7 @@
     "website": "https://www.turtle.xyz/",
     "twitter": "https://x.com/turtledotxyz",
     "description": "",
-    "chainId":1,
+    "chain_id":1,
     "chain_name":"mannet"
   },
   {
@@ -1586,7 +1586,7 @@
     "website": "https://paraswap.io",
     "twitter": "https://twitter.com/paraswap",
     "description": "",
-    "chainId":1,
+    "chain_id":1,
     "chain_name":"mannet"
   },
   {
@@ -1598,7 +1598,7 @@
     "website": "https://blur.io/",
     "twitter": "https://twitter.com/blur_io",
     "description": "",
-    "chainId":1,
+    "chain_id":1,
     "chain_name":"mannet"
   },
   {
@@ -1610,7 +1610,7 @@
     "website": "https://bitmart.com",
     "twitter": "https://twitter.com/BitMartExchange",
     "description": "",
-    "chainId":1,
+    "chain_id":1,
     "chain_name":"mannet"
   },
   {
@@ -1622,7 +1622,7 @@
     "website": "https://www.axiom.xyz/",
     "twitter": "https://twitter.com/axiom_xyz",
     "description": "",
-    "chainId":1,
+    "chain_id":1,
     "chain_name":"mannet"
   },
   {
@@ -1634,7 +1634,7 @@
     "website": "https://gitcoin.co",
     "twitter": "https://twitter.com/gitcoin",
     "description": "",
-    "chainId":1,
+    "chain_id":1,
     "chain_name":"mannet"
   },
   {
@@ -1646,7 +1646,7 @@
     "website": "https://bim.finance",
     "twitter": "https://x.com/BIM_Finance",
     "description": "",
-    "chainId":1,
+    "chain_id":1,
     "chain_name":"mannet"
   },
   {
@@ -1658,7 +1658,7 @@
     "website": "https://li.fi",
     "twitter": "https://twitter.com/lifiprotocol",
     "description": "",
-    "chainId":1,
+    "chain_id":1,
     "chain_name":"mannet"
   },
   {
@@ -1670,7 +1670,7 @@
     "website": "https://element.market",
     "twitter": "https://twitter.com/Element_Market",
     "description": "",
-    "chainId":1,
+    "chain_id":1,
     "chain_name":"mannet"
   },
   {
@@ -1682,7 +1682,7 @@
     "website": "https://tranchess.com/",
     "twitter": "https://twitter.com/Tranchess",
     "description": "",
-    "chainId":1,
+    "chain_id":1,
     "chain_name":"mannet"
   },
   {
@@ -1694,7 +1694,7 @@
     "website": "https://truefi.io",
     "twitter": "https://twitter.com/TrueFiDAO",
     "description": "",
-    "chainId":1,
+    "chain_id":1,
     "chain_name":"mannet"
   },
   {
@@ -1706,7 +1706,7 @@
     "website": "https://www.anvil.xyz",
     "twitter": "https://x.com/anvil_xyz",
     "description": "",
-    "chainId":1,
+    "chain_id":1,
     "chain_name":"mannet"
   },
   {
@@ -1718,7 +1718,7 @@
     "website": "https://walletconnect.com",
     "twitter": "https://twitter.com/WalletConnect",
     "description": "",
-    "chainId":1,
+    "chain_id":1,
     "chain_name":"mannet"
   },
   {
@@ -1730,7 +1730,7 @@
     "website": "https://veda.tech",
     "twitter": "https://x.com/veda_labs",
     "description": "",
-    "chainId":1,
+    "chain_id":1,
     "chain_name":"mannet"
   },
   {
@@ -1742,7 +1742,7 @@
     "website": "https://alongside.xyz",
     "twitter": "https://twitter.com/alongsidefi",
     "description": "",
-    "chainId":1,
+    "chain_id":1,
     "chain_name":"mannet"
   },
   {
@@ -1754,7 +1754,7 @@
     "website": "https://www.hyperlane.xyz",
     "twitter": "http://www.x.com/hyperlane",
     "description": "",
-    "chainId":1,
+    "chain_id":1,
     "chain_name":"mannet"
   },
   {
@@ -1766,7 +1766,7 @@
     "website": "https://www.benddao.xyz",
     "twitter": "https://twitter.com/BendDAO",
     "description": "",
-    "chainId":1,
+    "chain_id":1,
     "chain_name":"mannet"
   },
   {
@@ -1778,7 +1778,7 @@
     "website": "https://www.hyperlane.xyz",
     "twitter": "http://www.x.com/hyperlane",
     "description": "",
-    "chainId":1,
+    "chain_id":1,
     "chain_name":"mannet"
   },
   {
@@ -1790,7 +1790,7 @@
     "website": "https://chain.link",
     "twitter": "https://twitter.com/chainlink",
     "description": "",
-    "chainId":1,
+    "chain_id":1,
     "chain_name":"mannet"
   },
   {
@@ -1802,7 +1802,7 @@
     "website": "https://veda.tech",
     "twitter": "https://x.com/veda_labs",
     "description": "",
-    "chainId":1,
+    "chain_id":1,
     "chain_name":"mannet"
   },
   {
@@ -1814,7 +1814,7 @@
     "website": "https://mahadao.com/",
     "twitter": "https://twitter.com/TheMahaDAO",
     "description": "",
-    "chainId":1,
+    "chain_id":1,
     "chain_name":"mannet"
   },
   {
@@ -1826,7 +1826,7 @@
     "website": "https://pooltogether.com",
     "twitter": "https://twitter.com/PoolTogether_",
     "description": "",
-    "chainId":1,
+    "chain_id":1,
     "chain_name":"mannet"
   },
   {
@@ -1838,7 +1838,7 @@
     "website": "https://aethir.com",
     "twitter": "https://x.com/AethirCloud",
     "description": "",
-    "chainId":1,
+    "chain_id":1,
     "chain_name":"mannet"
   },
   {
@@ -1850,7 +1850,7 @@
     "website": "https://ambient.finance/",
     "twitter": "https://twitter.com/ambient_finance",
     "description": "",
-    "chainId":1,
+    "chain_id":1,
     "chain_name":"mannet"
   },
   {
@@ -1862,7 +1862,7 @@
     "website": "https://kudoe.io",
     "twitter": "https://twitter.com/KudoeOfficial",
     "description": "",
-    "chainId":1,
+    "chain_id":1,
     "chain_name":"mannet"
   },
   {
@@ -1874,7 +1874,7 @@
     "website": "https://scroll.io",
     "twitter": "https://twitter.com/Scroll_ZKP",
     "description": "",
-    "chainId":1,
+    "chain_id":1,
     "chain_name":"mannet"
   },
   {
@@ -1886,7 +1886,7 @@
     "website": "https://olas.network/",
     "twitter": "https://twitter.com/autonolas",
     "description": "",
-    "chainId":1,
+    "chain_id":1,
     "chain_name":"mannet"
   },
   {
@@ -1898,7 +1898,7 @@
     "website": "https://www.hyperlane.xyz",
     "twitter": "http://www.x.com/hyperlane",
     "description": "",
-    "chainId":1,
+    "chain_id":1,
     "chain_name":"mannet"
   },
   {
@@ -1910,7 +1910,7 @@
     "website": "https://rabbitx.io/",
     "twitter": "https://twitter.com/rabbitx_io",
     "description": "",
-    "chainId":1,
+    "chain_id":1,
     "chain_name":"mannet"
   },
   {
@@ -1922,7 +1922,7 @@
     "website": "https://meowl.xyz",
     "twitter": "https://twitter.com/meowlxyz",
     "description": "",
-    "chainId":1,
+    "chain_id":1,
     "chain_name":"mannet"
   },
   {
@@ -1934,7 +1934,7 @@
     "website": "https://superverse.cool",
     "twitter": "http://www.x.com/SuperVerse",
     "description": "",
-    "chainId":1,
+    "chain_id":1,
     "chain_name":"mannet"
   },
   {
@@ -1946,7 +1946,7 @@
     "website": "https://relay.link/",
     "twitter": "https://x.com/RelayProtocol",
     "description": "",
-    "chainId":1,
+    "chain_id":1,
     "chain_name":"mannet"
   },
   {
@@ -1958,7 +1958,7 @@
     "website": "https://ondo.finance",
     "twitter": "https://twitter.com/OndoFinance",
     "description": "",
-    "chainId":1,
+    "chain_id":1,
     "chain_name":"mannet"
   },
   {
@@ -1970,7 +1970,7 @@
     "website": "https://gammaswap.com",
     "twitter": "https://x.com/gammaswaplabs",
     "description": "",
-    "chainId":1,
+    "chain_id":1,
     "chain_name":"mannet"
   },
   {
@@ -1982,7 +1982,7 @@
     "website": "https://originprotocol.com",
     "twitter": "https://twitter.com/OriginProtocol",
     "description": "",
-    "chainId":1,
+    "chain_id":1,
     "chain_name":"mannet"
   },
   {
@@ -1994,7 +1994,7 @@
     "website": "https://reserve.org",
     "twitter": "https://twitter.com/reserveprotocol",
     "description": "",
-    "chainId":1,
+    "chain_id":1,
     "chain_name":"mannet"
   },
   {
@@ -2006,7 +2006,7 @@
     "website": "https://swerve.fi/",
     "twitter": "https://twitter.com/SwerveFinance",
     "description": "",
-    "chainId":1,
+    "chain_id":1,
     "chain_name":"mannet"
   },
   {
@@ -2018,7 +2018,7 @@
     "website": "https://claystack.com",
     "twitter": "https://twitter.com/ClayStack_HQ",
     "description": "",
-    "chainId":1,
+    "chain_id":1,
     "chain_name":"mannet"
   },
   {
@@ -2030,7 +2030,7 @@
     "website": "https://lybra.finance/",
     "twitter": "https://twitter.com/LybraFinanceLSD",
     "description": "",
-    "chainId":1,
+    "chain_id":1,
     "chain_name":"mannet"
   },
   {
@@ -2042,7 +2042,7 @@
     "website": "https://www.bao.finance/",
     "twitter": "https://twitter.com/BaoFinance",
     "description": "",
-    "chainId":1,
+    "chain_id":1,
     "chain_name":"mannet"
   },
   {
@@ -2054,7 +2054,7 @@
     "website": "https://reserve.org",
     "twitter": "https://twitter.com/reserveprotocol",
     "description": "",
-    "chainId":1,
+    "chain_id":1,
     "chain_name":"mannet"
   },
   {
@@ -2066,7 +2066,7 @@
     "website": "https://ondo.finance",
     "twitter": "https://twitter.com/OndoFinance",
     "description": "",
-    "chainId":1,
+    "chain_id":1,
     "chain_name":"mannet"
   },
   {
@@ -2078,7 +2078,7 @@
     "website": "https://primex.finance",
     "twitter": "https://x.com/primex_official",
     "description": "",
-    "chainId":1,
+    "chain_id":1,
     "chain_name":"mannet"
   },
   {
@@ -2090,7 +2090,7 @@
     "website": "https://resolv.xyz/",
     "twitter": "https://x.com/ResolvLabs",
     "description": "",
-    "chainId":1,
+    "chain_id":1,
     "chain_name":"mannet"
   },
   {
@@ -2102,7 +2102,7 @@
     "website": "https://cultdao.io/",
     "twitter": "https://twitter.com/wearecultdao",
     "description": "",
-    "chainId":1,
+    "chain_id":1,
     "chain_name":"mannet"
   },
   {
@@ -2114,7 +2114,7 @@
     "website": "https://interestprotocol.io",
     "twitter": "https://x.com/interestdefi",
     "description": "",
-    "chainId":1,
+    "chain_id":1,
     "chain_name":"mannet"
   },
   {
@@ -2126,7 +2126,7 @@
     "website": "https://openleverage.finance/",
     "twitter": "https://twitter.com/OpenLeverage",
     "description": "",
-    "chainId":1,
+    "chain_id":1,
     "chain_name":"mannet"
   },
   {
@@ -2138,7 +2138,7 @@
     "website": "https://www.movementnetwork.xyz",
     "twitter": "https://x.com/movementfdn",
     "description": "",
-    "chainId":1,
+    "chain_id":1,
     "chain_name":"mannet"
   },
   {
@@ -2150,7 +2150,7 @@
     "website": "https://www.eigenlayer.xyz/",
     "twitter": "https://twitter.com/eigenlayer",
     "description": "",
-    "chainId":1,
+    "chain_id":1,
     "chain_name":"mannet"
   },
   {
@@ -2162,7 +2162,7 @@
     "website": "https://www.m0.org",
     "twitter": "http://www.x.com/m0foundation",
     "description": "",
-    "chainId":1,
+    "chain_id":1,
     "chain_name":"mannet"
   },
   {
@@ -2174,7 +2174,7 @@
     "website": "https://instadapp.io",
     "twitter": "https://twitter.com/Instadapp",
     "description": "",
-    "chainId":1,
+    "chain_id":1,
     "chain_name":"mannet"
   },
   {
@@ -2186,7 +2186,7 @@
     "website": "https://www.asterdex.com",
     "twitter": "https://x.com/Aster_DEX",
     "description": "",
-    "chainId":1,
+    "chain_id":1,
     "chain_name":"mannet"
   },
   {
@@ -2198,7 +2198,7 @@
     "website": "https://kroma.network",
     "twitter": "https://twitter.com/kroma_network",
     "description": "",
-    "chainId":1,
+    "chain_id":1,
     "chain_name":"mannet"
   },
   {
@@ -2210,7 +2210,7 @@
     "website": "https://ampleforth.org",
     "twitter": "https://twitter.com/AmpleforthOrg",
     "description": "",
-    "chainId":1,
+    "chain_id":1,
     "chain_name":"mannet"
   },
   {
@@ -2222,7 +2222,7 @@
     "website": "https://www.matrixdock.com/",
     "twitter": "https://twitter.com/matrixdock",
     "description": "",
-    "chainId":1,
+    "chain_id":1,
     "chain_name":"mannet"
   },
   {
@@ -2234,7 +2234,7 @@
     "website": "https://www.treehouse.finance",
     "twitter": "https://x.com/TreehouseFi",
     "description": "",
-    "chainId":1,
+    "chain_id":1,
     "chain_name":"mannet"
   },
   {
@@ -2246,7 +2246,7 @@
     "website": "https://www.skatefi.org",
     "twitter": "https://x.com/skate_fi",
     "description": "",
-    "chainId":1,
+    "chain_id":1,
     "chain_name":"mannet"
   },
   {
@@ -2258,7 +2258,7 @@
     "website": "https://www.dopex.io",
     "twitter": "http://www.x.com/stryke_xyz",
     "description": "",
-    "chainId":1,
+    "chain_id":1,
     "chain_name":"mannet"
   },
   {
@@ -2270,7 +2270,7 @@
     "website": "https://www.asterdex.com",
     "twitter": "https://x.com/Aster_DEX",
     "description": "",
-    "chainId":1,
+    "chain_id":1,
     "chain_name":"mannet"
   },
   {
@@ -2282,7 +2282,7 @@
     "website": "https://staderlabs.com/",
     "twitter": "https://twitter.com/staderlabs",
     "description": "",
-    "chainId":1,
+    "chain_id":1,
     "chain_name":"mannet"
   },
   {
@@ -2294,7 +2294,7 @@
     "website": "https://hanep.io",
     "twitter": "https://x.com/HANeP_official",
     "description": "",
-    "chainId":1,
+    "chain_id":1,
     "chain_name":"mannet"
   },
   {
@@ -2306,7 +2306,7 @@
     "website": "https://veda.tech",
     "twitter": "https://x.com/veda_labs",
     "description": "",
-    "chainId":1,
+    "chain_id":1,
     "chain_name":"mannet"
   },
   {
@@ -2318,7 +2318,7 @@
     "website": "https://relay.link/",
     "twitter": "https://x.com/RelayProtocol",
     "description": "",
-    "chainId":1,
+    "chain_id":1,
     "chain_name":"mannet"
   },
   {
@@ -2330,7 +2330,7 @@
     "website": "https://beefy.finance/",
     "twitter": "https://twitter.com/beefyfinance",
     "description": "",
-    "chainId":1,
+    "chain_id":1,
     "chain_name":"mannet"
   },
   {
@@ -2342,7 +2342,7 @@
     "website": "https://www.euler.finance/",
     "twitter": "https://twitter.com/eulerfinance",
     "description": "",
-    "chainId":1,
+    "chain_id":1,
     "chain_name":"mannet"
   },
   {
@@ -2354,7 +2354,7 @@
     "website": "https://uniswap.org",
     "twitter": "https://twitter.com/Uniswap",
     "description": "",
-    "chainId":1,
+    "chain_id":1,
     "chain_name":"mannet"
   },
   {
@@ -2366,7 +2366,7 @@
     "website": "https://scroll.io",
     "twitter": "https://twitter.com/Scroll_ZKP",
     "description": "",
-    "chainId":1,
+    "chain_id":1,
     "chain_name":"mannet"
   },
   {
@@ -2378,7 +2378,7 @@
     "website": "https://granary.finance",
     "twitter": "https://twitter.com/GranaryFinance",
     "description": "",
-    "chainId":1,
+    "chain_id":1,
     "chain_name":"mannet"
   },
   {
@@ -2390,7 +2390,7 @@
     "website": "https://www.yieldnest.finance",
     "twitter": "http://www.x.com/YieldNestFi",
     "description": "",
-    "chainId":1,
+    "chain_id":1,
     "chain_name":"mannet"
   },
   {
@@ -2402,7 +2402,7 @@
     "website": "https://www.dypius.com",
     "twitter": "https://x.com/dypius",
     "description": "",
-    "chainId":1,
+    "chain_id":1,
     "chain_name":"mannet"
   },
   {
@@ -2414,7 +2414,7 @@
     "website": "https://www.mantle.xyz",
     "twitter": "https://twitter.com/0xMantle",
     "description": "",
-    "chainId":1,
+    "chain_id":1,
     "chain_name":"mannet"
   },
   {
@@ -2426,7 +2426,7 @@
     "website": "https://unslashed.finance/",
     "twitter": "https://twitter.com/UnslashedF",
     "description": "",
-    "chainId":1,
+    "chain_id":1,
     "chain_name":"mannet"
   },
   {
@@ -2438,7 +2438,7 @@
     "website": "https://perennial.finance",
     "twitter": "https://twitter.com/perenniallabs",
     "description": "",
-    "chainId":1,
+    "chain_id":1,
     "chain_name":"mannet"
   },
   {
@@ -2450,7 +2450,7 @@
     "website": "https://www.hyperlane.xyz",
     "twitter": "http://www.x.com/hyperlane",
     "description": "",
-    "chainId":1,
+    "chain_id":1,
     "chain_name":"mannet"
   },
   {
@@ -2462,7 +2462,7 @@
     "website": "https://reserve.org",
     "twitter": "https://twitter.com/reserveprotocol",
     "description": "",
-    "chainId":1,
+    "chain_id":1,
     "chain_name":"mannet"
   },
   {
@@ -2474,7 +2474,7 @@
     "website": "https://veda.tech",
     "twitter": "https://x.com/veda_labs",
     "description": "",
-    "chainId":1,
+    "chain_id":1,
     "chain_name":"mannet"
   },
   {
@@ -2486,7 +2486,7 @@
     "website": "https://manifold.xyz/",
     "twitter": "https://twitter.com/manifoldxyz",
     "description": "",
-    "chainId":1,
+    "chain_id":1,
     "chain_name":"mannet"
   },
   {
@@ -2498,7 +2498,7 @@
     "website": "https://staderlabs.com/",
     "twitter": "https://twitter.com/staderlabs",
     "description": "",
-    "chainId":1,
+    "chain_id":1,
     "chain_name":"mannet"
   },
   {
@@ -2510,7 +2510,7 @@
     "website": "https://ether.fi/",
     "twitter": "https://twitter.com/ether_fi",
     "description": "",
-    "chainId":1,
+    "chain_id":1,
     "chain_name":"mannet"
   },
   {
@@ -2522,7 +2522,7 @@
     "website": "https://www.matrixdock.com/",
     "twitter": "https://twitter.com/matrixdock",
     "description": "",
-    "chainId":1,
+    "chain_id":1,
     "chain_name":"mannet"
   },
   {
@@ -2534,7 +2534,7 @@
     "website": "https://scroll.io",
     "twitter": "https://twitter.com/Scroll_ZKP",
     "description": "",
-    "chainId":1,
+    "chain_id":1,
     "chain_name":"mannet"
   },
   {
@@ -2546,7 +2546,7 @@
     "website": "https://nested.fi",
     "twitter": "https://twitter.com/nestedfi",
     "description": "",
-    "chainId":1,
+    "chain_id":1,
     "chain_name":"mannet"
   },
   {
@@ -2558,7 +2558,7 @@
     "website": "https://reserve.org",
     "twitter": "https://twitter.com/reserveprotocol",
     "description": "",
-    "chainId":1,
+    "chain_id":1,
     "chain_name":"mannet"
   },
   {
@@ -2570,7 +2570,7 @@
     "website": "https://0x.org",
     "twitter": "https://twitter.com/0xProject",
     "description": "",
-    "chainId":1,
+    "chain_id":1,
     "chain_name":"mannet"
   },
   {
@@ -2582,7 +2582,7 @@
     "website": "https://kroma.network",
     "twitter": "https://twitter.com/kroma_network",
     "description": "",
-    "chainId":1,
+    "chain_id":1,
     "chain_name":"mannet"
   },
   {
@@ -2594,7 +2594,7 @@
     "website": "https://scroll.io",
     "twitter": "https://twitter.com/Scroll_ZKP",
     "description": "",
-    "chainId":1,
+    "chain_id":1,
     "chain_name":"mannet"
   },
   {
@@ -2606,7 +2606,7 @@
     "website": "https://cian.app",
     "twitter": "https://twitter.com/CIAN_protocol",
     "description": "",
-    "chainId":1,
+    "chain_id":1,
     "chain_name":"mannet"
   },
   {
@@ -2618,7 +2618,7 @@
     "website": "https://nouns.wtf/",
     "twitter": "https://twitter.com/nounsdao",
     "description": "",
-    "chainId":1,
+    "chain_id":1,
     "chain_name":"mannet"
   },
   {
@@ -2630,7 +2630,7 @@
     "website": "https://superverse.cool",
     "twitter": "http://www.x.com/SuperVerse",
     "description": "",
-    "chainId":1,
+    "chain_id":1,
     "chain_name":"mannet"
   },
   {
@@ -2642,7 +2642,7 @@
     "website": "https://veda.tech",
     "twitter": "https://x.com/veda_labs",
     "description": "",
-    "chainId":1,
+    "chain_id":1,
     "chain_name":"mannet"
   },
   {
@@ -2654,7 +2654,7 @@
     "website": "https://paraswap.io",
     "twitter": "https://twitter.com/paraswap",
     "description": "",
-    "chainId":1,
+    "chain_id":1,
     "chain_name":"mannet"
   },
   {
@@ -2666,7 +2666,7 @@
     "website": "https://angle.money",
     "twitter": "https://twitter.com/AngleProtocol",
     "description": "",
-    "chainId":1,
+    "chain_id":1,
     "chain_name":"mannet"
   },
   {
@@ -2678,7 +2678,7 @@
     "website": "https://onyx.org/",
     "twitter": "https://x.com/OnyxDAO",
     "description": "",
-    "chainId":1,
+    "chain_id":1,
     "chain_name":"mannet"
   },
   {
@@ -2690,7 +2690,7 @@
     "website": "https://chain.link",
     "twitter": "https://twitter.com/chainlink",
     "description": "",
-    "chainId":1,
+    "chain_id":1,
     "chain_name":"mannet"
   },
   {
@@ -2702,7 +2702,7 @@
     "website": "https://reserve.org",
     "twitter": "https://twitter.com/reserveprotocol",
     "description": "",
-    "chainId":1,
+    "chain_id":1,
     "chain_name":"mannet"
   },
   {
@@ -2714,7 +2714,7 @@
     "website": "https://www.spectrallabs.xyz",
     "twitter": "http://www.x.com/Spectral_Labs",
     "description": "",
-    "chainId":1,
+    "chain_id":1,
     "chain_name":"mannet"
   },
   {
@@ -2726,7 +2726,7 @@
     "website": "https://defirex.org/",
     "twitter": "https://twitter.com/DeFireXorg",
     "description": "",
-    "chainId":1,
+    "chain_id":1,
     "chain_name":"mannet"
   },
   {
@@ -2738,7 +2738,7 @@
     "website": "https://veda.tech",
     "twitter": "https://x.com/veda_labs",
     "description": "",
-    "chainId":1,
+    "chain_id":1,
     "chain_name":"mannet"
   },
   {
@@ -2750,7 +2750,7 @@
     "website": "https://www.lombard.finance",
     "twitter": "https://x.com/Lombard_Finance",
     "description": "",
-    "chainId":1,
+    "chain_id":1,
     "chain_name":"mannet"
   },
   {
@@ -2762,7 +2762,7 @@
     "website": "https://www.hyperlane.xyz",
     "twitter": "http://www.x.com/hyperlane",
     "description": "",
-    "chainId":1,
+    "chain_id":1,
     "chain_name":"mannet"
   },
   {
@@ -2774,7 +2774,7 @@
     "website": "https://relay.link/",
     "twitter": "https://x.com/RelayProtocol",
     "description": "",
-    "chainId":1,
+    "chain_id":1,
     "chain_name":"mannet"
   },
   {
@@ -2786,7 +2786,7 @@
     "website": "https://www.chainup.com/",
     "twitter": "https://twitter.com/ChainUpOfficial",
     "description": "",
-    "chainId":1,
+    "chain_id":1,
     "chain_name":"mannet"
   },
   {
@@ -2798,7 +2798,7 @@
     "website": "https://www.hyperlane.xyz",
     "twitter": "http://www.x.com/hyperlane",
     "description": "",
-    "chainId":1,
+    "chain_id":1,
     "chain_name":"mannet"
   },
   {
@@ -2810,7 +2810,7 @@
     "website": "https://superverse.cool",
     "twitter": "http://www.x.com/SuperVerse",
     "description": "",
-    "chainId":1,
+    "chain_id":1,
     "chain_name":"mannet"
   },
   {
