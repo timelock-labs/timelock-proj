@@ -6,7 +6,7 @@
     "description": "",
     "website": "https://nouns.wtf/",
     "chain_id":1,
-    "chain_name":"mannet"
+    "chain_name":"mainnet"
   },
   {
     "address": "0x22276a1bd16bc3052b362c2e0f65aace04ed6f99",
@@ -15,7 +15,7 @@
     "description": "",
     "website": "https://matrixdock.com/",
     "chain_id":1,
-    "chain_name":"mannet"
+    "chain_name":"mainnet"
   },
   {
     "address": "0xcd425f44758a08baab3c4908f3e3de5776e45d7a",
@@ -24,7 +24,7 @@
     "description": "",
     "website": "https://ether.fi/",
     "chain_id":1,
-    "chain_name":"mannet"
+    "chain_name":"mainnet"
   },
   {
     "address": "0xa8c5e2e85aaadc47d88bb3c414ba9e853f674f85",
@@ -33,7 +33,7 @@
     "description": "",
     "website": "https://www.euler.finance/",
     "chain_id":1,
-    "chain_name":"mannet"
+    "chain_name":"mainnet"
   },
   {
     "address": "0x23ca665c8a73292fc7ac2cc4493d2ce883bba468",
@@ -42,7 +42,7 @@
     "description": "",
     "website": "https://www.m0.org/",
     "chain_id":1,
-    "chain_name":"mannet"
+    "chain_name":"mainnet"
   },
   {
     "address": "0xfedc4dd5247b93feb41e899a09c44cfabec29cbc",
@@ -51,7 +51,7 @@
     "description": "",
     "website": "https://coinmarketcap.com/currencies/bzx-protocol/",
     "chain_id":1,
-    "chain_name":"mannet"
+    "chain_name":"mainnet"
   },
   {
     "address": "0x6d903f6003cca6255d85cca4d3b5e5146dc33925",
@@ -60,7 +60,7 @@
     "description": "",
     "website": "https://www.base.org/",
     "chain_id":1,
-    "chain_name":"mannet"
+    "chain_name":"mainnet"
   },
   {
     "address": "0xd6b95c960779c72b8c6752119849318e5d550574",
@@ -69,7 +69,7 @@
     "description": "",
     "website": "https://www.linea.build/",
     "chain_id":1,
-    "chain_name":"mannet"
+    "chain_name":"mainnet"
   },
   {
     "address": "0x2386DC45AdDed673317eF068992F19421B481F4c",
@@ -78,7 +78,7 @@
     "description": "",
     "website": "https://instadapp.io/",
     "chain_id":1,
-    "chain_name":"mannet"
+    "chain_name":"mainnet"
   },
   {
     "address": "0x38542447c49d24e617fc06113295d7aaa3bec4b6",
@@ -87,7 +87,7 @@
     "description": "",
     "website": "https://caliber.build/",
     "chain_id":1,
-    "chain_name":"mannet"
+    "chain_name":"mainnet"
   },
   {
     "address": "0x705f82bb431fada1a0f11d7b77b3f0586c545cbc",
@@ -96,7 +96,7 @@
     "description": "",
     "website": "https://www.cove.finance/",
     "chain_id":1,
-    "chain_name":"mannet"
+    "chain_name":"mainnet"
   },
   {
     "address": "0xe6394fa7d69343908a4ad5cc4ece13beb4348910",
@@ -105,7 +105,7 @@
     "description": "",
     "website": "https://hats.finance/",
     "chain_id":1,
-    "chain_name":"mannet"
+    "chain_name":"mainnet"
   },
   {
     "address": "0x4e4c314e2391a58775be6a15d7a05419ba7d2b6e",
@@ -114,7 +114,7 @@
     "description": "",
     "website": "https://www.bendao.finance/",
     "chain_id":1,
-    "chain_name":"mannet"
+    "chain_name":"mainnet"
   },
   {
     "address": "0x87f005317692d05baa4193ab0c961c69e175f45f",
@@ -123,7 +123,7 @@
     "description": "",
     "website": "https://www.threshold.network/",
     "chain_id":1,
-    "chain_name":"mannet"
+    "chain_name":"mainnet"
   },
   {
     "address": "0x223592a191ecfc7fdc38a9256c3bd96e771539a9",
@@ -132,7 +132,7 @@
     "description": "",
     "website": "https://www.ampleforth.org/",
     "chain_id":1,
-    "chain_name":"mannet"
+    "chain_name":"mainnet"
   },
   {
     "address": "0x926df14a23be491164dcf93f4c468a50ef659d5b",
@@ -141,7 +141,7 @@
     "description": "",
     "website": "https://www.inverse.finance/",
     "chain_id":1,
-    "chain_name":"mannet"
+    "chain_name":"mainnet"
   },
   {
     "address": "0x1dccd4628d48a50c1a7adea3848bcc869f08f8c2",
@@ -150,7 +150,7 @@
     "description": "",
     "website": "https://www.3jane.xyz/",
     "chain_id":1,
-    "chain_name":"mannet"
+    "chain_name":"mainnet"
   },
   {
     "address": "0x7e9c956e3efa81ace71905ff0daef1a71f42cbc5",
@@ -159,7 +159,7 @@
     "description": "",
     "website": "https://www.rarible.com/",
     "chain_id":1,
-    "chain_name":"mannet"
+    "chain_name":"mainnet"
   },
  {
     "address": "0xFFdf60c0f83be68C906fb5B8c481A719845bb0a0",
@@ -171,7 +171,7 @@
     "twitter": "https://x.com/primex_official",
     "description": "",
     "chain_id":1,
-    "chain_name":"mannet"
+    "chain_name":"mainnet"
   },
   {
     "address": "0xff199C94507c5090c003179BfDf9Bf81416647db",
@@ -183,7 +183,7 @@
     "twitter": "https://twitter.com/LybraFinanceLSD",
     "description": "",
     "chain_id":1,
-    "chain_name":"mannet"
+    "chain_name":"mainnet"
   },
   {
     "address": "0xff176110B1eBeb813fC02Ab108272d21b4eD8f83",
@@ -195,7 +195,7 @@
     "twitter": "https://x.com/veda_labs",
     "description": "",
     "chain_id":1,
-    "chain_name":"mannet"
+    "chain_name":"mainnet"
   },
   {
     "address": "0xfedC4dD5247B93feb41e899A09C44cFaBec29Cbc",
@@ -207,7 +207,7 @@
     "twitter": "https://twitter.com/bZxHQ",
     "description": "",
     "chain_id":1,
-    "chain_name":"mannet"
+    "chain_name":"mainnet"
   },
   {
     "address": "0xFe89cc7aBB2C4183683ab71653C4cdc9B02D44b7",
@@ -219,7 +219,7 @@
     "twitter": "https://twitter.com/ensdomains",
     "description": "",
     "chain_id":1,
-    "chain_name":"mannet"
+    "chain_name":"mainnet"
   },
   {
     "address": "0xFD5D54dB16A514951C5DB740B5780C9A75ddf87B",
@@ -231,7 +231,7 @@
     "twitter": "https://twitter.com/beefyfinance",
     "description": "",
     "chain_id":1,
-    "chain_name":"mannet"
+    "chain_name":"mainnet"
   },
   {
     "address": "0xfb034c1C6c7F42171b2d1Cb8486E0f43ED07A968",
@@ -243,7 +243,7 @@
     "twitter": "https://twitter.com/eulerfinance",
     "description": "",
     "chain_id":1,
-    "chain_name":"mannet"
+    "chain_name":"mainnet"
   },
   {
     "address": "0xF5dF3d2750E3b18B1CaA2b7E30796973bB9bE715",
@@ -255,7 +255,7 @@
     "twitter": "https://twitter.com/chainlink",
     "description": "",
     "chain_id":1,
-    "chain_name":"mannet"
+    "chain_name":"mainnet"
   },
   {
     "address": "0xf5693Bbe961F166a2fE96094d25567f7517f27B7",
@@ -267,7 +267,7 @@
     "twitter": "https://twitter.com/fluence_project",
     "description": "",
     "chain_id":1,
-    "chain_name":"mannet"
+    "chain_name":"mainnet"
   },
   {
     "address": "0xf55A9f74e46A667E7CC56180D9669CAeCFB3A2Ce",
@@ -279,7 +279,7 @@
     "twitter": "https://x.com/RelayProtocol",
     "description": "",
     "chain_id":1,
-    "chain_name":"mannet"
+    "chain_name":"mainnet"
   },
   {
     "address": "0xF4954ae0F18B236b643A4Bf126e743F23f755024",
@@ -291,7 +291,7 @@
     "twitter": "https://twitter.com/rockx_official",
     "description": "",
     "chain_id":1,
-    "chain_name":"mannet"
+    "chain_name":"mainnet"
   },
   {
     "address": "0xf253f83AcA21aAbD2A20553AE0BF7F65C755A07F",
@@ -303,7 +303,7 @@
     "twitter": "https://twitter.com/CurveFinance",
     "description": "",
     "chain_id":1,
-    "chain_name":"mannet"
+    "chain_name":"mainnet"
   },
   {
     "address": "0xea5d87D95de328C405E5693A0aD921c1512dd409",
@@ -315,7 +315,7 @@
     "twitter": "https://x.com/veda_labs",
     "description": "",
     "chain_id":1,
-    "chain_name":"mannet"
+    "chain_name":"mainnet"
   },
   {
     "address": "0xea34B9753EA7B2fB94d30a32A57226275D1840db",
@@ -327,7 +327,7 @@
     "twitter": "https://twitter.com/SturdyFinance",
     "description": "",
     "chain_id":1,
-    "chain_name":"mannet"
+    "chain_name":"mainnet"
   },
   {
     "address": "0xe9A64f2908E4605814e0C52Faa46854556d612B2",
@@ -339,7 +339,7 @@
     "twitter": "https://x.com/turtledotxyz",
     "description": "",
     "chain_id":1,
-    "chain_name":"mannet"
+    "chain_name":"mainnet"
   },
   {
     "address": "0xE84f5b1582BA325fDf9cE6B0c1F087ccfC924e54",
@@ -351,7 +351,7 @@
     "twitter": "https://twitter.com/CurveFinance",
     "description": "",
     "chain_id":1,
-    "chain_name":"mannet"
+    "chain_name":"mainnet"
   },
   {
     "address": "0xe789af79D295B0e4fA1C1E8a1B6Fe186c1ae2326",
@@ -363,7 +363,7 @@
     "twitter": "https://twitter.com/StrikeFinance",
     "description": "",
     "chain_id":1,
-    "chain_name":"mannet"
+    "chain_name":"mainnet"
   },
   {
     "address": "0xE6841D92B0C345144506576eC13ECf5103aC7f49",
@@ -375,7 +375,7 @@
     "twitter": "https://twitter.com/arbitrum",
     "description": "",
     "chain_id":1,
-    "chain_name":"mannet"
+    "chain_name":"mainnet"
   },
   {
     "address": "0xe2A63438747D2c71E14BdC2Cc222be89B1C11D03",
@@ -387,7 +387,7 @@
     "twitter": "https://twitter.com/Equilibriafi",
     "description": "",
     "chain_id":1,
-    "chain_name":"mannet"
+    "chain_name":"mainnet"
   },
   {
     "address": "0xe1F03b7B0eBf84e9B9f62a1dB40f1Efb8FaA7d22",
@@ -399,7 +399,7 @@
     "twitter": "https://twitter.com/SiloFinance",
     "description": "",
     "chain_id":1,
-    "chain_name":"mannet"
+    "chain_name":"mainnet"
   },
   {
     "address": "0xdf3914Ad8e29509718Ec1efc5037A7F1764380B8",
@@ -411,7 +411,7 @@
     "twitter": "https://twitter.com/SturdyFinance",
     "description": "",
     "chain_id":1,
-    "chain_name":"mannet"
+    "chain_name":"mainnet"
   },
   {
     "address": "0xDE1E704dae0B4051e80DAbB26ab6ad6c12262DA0",
@@ -423,7 +423,7 @@
     "twitter": "https://twitter.com/DeusDao",
     "description": "",
     "chain_id":1,
-    "chain_name":"mannet"
+    "chain_name":"mainnet"
   },
   {
     "address": "0xDC1d1189Da69Ae2016E4976A43De20972D349B1b",
@@ -435,7 +435,7 @@
     "twitter": "https://twitter.com/Scroll_ZKP",
     "description": "",
     "chain_id":1,
-    "chain_name":"mannet"
+    "chain_name":"mainnet"
   },
   {
     "address": "0xDbE09a066f6D42935f702F700b7E0E5F56028Df2",
@@ -447,7 +447,7 @@
     "twitter": "https://x.com/veda_labs",
     "description": "",
     "chain_id":1,
-    "chain_name":"mannet"
+    "chain_name":"mainnet"
   },
   {
     "address": "0xdA9F8373e5129021695F220B84bAe3204bC27Cf6",
@@ -459,7 +459,7 @@
     "twitter": "https://twitter.com/magpiexyz_io",
     "description": "",
     "chain_id":1,
-    "chain_name":"mannet"
+    "chain_name":"mainnet"
   },
   {
     "address": "0xD6dABBc2b275114a2366555d6C481EF08FDC2556",
@@ -471,7 +471,7 @@
     "twitter": "https://x.com/paretocredit",
     "description": "",
     "chain_id":1,
-    "chain_name":"mannet"
+    "chain_name":"mainnet"
   },
   {
     "address": "0xd51dbA7a94e1adEa403553A8235C302cEbF41a3c",
@@ -483,7 +483,7 @@
     "twitter": "https://twitter.com/feiprotocol",
     "description": "",
     "chain_id":1,
-    "chain_name":"mannet"
+    "chain_name":"mainnet"
   },
   {
     "address": "0xD51a44d3FaE010294C616388b506AcdA1bfAAE46",
@@ -495,7 +495,7 @@
     "twitter": "https://twitter.com/CurveFinance",
     "description": "",
     "chain_id":1,
-    "chain_name":"mannet"
+    "chain_name":"mainnet"
   },
   {
     "address": "0xd3E822c7d7da4374a0715d6F350684bb1023A60C",
@@ -507,7 +507,7 @@
     "twitter": "https://twitter.com/ArrakisFinance",
     "description": "",
     "chain_id":1,
-    "chain_name":"mannet"
+    "chain_name":"mainnet"
   },
   {
     "address": "0xD3cFc4E65a73BB6C482383EB38f5C3E1d1411616",
@@ -519,7 +519,7 @@
     "twitter": "https://twitter.com/StakeDAOHQ",
     "description": "",
     "chain_id":1,
-    "chain_name":"mannet"
+    "chain_name":"mainnet"
   },
   {
     "address": "0xCE8DdA3c60E7D59d74Df844428e43018394Aa5Fc",
@@ -531,7 +531,7 @@
     "twitter": "https://x.com/veda_labs",
     "description": "",
     "chain_id":1,
-    "chain_name":"mannet"
+    "chain_name":"mainnet"
   },
   {
     "address": "0xCABcD58CcF2369f3e05992C503c30C38Bf9DF21b",
@@ -543,7 +543,7 @@
     "twitter": "https://twitter.com/reserveprotocol",
     "description": "",
     "chain_id":1,
-    "chain_name":"mannet"
+    "chain_name":"mainnet"
   },
   {
     "address": "0xCa2DF225ba3c4743E02611EC423FaAC311dEEEd4",
@@ -555,7 +555,7 @@
     "twitter": "https://twitter.com/swellnetworkio",
     "description": "",
     "chain_id":1,
-    "chain_name":"mannet"
+    "chain_name":"mainnet"
   },
   {
     "address": "0xC7Cb1dE2721BFC0E0DA1b9D526bCdC54eF1C0eFC",
@@ -567,7 +567,7 @@
     "twitter": "https://twitter.com/Instadapp",
     "description": "",
     "chain_id":1,
-    "chain_name":"mannet"
+    "chain_name":"mainnet"
   },
   {
     "address": "0xC689b08FaAE8a1Aefb10516E9470bC97B5C87C90",
@@ -579,7 +579,7 @@
     "twitter": "http://www.x.com/OpenEden_X",
     "description": "",
     "chain_id":1,
-    "chain_name":"mannet"
+    "chain_name":"mainnet"
   },
   {
     "address": "0xc676D85F41552cE83337A2B8e746F869D2AF4Ac4",
@@ -591,7 +591,7 @@
     "twitter": "https://twitter.com/matrixdock",
     "description": "",
     "chain_id":1,
-    "chain_name":"mannet"
+    "chain_name":"mainnet"
   },
   {
     "address": "0xc37D83D1a5D82984F795bf0f7B31005fF7dd796c",
@@ -603,7 +603,7 @@
     "twitter": "https://twitter.com/LybraFinanceLSD",
     "description": "",
     "chain_id":1,
-    "chain_name":"mannet"
+    "chain_name":"mainnet"
   },
   {
     "address": "0xc26016f1166bE7b6c5611AAB104122E0f6c2aCE2",
@@ -615,7 +615,7 @@
     "twitter": "https://twitter.com/0xMantle",
     "description": "",
     "chain_id":1,
-    "chain_name":"mannet"
+    "chain_name":"mainnet"
   },
   {
     "address": "0xc106C292dB0176Be602D4d9b340473FECc99edF6",
@@ -627,7 +627,7 @@
     "twitter": "https://twitter.com/nestedfi",
     "description": "",
     "chain_id":1,
-    "chain_name":"mannet"
+    "chain_name":"mainnet"
   },
   {
     "address": "0xc0939a4Ed0129bc5162F6f693935B3F72a46a90D",
@@ -639,7 +639,7 @@
     "twitter": "https://twitter.com/Contango_xyz",
     "description": "",
     "chain_id":1,
-    "chain_name":"mannet"
+    "chain_name":"mainnet"
   },
   {
     "address": "0xbE7f338c04F4A672D4C1EBeE99648A6AAc71d86e",
@@ -651,7 +651,7 @@
     "twitter": "https://twitter.com/SturdyFinance",
     "description": "",
     "chain_id":1,
-    "chain_name":"mannet"
+    "chain_name":"mainnet"
   },
   {
     "address": "0xbbB685D609B6a0fbc2f6647De51fCa1F2D02D30e",
@@ -663,7 +663,7 @@
     "twitter": "https://twitter.com/RenzoProtocol",
     "description": "",
     "chain_id":1,
-    "chain_name":"mannet"
+    "chain_name":"mainnet"
   },
   {
     "address": "0xbA829003e6b5dD858fbed3945719939a6DC3073b",
@@ -675,7 +675,7 @@
     "twitter": "https://twitter.com/swellnetworkio",
     "description": "",
     "chain_id":1,
-    "chain_name":"mannet"
+    "chain_name":"mainnet"
   },
   {
     "address": "0xB9D118DB10f047a06FBb569725c3D1882edcBbcB",
@@ -687,7 +687,7 @@
     "twitter": "https://twitter.com/augmentlabs_io",
     "description": "",
     "chain_id":1,
-    "chain_name":"mannet"
+    "chain_name":"mainnet"
   },
   {
     "address": "0xB6A1F58C5Df9f13312639cdDDA0D128bf28CDD87",
@@ -699,7 +699,7 @@
     "twitter": "https://twitter.com/0xProject",
     "description": "",
     "chain_id":1,
-    "chain_name":"mannet"
+    "chain_name":"mainnet"
   },
   {
     "address": "0xB5EFe3783Db55B913C79CBdB81C9d2C0a993f5f0",
@@ -711,7 +711,7 @@
     "twitter": "https://twitter.com/WalletConnect",
     "description": "",
     "chain_id":1,
-    "chain_name":"mannet"
+    "chain_name":"mainnet"
   },
   {
     "address": "0xB576491F1E6e5E62f1d8F26062Ee822B40B0E0d4",
@@ -723,7 +723,7 @@
     "twitter": "https://twitter.com/CurveFinance",
     "description": "",
     "chain_id":1,
-    "chain_name":"mannet"
+    "chain_name":"mainnet"
   },
   {
     "address": "0xb3e586BCE929312e8B0685E2c12c1d6dbbcdc370",
@@ -735,7 +735,7 @@
     "twitter": "https://twitter.com/Instadapp",
     "description": "",
     "chain_id":1,
-    "chain_name":"mannet"
+    "chain_name":"mainnet"
   },
   {
     "address": "0xb39e6f93cff9Af7011810f41a4ed9b14582019b7",
@@ -747,7 +747,7 @@
     "twitter": "https://twitter.com/CIAN_protocol",
     "description": "",
     "chain_id":1,
-    "chain_name":"mannet"
+    "chain_name":"mainnet"
   },
   {
     "address": "0xB3970Ae79fD2cD8f1060cF6BAeae27b8E2c05437",
@@ -759,7 +759,7 @@
     "twitter": "https://twitter.com/alongsidefi",
     "description": "",
     "chain_id":1,
-    "chain_name":"mannet"
+    "chain_name":"mainnet"
   },
   {
     "address": "0xb237d234F05AF7A5cC809341170d7412eFe16060",
@@ -771,7 +771,7 @@
     "twitter": "https://twitter.com/GrapFinance",
     "description": "",
     "chain_id":1,
-    "chain_name":"mannet"
+    "chain_name":"mainnet"
   },
   {
     "address": "0xAf6f9640092cB1236E5DB6E517576355b6C40b7f",
@@ -783,7 +783,7 @@
     "twitter": "https://twitter.com/ArrakisFinance",
     "description": "",
     "chain_id":1,
-    "chain_name":"mannet"
+    "chain_name":"mainnet"
   },
   {
     "address": "0xaE35522cF11Ad7bF245821a56d047210AF0cFF1b",
@@ -795,7 +795,7 @@
     "twitter": "https://x.com/veda_labs",
     "description": "",
     "chain_id":1,
-    "chain_name":"mannet"
+    "chain_name":"mainnet"
   },
   {
     "address": "0xAdCFcf9894335dC340f6Cd182aFA45999F45Fc44",
@@ -807,7 +807,7 @@
     "twitter": "https://twitter.com/CurveFinance",
     "description": "",
     "chain_id":1,
-    "chain_name":"mannet"
+    "chain_name":"mainnet"
   },
   {
     "address": "0xaDa78a5E01325B91Bc7879a63c309F7D54d42950",
@@ -819,7 +819,7 @@
     "twitter": "https://twitter.com/sommfinance",
     "description": "",
     "chain_id":1,
-    "chain_name":"mannet"
+    "chain_name":"mainnet"
   },
   {
     "address": "0xAB4fCaE71EC6C583B9D46fA5F94aeCC51c0E9C26",
@@ -831,7 +831,7 @@
     "twitter": "https://twitter.com/LybraFinanceLSD",
     "description": "",
     "chain_id":1,
-    "chain_name":"mannet"
+    "chain_name":"mainnet"
   },
   {
     "address": "0xAa7A7e8e00761860cD849Ce963BCe7e8FbD3f984",
@@ -843,7 +843,7 @@
     "twitter": "http://www.x.com/hyperlane",
     "description": "",
     "chain_id":1,
-    "chain_name":"mannet"
+    "chain_name":"mainnet"
   },
   {
     "address": "0xAa71f75fb6948a6c814A28675241FC5E3bCaC355",
@@ -855,7 +855,7 @@
     "twitter": "https://twitter.com/sommfinance",
     "description": "",
     "chain_id":1,
-    "chain_name":"mannet"
+    "chain_name":"mainnet"
   },
   {
     "address": "0xA85c89C546FeFEf876CDd7d8030914F138593a57",
@@ -867,7 +867,7 @@
     "twitter": "https://twitter.com/CIAN_protocol",
     "description": "",
     "chain_id":1,
-    "chain_name":"mannet"
+    "chain_name":"mainnet"
   },
   {
     "address": "0xA764D3BBf051a1eE72363f4C391Bf9Bc64C79af7",
@@ -879,7 +879,7 @@
     "twitter": "https://twitter.com/fraxfinance",
     "description": "",
     "chain_id":1,
-    "chain_name":"mannet"
+    "chain_name":"mainnet"
   },
   {
     "address": "0xA6Db1A8C5a981d1536266D2a393c5F8dDb210EAF",
@@ -891,7 +891,7 @@
     "twitter": "https://twitter.com/eigenlayer",
     "description": "",
     "chain_id":1,
-    "chain_name":"mannet"
+    "chain_name":"mainnet"
   },
   {
     "address": "0xA649f6335828f070dDDd7A8c4F5bef2b6FF7Bd51",
@@ -903,7 +903,7 @@
     "twitter": "https://x.com/movementfdn",
     "description": "",
     "chain_id":1,
-    "chain_name":"mannet"
+    "chain_name":"mainnet"
   },
   {
     "address": "0xA37a23C5Eb527985caae2a710a0F0De7C49ACb9d",
@@ -915,7 +915,7 @@
     "twitter": "https://x.com/primex_official",
     "description": "",
     "chain_id":1,
-    "chain_name":"mannet"
+    "chain_name":"mainnet"
   },
   {
     "address": "0xa1F8A6807c402E4A15ef4EBa36528A3FED24E577",
@@ -927,7 +927,7 @@
     "twitter": "https://twitter.com/CurveFinance",
     "description": "",
     "chain_id":1,
-    "chain_name":"mannet"
+    "chain_name":"mainnet"
   },
   {
     "address": "0xa18ae79AEDA3e711E0CD64cfe1Cd06402d400D61",
@@ -939,7 +939,7 @@
     "twitter": "https://twitter.com/LISTA_DAO",
     "description": "",
     "chain_id":1,
-    "chain_name":"mannet"
+    "chain_name":"mainnet"
   },
   {
     "address": "0xa133C9A92Fb8dDB962Af1cbae58b2723A0bdf23b",
@@ -951,7 +951,7 @@
     "twitter": "https://twitter.com/GearboxProtocol",
     "description": "",
     "chain_id":1,
-    "chain_name":"mannet"
+    "chain_name":"mainnet"
   },
   {
     "address": "0x9A709B7B69EA42D5eeb1ceBC48674C69E1569eC6",
@@ -963,7 +963,7 @@
     "twitter": "https://twitter.com/chainlink",
     "description": "",
     "chain_id":1,
-    "chain_name":"mannet"
+    "chain_name":"mainnet"
   },
   {
     "address": "0x99FdE75655A8e9dFeb0f5F813Cc2cB203cd3C7C8",
@@ -975,7 +975,7 @@
     "twitter": "https://twitter.com/matrixdock",
     "description": "",
     "chain_id":1,
-    "chain_name":"mannet"
+    "chain_name":"mainnet"
   },
   {
     "address": "0x99c0fb1068b7F39e5A980971403f9578bfcD2e8e",
@@ -987,7 +987,7 @@
     "twitter": "https://x.com/avalonfinance_",
     "description": "",
     "chain_id":1,
-    "chain_name":"mannet"
+    "chain_name":"mainnet"
   },
   {
     "address": "0x9935a89fA42dC280C29b8f069779043b95b6362b",
@@ -999,7 +999,7 @@
     "twitter": "http://www.x.com/SuperVerse",
     "description": "",
     "chain_id":1,
-    "chain_name":"mannet"
+    "chain_name":"mainnet"
   },
   {
     "address": "0x98a7F18d4E56Cfe84E3D081B40001B3d5bD3eB8B",
@@ -1011,7 +1011,7 @@
     "twitter": "https://twitter.com/CurveFinance",
     "description": "",
     "chain_id":1,
-    "chain_name":"mannet"
+    "chain_name":"mainnet"
   },
   {
     "address": "0x98638FAcf9a3865cd033F36548713183f6996122",
@@ -1023,7 +1023,7 @@
     "twitter": "https://twitter.com/CurveFinance",
     "description": "",
     "chain_id":1,
-    "chain_name":"mannet"
+    "chain_name":"mainnet"
   },
   {
     "address": "0x9838eCcC42659FA8AA7daF2aD134b53984c9427b",
@@ -1035,7 +1035,7 @@
     "twitter": "https://twitter.com/CurveFinance",
     "description": "",
     "chain_id":1,
-    "chain_name":"mannet"
+    "chain_name":"mainnet"
   },
   {
     "address": "0x97A23E208D9de5546C3dfac655cB88288c8d6Aff",
@@ -1047,7 +1047,7 @@
     "twitter": "https://twitter.com/sommfinance",
     "description": "",
     "chain_id":1,
-    "chain_name":"mannet"
+    "chain_name":"mainnet"
   },
   {
     "address": "0x96b5CE041311F82E8CdE62295266A74E53d219b6",
@@ -1059,7 +1059,7 @@
     "twitter": "https://x.com/veda_labs",
     "description": "",
     "chain_id":1,
-    "chain_name":"mannet"
+    "chain_name":"mainnet"
   },
   {
     "address": "0x95725e8D2f9Fca1A122296F366F0DEEdaBE6d88A",
@@ -1071,7 +1071,7 @@
     "twitter": "https://twitter.com/FODLfi",
     "description": "",
     "chain_id":1,
-    "chain_name":"mannet"
+    "chain_name":"mainnet"
   },
   {
     "address": "0x953EA3223d2dd3c1A91E9D6cca1bf7Af162C9c39",
@@ -1083,7 +1083,7 @@
     "twitter": "https://twitter.com/OlympusDAO",
     "description": "",
     "chain_id":1,
-    "chain_name":"mannet"
+    "chain_name":"mainnet"
   },
   {
     "address": "0x946F01f13eCafdbbd4CC2BDEd41703b3365b9D17",
@@ -1095,7 +1095,7 @@
     "twitter": "https://twitter.com/ether_fi",
     "description": "",
     "chain_id":1,
-    "chain_name":"mannet"
+    "chain_name":"mainnet"
   },
   {
     "address": "0x926dF14a23BE491164dCF93f4c468A50ef659D5B",
@@ -1107,7 +1107,7 @@
     "twitter": "https://twitter.com/InverseFinance",
     "description": "",
     "chain_id":1,
-    "chain_name":"mannet"
+    "chain_name":"mainnet"
   },
   {
     "address": "0x92693F9EDB8Dd60E4332775d4b877b1c88092995",
@@ -1119,7 +1119,7 @@
     "twitter": "https://twitter.com/ClayStack_HQ",
     "description": "",
     "chain_id":1,
-    "chain_name":"mannet"
+    "chain_name":"mainnet"
   },
   {
     "address": "0x92024C4bDa9DA602b711B9AbB610d072018eb58b",
@@ -1131,7 +1131,7 @@
     "twitter": "https://twitter.com/ExactlyProtocol",
     "description": "",
     "chain_id":1,
-    "chain_name":"mannet"
+    "chain_name":"mainnet"
   },
   {
     "address": "0x910D4dC298Baa7691EF4FE77E0C6f2c5a77b72F6",
@@ -1143,7 +1143,7 @@
     "twitter": "https://x.com/veda_labs",
     "description": "",
     "chain_id":1,
-    "chain_name":"mannet"
+    "chain_name":"mainnet"
   },
   {
     "address": "0x90523c113517A59f6BEBC123b75612Aea9FD3140",
@@ -1155,7 +1155,7 @@
     "twitter": "https://twitter.com/88mphapp",
     "description": "",
     "chain_id":1,
-    "chain_name":"mannet"
+    "chain_name":"mainnet"
   },
   {
     "address": "0x8Ee9e244F92fa158147B6114d0A8a53Dee76E97D",
@@ -1167,7 +1167,7 @@
     "twitter": "https://twitter.com/SturdyFinance",
     "description": "",
     "chain_id":1,
-    "chain_name":"mannet"
+    "chain_name":"mainnet"
   },
   {
     "address": "0x8E31eFdA4453494a84Fa6168D53Eb1418c0b4aC4",
@@ -1179,7 +1179,7 @@
     "twitter": "https://x.com/getyieldfi",
     "description": "",
     "chain_id":1,
-    "chain_name":"mannet"
+    "chain_name":"mainnet"
   },
   {
     "address": "0x8dA8f82d2BbDd896822de723F55D6EdF416130ba",
@@ -1191,7 +1191,7 @@
     "twitter": "https://twitter.com/radicle",
     "description": "",
     "chain_id":1,
-    "chain_name":"mannet"
+    "chain_name":"mainnet"
   },
   {
     "address": "0x8b4f1616751117C38a0f84F9A146cca191ea3EC5",
@@ -1203,7 +1203,7 @@
     "twitter": "https://twitter.com/YamFinance",
     "description": "",
     "chain_id":1,
-    "chain_name":"mannet"
+    "chain_name":"mainnet"
   },
   {
     "address": "0x8B1f87950204462d0F7580628b52E459711243AD",
@@ -1215,7 +1215,7 @@
     "twitter": "https://x.com/veda_labs",
     "description": "",
     "chain_id":1,
-    "chain_name":"mannet"
+    "chain_name":"mainnet"
   },
   {
     "address": "0x89308AC8f0Ab4d3E07607D0Bf9fbAc8d5D87352E",
@@ -1227,7 +1227,7 @@
     "twitter": "https://x.com/veda_labs",
     "description": "",
     "chain_id":1,
-    "chain_name":"mannet"
+    "chain_name":"mainnet"
   },
   {
     "address": "0x87F005317692D05BAA4193AB0c961c69e175f45f",
@@ -1239,7 +1239,7 @@
     "twitter": "https://twitter.com/TheTNetwork",
     "description": "",
     "chain_id":1,
-    "chain_name":"mannet"
+    "chain_name":"mainnet"
   },
   {
     "address": "0x847e33fd0b0e74269d09E1D475156dc123796c4c",
@@ -1251,7 +1251,7 @@
     "twitter": "https://x.com/veda_labs",
     "description": "",
     "chain_id":1,
-    "chain_name":"mannet"
+    "chain_name":"mainnet"
   },
   {
     "address": "0x8412ebf45bAC1B340BbE8F318b928C466c4E39CA",
@@ -1263,7 +1263,7 @@
     "twitter": "https://twitter.com/fraxfinance",
     "description": "",
     "chain_id":1,
-    "chain_name":"mannet"
+    "chain_name":"mainnet"
   },
   {
     "address": "0x83E42B695531D025312F0a0c5056bD6ecF8cF12d",
@@ -1275,7 +1275,7 @@
     "twitter": "https://twitter.com/SturdyFinance",
     "description": "",
     "chain_id":1,
-    "chain_name":"mannet"
+    "chain_name":"mainnet"
   },
   {
     "address": "0x821794E69d2831975a11f80E8092c682D5Ec8F83",
@@ -1287,7 +1287,7 @@
     "twitter": "https://twitter.com/fraxfinance",
     "description": "",
     "chain_id":1,
-    "chain_name":"mannet"
+    "chain_name":"mainnet"
   },
   {
     "address": "0x81F6e9914136Da1A1d3b1eFd14F7E0761c3d4cc7",
@@ -1299,7 +1299,7 @@
     "twitter": "https://twitter.com/RenzoProtocol",
     "description": "",
     "chain_id":1,
-    "chain_name":"mannet"
+    "chain_name":"mainnet"
   },
   {
     "address": "0x81905eae41AF5235EC4d7e9b12e8D51251b26406",
@@ -1311,7 +1311,7 @@
     "twitter": "https://twitter.com/LybraFinanceLSD",
     "description": "",
     "chain_id":1,
-    "chain_name":"mannet"
+    "chain_name":"mainnet"
   },
   {
     "address": "0x7EDE533c0B9257ae93908cdE5F98d1Cc51DD120E",
@@ -1323,7 +1323,7 @@
     "twitter": "https://x.com/veda_labs",
     "description": "",
     "chain_id":1,
-    "chain_name":"mannet"
+    "chain_name":"mainnet"
   },
   {
     "address": "0x7ec34170b540ca4cf8d2b52dbE41BE6D050Fb1D8",
@@ -1335,7 +1335,7 @@
     "twitter": "https://x.com/veda_labs",
     "description": "",
     "chain_id":1,
-    "chain_name":"mannet"
+    "chain_name":"mainnet"
   },
   {
     "address": "0x7e9c956e3EFA81Ace71905Ff0dAEf1A71f42CBC5",
@@ -1347,7 +1347,7 @@
     "twitter": "https://twitter.com/rarible",
     "description": "",
     "chain_id":1,
-    "chain_name":"mannet"
+    "chain_name":"mainnet"
   },
   {
     "address": "0x7c5Ff0C46B76B7E7078C6D311b13B4B688bd377c",
@@ -1359,7 +1359,7 @@
     "twitter": "https://x.com/veda_labs",
     "description": "",
     "chain_id":1,
-    "chain_name":"mannet"
+    "chain_name":"mainnet"
   },
   {
     "address": "0x78a3eF33cF033381FEB43ba4212f2Af5A5A0a2EA",
@@ -1371,7 +1371,7 @@
     "twitter": "https://twitter.com/ndxfi",
     "description": "",
     "chain_id":1,
-    "chain_name":"mannet"
+    "chain_name":"mainnet"
   },
   {
     "address": "0x752eBeb79963cf0732E9c0fec72a49FD1DEfAEAC",
@@ -1383,7 +1383,7 @@
     "twitter": "https://twitter.com/CurveFinance",
     "description": "",
     "chain_id":1,
-    "chain_name":"mannet"
+    "chain_name":"mainnet"
   },
   {
     "address": "0x7463eA92a1e33dF8f31987a6f62e46a6FB596a4e",
@@ -1395,7 +1395,7 @@
     "twitter": "https://x.com/veda_labs",
     "description": "",
     "chain_id":1,
-    "chain_name":"mannet"
+    "chain_name":"mainnet"
   },
   {
     "address": "0x7456d1194444D1CF40fb2854Ec686fa356F66769",
@@ -1407,7 +1407,7 @@
     "twitter": "http://www.x.com/SuperVerse",
     "description": "",
     "chain_id":1,
-    "chain_name":"mannet"
+    "chain_name":"mainnet"
   },
   {
     "address": "0x741d420ee761FD4Bd0b4573C916e30950C87e639",
@@ -1419,7 +1419,7 @@
     "twitter": "https://twitter.com/ArrakisFinance",
     "description": "",
     "chain_id":1,
-    "chain_name":"mannet"
+    "chain_name":"mainnet"
   },
   {
     "address": "0x72426BA137DEC62657306b12B1E869d43FeC6eC7",
@@ -1431,7 +1431,7 @@
     "twitter": "https://twitter.com/OriginProtocol",
     "description": "",
     "chain_id":1,
-    "chain_name":"mannet"
+    "chain_name":"mainnet"
   },
   {
     "address": "0x7237C120FCA2081f1A36AB933B065389174962B7",
@@ -1443,7 +1443,7 @@
     "twitter": "https://twitter.com/ambient_finance",
     "description": "",
     "chain_id":1,
-    "chain_name":"mannet"
+    "chain_name":"mainnet"
   },
   {
     "address": "0x6Fb8aa6fc6f27e591423009194529aE126660027",
@@ -1455,7 +1455,7 @@
     "twitter": "https://twitter.com/DDX_Official",
     "description": "",
     "chain_id":1,
-    "chain_name":"mannet"
+    "chain_name":"mainnet"
   },
   {
     "address": "0x6D9921AE0f60e11bdE8692e78991BD9495014FE3",
@@ -1467,7 +1467,7 @@
     "twitter": "https://twitter.com/MIM_Spell",
     "description": "",
     "chain_id":1,
-    "chain_name":"mannet"
+    "chain_name":"mainnet"
   },
   {
     "address": "0x6d903f6003cca6255D85CcA4D3B5E5146dC33925",
@@ -1479,7 +1479,7 @@
     "twitter": "https://twitter.com/compoundfinance",
     "description": "",
     "chain_id":1,
-    "chain_name":"mannet"
+    "chain_name":"mainnet"
   },
   {
     "address": "0x6D2d493616e9E8407509E77C6F21F5F5f52199D1",
@@ -1491,7 +1491,7 @@
     "twitter": "https://twitter.com/TProtocol_",
     "description": "",
     "chain_id":1,
-    "chain_name":"mannet"
+    "chain_name":"mainnet"
   },
   {
     "address": "0x6BA782a457744360C8a74636932e5cfC37ffEDF1",
@@ -1503,7 +1503,7 @@
     "twitter": "https://x.com/veda_labs",
     "description": "",
     "chain_id":1,
-    "chain_name":"mannet"
+    "chain_name":"mainnet"
   },
   {
     "address": "0x6b8110EB8D06c88f5Aa1f836D92Bc9958454C59D",
@@ -1515,7 +1515,7 @@
     "twitter": "https://twitter.com/lifty_io",
     "description": "",
     "chain_id":1,
-    "chain_name":"mannet"
+    "chain_name":"mainnet"
   },
   {
     "address": "0x6A67809ACFc114Aa691c8D60F5963807DC8Fc2e6",
@@ -1527,7 +1527,7 @@
     "twitter": "http://www.x.com/SuperVerse",
     "description": "",
     "chain_id":1,
-    "chain_name":"mannet"
+    "chain_name":"mainnet"
   },
   {
     "address": "0x6910d1Fb4bCE932689743457837C085963FE7E2B",
@@ -1539,7 +1539,7 @@
     "twitter": "https://twitter.com/manifoldxyz",
     "description": "",
     "chain_id":1,
-    "chain_name":"mannet"
+    "chain_name":"mainnet"
   },
   {
     "address": "0x68E0a14EAD593E757EE04d520E71F8263fb34c40",
@@ -1551,7 +1551,7 @@
     "twitter": "https://x.com/veda_labs",
     "description": "",
     "chain_id":1,
-    "chain_name":"mannet"
+    "chain_name":"mainnet"
   },
   {
     "address": "0x6504cdedbB50f3cB848b4A496bA1eDBB116331a1",
@@ -1563,7 +1563,7 @@
     "twitter": "https://x.com/veda_labs",
     "description": "",
     "chain_id":1,
-    "chain_name":"mannet"
+    "chain_name":"mainnet"
   },
   {
     "address": "0x63FbeDb9921AC303bfd76ee7E1f5145aB225fB99",
@@ -1575,7 +1575,7 @@
     "twitter": "https://x.com/turtledotxyz",
     "description": "",
     "chain_id":1,
-    "chain_name":"mannet"
+    "chain_name":"mainnet"
   },
   {
     "address": "0x6000E0D20ea0086C00900700de0ED90dD006Bb30",
@@ -1587,7 +1587,7 @@
     "twitter": "https://twitter.com/paraswap",
     "description": "",
     "chain_id":1,
-    "chain_name":"mannet"
+    "chain_name":"mainnet"
   },
   {
     "address": "0x5Be718621a3c63c7C585F57661D25431d5e4BE3F",
@@ -1599,7 +1599,7 @@
     "twitter": "https://twitter.com/blur_io",
     "description": "",
     "chain_id":1,
-    "chain_name":"mannet"
+    "chain_name":"mainnet"
   },
   {
     "address": "0x5B7b9C0a51Eaf0324815cF8Fb6ffD84Ab2900069",
@@ -1611,7 +1611,7 @@
     "twitter": "https://twitter.com/BitMartExchange",
     "description": "",
     "chain_id":1,
-    "chain_name":"mannet"
+    "chain_name":"mainnet"
   },
   {
     "address": "0x57Dbf921727818fd2e8a3e97B4958Ab69F6b6815",
@@ -1623,7 +1623,7 @@
     "twitter": "https://twitter.com/axiom_xyz",
     "description": "",
     "chain_id":1,
-    "chain_name":"mannet"
+    "chain_name":"mainnet"
   },
   {
     "address": "0x57a8865cfB1eCEf7253c27da6B4BC3dAEE5Be518",
@@ -1635,7 +1635,7 @@
     "twitter": "https://twitter.com/gitcoin",
     "description": "",
     "chain_id":1,
-    "chain_name":"mannet"
+    "chain_name":"mainnet"
   },
   {
     "address": "0x555FFF48549C1A25a723Bd8e7eD10870D82E8379",
@@ -1647,7 +1647,7 @@
     "twitter": "https://x.com/BIM_Finance",
     "description": "",
     "chain_id":1,
-    "chain_name":"mannet"
+    "chain_name":"mainnet"
   },
   {
     "address": "0x55117ECcC867Db72aEb25f728CCf57C3C3B4faEe",
@@ -1659,7 +1659,7 @@
     "twitter": "https://twitter.com/lifiprotocol",
     "description": "",
     "chain_id":1,
-    "chain_name":"mannet"
+    "chain_name":"mainnet"
   },
   {
     "address": "0x5417c5215F239B8D04f9D9c04bF43034B35AD4BD",
@@ -1671,7 +1671,7 @@
     "twitter": "https://twitter.com/Element_Market",
     "description": "",
     "chain_id":1,
-    "chain_name":"mannet"
+    "chain_name":"mainnet"
   },
   {
     "address": "0x509b82c847f90E9d19297C25965c534ae0562C35",
@@ -1683,7 +1683,7 @@
     "twitter": "https://twitter.com/Tranchess",
     "description": "",
     "chain_id":1,
-    "chain_name":"mannet"
+    "chain_name":"mainnet"
   },
   {
     "address": "0x4f4AC7a7032A14243aEbDa98Ee04a5D7Fe293d07",
@@ -1695,7 +1695,7 @@
     "twitter": "https://twitter.com/TrueFiDAO",
     "description": "",
     "chain_id":1,
-    "chain_name":"mannet"
+    "chain_name":"mainnet"
   },
   {
     "address": "0x4eeB7c5BB75Fc0DBEa4826BF568FD577f62cad21",
@@ -1707,7 +1707,7 @@
     "twitter": "https://x.com/anvil_xyz",
     "description": "",
     "chain_id":1,
-    "chain_name":"mannet"
+    "chain_name":"mainnet"
   },
   {
     "address": "0x4ee97a759AACa2EdF9c1445223b6Cd17c2eD3fb4",
@@ -1719,7 +1719,7 @@
     "twitter": "https://twitter.com/WalletConnect",
     "description": "",
     "chain_id":1,
-    "chain_name":"mannet"
+    "chain_name":"mainnet"
   },
   {
     "address": "0x4dEdfbF50d03586f2D5D1653Ea4a75Fe311592dE",
@@ -1731,7 +1731,7 @@
     "twitter": "https://x.com/veda_labs",
     "description": "",
     "chain_id":1,
-    "chain_name":"mannet"
+    "chain_name":"mainnet"
   },
   {
     "address": "0x4c362faB50Bc81F0F58ef2DA6b6E10b55FC1d478",
@@ -1743,7 +1743,7 @@
     "twitter": "https://twitter.com/alongsidefi",
     "description": "",
     "chain_id":1,
-    "chain_name":"mannet"
+    "chain_name":"mainnet"
   },
   {
     "address": "0x48753ac7bb8d990ad44f32F71f2360240B8025aa",
@@ -1755,7 +1755,7 @@
     "twitter": "http://www.x.com/hyperlane",
     "description": "",
     "chain_id":1,
-    "chain_name":"mannet"
+    "chain_name":"mainnet"
   },
   {
     "address": "0x47253C6AD6ec68DeD8Fc91503A354c792Bb0932f",
@@ -1767,7 +1767,7 @@
     "twitter": "https://twitter.com/BendDAO",
     "description": "",
     "chain_id":1,
-    "chain_name":"mannet"
+    "chain_name":"mainnet"
   },
   {
     "address": "0x469f45d05F8C3B3cE40d1640ffE66b795B1d2d22",
@@ -1779,7 +1779,7 @@
     "twitter": "http://www.x.com/hyperlane",
     "description": "",
     "chain_id":1,
-    "chain_name":"mannet"
+    "chain_name":"mainnet"
   },
   {
     "address": "0x44835bBBA9D40DEDa9b64858095EcFB2693c9449",
@@ -1791,7 +1791,7 @@
     "twitter": "https://twitter.com/chainlink",
     "description": "",
     "chain_id":1,
-    "chain_name":"mannet"
+    "chain_name":"mainnet"
   },
   {
     "address": "0x4419326b1F38aac37635be19e377014869CD78fC",
@@ -1803,7 +1803,7 @@
     "twitter": "https://x.com/veda_labs",
     "description": "",
     "chain_id":1,
-    "chain_name":"mannet"
+    "chain_name":"mainnet"
   },
   {
     "address": "0x43c958AFFe41D44F0a02aE177b591E93c86AdbEa",
@@ -1815,7 +1815,7 @@
     "twitter": "https://twitter.com/TheMahaDAO",
     "description": "",
     "chain_id":1,
-    "chain_name":"mannet"
+    "chain_name":"mainnet"
   },
   {
     "address": "0x42cd8312D2BCe04277dD5161832460e95b24262E",
@@ -1827,7 +1827,7 @@
     "twitter": "https://twitter.com/PoolTogether_",
     "description": "",
     "chain_id":1,
-    "chain_name":"mannet"
+    "chain_name":"mainnet"
   },
   {
     "address": "0x417e1bCF39742534ae65988E4Eb3eAC1A243cBC0",
@@ -1839,7 +1839,7 @@
     "twitter": "https://x.com/AethirCloud",
     "description": "",
     "chain_id":1,
-    "chain_name":"mannet"
+    "chain_name":"mainnet"
   },
   {
     "address": "0x41114A13230625A2735FaA7183e528Ed2538cB7b",
@@ -1851,7 +1851,7 @@
     "twitter": "https://twitter.com/ambient_finance",
     "description": "",
     "chain_id":1,
-    "chain_name":"mannet"
+    "chain_name":"mainnet"
   },
   {
     "address": "0x40A2610092D485315715F416aC81d7Dc245be0e3",
@@ -1863,7 +1863,7 @@
     "twitter": "https://twitter.com/KudoeOfficial",
     "description": "",
     "chain_id":1,
-    "chain_name":"mannet"
+    "chain_name":"mainnet"
   },
   {
     "address": "0x3f9041350B661c74C6CbE440c8Bd6BC4C168a9fd",
@@ -1875,7 +1875,7 @@
     "twitter": "https://twitter.com/Scroll_ZKP",
     "description": "",
     "chain_id":1,
-    "chain_name":"mannet"
+    "chain_name":"mainnet"
   },
   {
     "address": "0x3C1fF68f5aa342D296d4DEe4Bb1cACCA912D95fE",
@@ -1887,7 +1887,7 @@
     "twitter": "https://twitter.com/autonolas",
     "description": "",
     "chain_id":1,
-    "chain_name":"mannet"
+    "chain_name":"mainnet"
   },
   {
     "address": "0x3c19F81ED1573fB8c75e7F0a53CDb992d47FF6Dd",
@@ -1899,7 +1899,7 @@
     "twitter": "http://www.x.com/hyperlane",
     "description": "",
     "chain_id":1,
-    "chain_name":"mannet"
+    "chain_name":"mainnet"
   },
   {
     "address": "0x3a6b8012d4790988c0fF6c7F045bFc7B35315Ee7",
@@ -1911,7 +1911,7 @@
     "twitter": "https://twitter.com/rabbitx_io",
     "description": "",
     "chain_id":1,
-    "chain_name":"mannet"
+    "chain_name":"mainnet"
   },
   {
     "address": "0x3A3Da19244092371dF1748470a41F7B1D4dAF43e",
@@ -1923,7 +1923,7 @@
     "twitter": "https://twitter.com/meowlxyz",
     "description": "",
     "chain_id":1,
-    "chain_name":"mannet"
+    "chain_name":"mainnet"
   },
   {
     "address": "0x399A14c051De50cFed6a806dA1e6c27D6448Aa60",
@@ -1935,7 +1935,7 @@
     "twitter": "http://www.x.com/SuperVerse",
     "description": "",
     "chain_id":1,
-    "chain_name":"mannet"
+    "chain_name":"mainnet"
   },
   {
     "address": "0x37c897b38Efd9a08C271BD25B1eC82D6Ad5e6d1e",
@@ -1947,7 +1947,7 @@
     "twitter": "https://x.com/RelayProtocol",
     "description": "",
     "chain_id":1,
-    "chain_name":"mannet"
+    "chain_name":"mainnet"
   },
   {
     "address": "0x3715B2154d2FF4C5B027C7a1f734B53F27bc34f1",
@@ -1959,7 +1959,7 @@
     "twitter": "https://twitter.com/OndoFinance",
     "description": "",
     "chain_id":1,
-    "chain_name":"mannet"
+    "chain_name":"mainnet"
   },
   {
     "address": "0x36FaA1944C95707D6224368D4B0f0eec9dDC6ce3",
@@ -1971,7 +1971,7 @@
     "twitter": "https://x.com/gammaswaplabs",
     "description": "",
     "chain_id":1,
-    "chain_name":"mannet"
+    "chain_name":"mainnet"
   },
   {
     "address": "0x35918cDE7233F2dD33fA41ae3Cb6aE0e42E0e69F",
@@ -1983,7 +1983,7 @@
     "twitter": "https://twitter.com/OriginProtocol",
     "description": "",
     "chain_id":1,
-    "chain_name":"mannet"
+    "chain_name":"mainnet"
   },
   {
     "address": "0x32e4F7922b6E42a2CfaB604466a5c7CdC9c7e149",
@@ -1995,7 +1995,7 @@
     "twitter": "https://twitter.com/reserveprotocol",
     "description": "",
     "chain_id":1,
-    "chain_name":"mannet"
+    "chain_name":"mainnet"
   },
   {
     "address": "0x329239599afB305DA0A2eC69c58F8a6697F9F88d",
@@ -2007,7 +2007,7 @@
     "twitter": "https://twitter.com/SwerveFinance",
     "description": "",
     "chain_id":1,
-    "chain_name":"mannet"
+    "chain_name":"mainnet"
   },
   {
     "address": "0x324eBA6a72610B189c902ae6f80F2695D2a68a00",
@@ -2019,7 +2019,7 @@
     "twitter": "https://twitter.com/ClayStack_HQ",
     "description": "",
     "chain_id":1,
-    "chain_name":"mannet"
+    "chain_name":"mainnet"
   },
   {
     "address": "0x2f0a037FbE917f63E4504B0b07d92cc93C8CF484",
@@ -2031,7 +2031,7 @@
     "twitter": "https://twitter.com/LybraFinanceLSD",
     "description": "",
     "chain_id":1,
-    "chain_name":"mannet"
+    "chain_name":"mainnet"
   },
   {
     "address": "0x2dEe6958272308Ff5AE4831aE038Abd4ac96Be04",
@@ -2043,7 +2043,7 @@
     "twitter": "https://twitter.com/BaoFinance",
     "description": "",
     "chain_id":1,
-    "chain_name":"mannet"
+    "chain_name":"mainnet"
   },
   {
     "address": "0x2D970A1e0bF345C401717BE3F0367FAEC61f4739",
@@ -2055,7 +2055,7 @@
     "twitter": "https://twitter.com/reserveprotocol",
     "description": "",
     "chain_id":1,
-    "chain_name":"mannet"
+    "chain_name":"mainnet"
   },
   {
     "address": "0x2c5898da4DF1d45EAb2B7B192a361C3b9EB18d9c",
@@ -2067,7 +2067,7 @@
     "twitter": "https://twitter.com/OndoFinance",
     "description": "",
     "chain_id":1,
-    "chain_name":"mannet"
+    "chain_name":"mainnet"
   },
   {
     "address": "0x29DD1E7b2df51F26f39C70cB4c1d8f7c5922E93f",
@@ -2079,7 +2079,7 @@
     "twitter": "https://x.com/primex_official",
     "description": "",
     "chain_id":1,
-    "chain_name":"mannet"
+    "chain_name":"mainnet"
   },
   {
     "address": "0x290D9544669c9c7a64F6899a0a3b28d563F6ebEe",
@@ -2091,7 +2091,7 @@
     "twitter": "https://x.com/ResolvLabs",
     "description": "",
     "chain_id":1,
-    "chain_name":"mannet"
+    "chain_name":"mainnet"
   },
   {
     "address": "0x2686Ca30eDB7EC24FbB7cE39B7ef242dCE035945",
@@ -2103,7 +2103,7 @@
     "twitter": "https://twitter.com/wearecultdao",
     "description": "",
     "chain_id":1,
-    "chain_name":"mannet"
+    "chain_name":"mainnet"
   },
   {
     "address": "0x266d1020A84B9E8B0ed320831838152075F8C4cA",
@@ -2115,7 +2115,7 @@
     "twitter": "https://x.com/interestdefi",
     "description": "",
     "chain_id":1,
-    "chain_name":"mannet"
+    "chain_name":"mainnet"
   },
   {
     "address": "0x2645252e2155c12e2726d0Ccd5fc0d1cCCFE07E6",
@@ -2127,7 +2127,7 @@
     "twitter": "https://twitter.com/OpenLeverage",
     "description": "",
     "chain_id":1,
-    "chain_name":"mannet"
+    "chain_name":"mainnet"
   },
   {
     "address": "0x25a5A3FA61cba5Fd5fb1D75D0AcfEB81370778Eb",
@@ -2139,7 +2139,7 @@
     "twitter": "https://x.com/movementfdn",
     "description": "",
     "chain_id":1,
-    "chain_name":"mannet"
+    "chain_name":"mainnet"
   },
   {
     "address": "0x2520C6b2C1FBE1813AB5c7c1018CDa39529e9FF2",
@@ -2151,7 +2151,7 @@
     "twitter": "https://twitter.com/eigenlayer",
     "description": "",
     "chain_id":1,
-    "chain_name":"mannet"
+    "chain_name":"mainnet"
   },
   {
     "address": "0x23CA665c8a73292Fc7AC2cC4493d2cE883BBA468",
@@ -2163,7 +2163,7 @@
     "twitter": "http://www.x.com/m0foundation",
     "description": "",
     "chain_id":1,
-    "chain_name":"mannet"
+    "chain_name":"mainnet"
   },
   {
     "address": "0x2386DC45AdDed673317eF068992F19421B481F4c",
@@ -2175,7 +2175,7 @@
     "twitter": "https://twitter.com/Instadapp",
     "description": "",
     "chain_id":1,
-    "chain_name":"mannet"
+    "chain_name":"mainnet"
   },
   {
     "address": "0x22BbAea402d7FBabbee69570fe7d4dD0c6dDe83c",
@@ -2187,7 +2187,7 @@
     "twitter": "https://x.com/Aster_DEX",
     "description": "",
     "chain_id":1,
-    "chain_name":"mannet"
+    "chain_name":"mainnet"
   },
   {
     "address": "0x22605A12cB77Fe420B0cC1263cEb58a77352FDc1",
@@ -2199,7 +2199,7 @@
     "twitter": "https://twitter.com/kroma_network",
     "description": "",
     "chain_id":1,
-    "chain_name":"mannet"
+    "chain_name":"mainnet"
   },
   {
     "address": "0x223592a191ECfC7FDC38a9256c3BD96E771539A9",
@@ -2211,7 +2211,7 @@
     "twitter": "https://twitter.com/AmpleforthOrg",
     "description": "",
     "chain_id":1,
-    "chain_name":"mannet"
+    "chain_name":"mainnet"
   },
   {
     "address": "0x22276A1BD16bc3052b362C2e0f65aacE04ed6F99",
@@ -2223,7 +2223,7 @@
     "twitter": "https://twitter.com/matrixdock",
     "description": "",
     "chain_id":1,
-    "chain_name":"mannet"
+    "chain_name":"mainnet"
   },
   {
     "address": "0x2225DAbFfC7F862c99477381E971E8B1FDaB467e",
@@ -2235,7 +2235,7 @@
     "twitter": "https://x.com/TreehouseFi",
     "description": "",
     "chain_id":1,
-    "chain_name":"mannet"
+    "chain_name":"mainnet"
   },
   {
     "address": "0x21E0803103d3cf8Ab0755a02e9e4F55a5590E07F",
@@ -2247,7 +2247,7 @@
     "twitter": "https://x.com/skate_fi",
     "description": "",
     "chain_id":1,
-    "chain_name":"mannet"
+    "chain_name":"mainnet"
   },
   {
     "address": "0x20f9b64877eB0C1F180eb80321ee4f373842C714",
@@ -2259,7 +2259,7 @@
     "twitter": "http://www.x.com/stryke_xyz",
     "description": "",
     "chain_id":1,
-    "chain_name":"mannet"
+    "chain_name":"mainnet"
   },
   {
     "address": "0x20F4E8cBf7C0062464E1496164B6847112ec41BF",
@@ -2271,7 +2271,7 @@
     "twitter": "https://x.com/Aster_DEX",
     "description": "",
     "chain_id":1,
-    "chain_name":"mannet"
+    "chain_name":"mainnet"
   },
   {
     "address": "0x20Ea6f63de406040E1e4B67aD98E84A0Eb3778Be",
@@ -2283,7 +2283,7 @@
     "twitter": "https://twitter.com/staderlabs",
     "description": "",
     "chain_id":1,
-    "chain_name":"mannet"
+    "chain_name":"mainnet"
   },
   {
     "address": "0x1FF7652E80ab0Ee42Ba6fAD132a1e8A334384F4c",
@@ -2295,7 +2295,7 @@
     "twitter": "https://x.com/HANeP_official",
     "description": "",
     "chain_id":1,
-    "chain_name":"mannet"
+    "chain_name":"mainnet"
   },
   {
     "address": "0x1F52658486f0c0ff080efc87A2F2eb572276654D",
@@ -2307,7 +2307,7 @@
     "twitter": "https://x.com/veda_labs",
     "description": "",
     "chain_id":1,
-    "chain_name":"mannet"
+    "chain_name":"mainnet"
   },
   {
     "address": "0x1Ed47efb9252E6FE586C8bda9af7bc67e97D4f2D",
@@ -2319,7 +2319,7 @@
     "twitter": "https://x.com/RelayProtocol",
     "description": "",
     "chain_id":1,
-    "chain_name":"mannet"
+    "chain_name":"mainnet"
   },
   {
     "address": "0x1c9270ac5C42E51611d7b97b1004313D52c80293",
@@ -2331,7 +2331,7 @@
     "twitter": "https://twitter.com/beefyfinance",
     "description": "",
     "chain_id":1,
-    "chain_name":"mannet"
+    "chain_name":"mainnet"
   },
   {
     "address": "0x1b8C367aE56656b1D0901b2ADd1AD3226fF74f5a",
@@ -2343,7 +2343,7 @@
     "twitter": "https://twitter.com/eulerfinance",
     "description": "",
     "chain_id":1,
-    "chain_name":"mannet"
+    "chain_name":"mainnet"
   },
   {
     "address": "0x1a9C8182C09F50C8318d769245beA52c32BE35BC",
@@ -2355,7 +2355,7 @@
     "twitter": "https://twitter.com/Uniswap",
     "description": "",
     "chain_id":1,
-    "chain_name":"mannet"
+    "chain_name":"mainnet"
   },
   {
     "address": "0x1A658B88fD0a3c82fa1a0609fCDbD32e7dd4aB9C",
@@ -2367,7 +2367,7 @@
     "twitter": "https://twitter.com/Scroll_ZKP",
     "description": "",
     "chain_id":1,
-    "chain_name":"mannet"
+    "chain_name":"mainnet"
   },
   {
     "address": "0x198147E0A57F009E337EA3F0E5FE9bbCa3ED1975",
@@ -2379,7 +2379,7 @@
     "twitter": "https://twitter.com/GranaryFinance",
     "description": "",
     "chain_id":1,
-    "chain_name":"mannet"
+    "chain_name":"mainnet"
   },
   {
     "address": "0x1854B5e23096740DF9C89804f1b5A4E52cf34169",
@@ -2391,7 +2391,7 @@
     "twitter": "http://www.x.com/YieldNestFi",
     "description": "",
     "chain_id":1,
-    "chain_name":"mannet"
+    "chain_name":"mainnet"
   },
   {
     "address": "0x15ee4F9ec8E667bB89388363c641368759f639D3",
@@ -2403,7 +2403,7 @@
     "twitter": "https://x.com/dypius",
     "description": "",
     "chain_id":1,
-    "chain_name":"mannet"
+    "chain_name":"mainnet"
   },
   {
     "address": "0x155Dc3D5395687A14433D2A5019d970cEd31b195",
@@ -2415,7 +2415,7 @@
     "twitter": "https://twitter.com/0xMantle",
     "description": "",
     "chain_id":1,
-    "chain_name":"mannet"
+    "chain_name":"mainnet"
   },
   {
     "address": "0x1417fA839F4D03E59DBDA9e60165a752D41b2045",
@@ -2427,7 +2427,7 @@
     "twitter": "https://twitter.com/UnslashedF",
     "description": "",
     "chain_id":1,
-    "chain_name":"mannet"
+    "chain_name":"mainnet"
   },
   {
     "address": "0x13b7A79e050ef2C3fDc858EFD5c066c3655be841",
@@ -2439,7 +2439,7 @@
     "twitter": "https://twitter.com/perenniallabs",
     "description": "",
     "chain_id":1,
-    "chain_name":"mannet"
+    "chain_name":"mainnet"
   },
   {
     "address": "0x139B3aa747941fB88C30104E59beE5B813ff7Acc",
@@ -2451,7 +2451,7 @@
     "twitter": "http://www.x.com/hyperlane",
     "description": "",
     "chain_id":1,
-    "chain_name":"mannet"
+    "chain_name":"mainnet"
   },
   {
     "address": "0x12e4F043c6464984A45173E0444105058b6C3c7B",
@@ -2463,7 +2463,7 @@
     "twitter": "https://twitter.com/reserveprotocol",
     "description": "",
     "chain_id":1,
-    "chain_name":"mannet"
+    "chain_name":"mainnet"
   },
   {
     "address": "0x12DeD18937cecdDDa386532B5aA2d1561617Fa27",
@@ -2475,7 +2475,7 @@
     "twitter": "https://x.com/veda_labs",
     "description": "",
     "chain_id":1,
-    "chain_name":"mannet"
+    "chain_name":"mainnet"
   },
   {
     "address": "0x11F412403fB8F5cC7d1947763a2D86543103a601",
@@ -2487,7 +2487,7 @@
     "twitter": "https://twitter.com/manifoldxyz",
     "description": "",
     "chain_id":1,
-    "chain_name":"mannet"
+    "chain_name":"mainnet"
   },
   {
     "address": "0x1112D5C55670Cb5144BF36114C20a122908068B9",
@@ -2499,7 +2499,7 @@
     "twitter": "https://twitter.com/staderlabs",
     "description": "",
     "chain_id":1,
-    "chain_name":"mannet"
+    "chain_name":"mainnet"
   },
   {
     "address": "0x0F2c66475EC9cef9C6B369CD8ecb04aAf4Db3329",
@@ -2511,7 +2511,7 @@
     "twitter": "https://twitter.com/ether_fi",
     "description": "",
     "chain_id":1,
-    "chain_name":"mannet"
+    "chain_name":"mainnet"
   },
   {
     "address": "0x0eB8F11Ec17C160B0d51586B0e420fAfF07b6f47",
@@ -2523,7 +2523,7 @@
     "twitter": "https://twitter.com/matrixdock",
     "description": "",
     "chain_id":1,
-    "chain_name":"mannet"
+    "chain_name":"mainnet"
   },
   {
     "address": "0x0e58939204eEDa84F796FBc86840A50af10eC4F4",
@@ -2535,7 +2535,7 @@
     "twitter": "https://twitter.com/Scroll_ZKP",
     "description": "",
     "chain_id":1,
-    "chain_name":"mannet"
+    "chain_name":"mainnet"
   },
   {
     "address": "0x0e04E8127cF11dB51d4c8841F71833aF1231ebcC",
@@ -2547,7 +2547,7 @@
     "twitter": "https://twitter.com/nestedfi",
     "description": "",
     "chain_id":1,
-    "chain_name":"mannet"
+    "chain_name":"mainnet"
   },
   {
     "address": "0x0DfA007C74E6bEae02c5bA9E0e900c9A0422456d",
@@ -2559,7 +2559,7 @@
     "twitter": "https://twitter.com/reserveprotocol",
     "description": "",
     "chain_id":1,
-    "chain_name":"mannet"
+    "chain_name":"mainnet"
   },
   {
     "address": "0x0DCfb77A581bC8fE432E904643a5480Cc183F38D",
@@ -2571,7 +2571,7 @@
     "twitter": "https://twitter.com/0xProject",
     "description": "",
     "chain_id":1,
-    "chain_name":"mannet"
+    "chain_name":"mainnet"
   },
   {
     "address": "0x0dB80fB708Be1fC513C935A7BC6D63f912E1098B",
@@ -2583,7 +2583,7 @@
     "twitter": "https://twitter.com/kroma_network",
     "description": "",
     "chain_id":1,
-    "chain_name":"mannet"
+    "chain_name":"mainnet"
   },
   {
     "address": "0x0CD4c0F24a0A9f3E2Fe80ed385D8AD5a2FfECA44",
@@ -2595,7 +2595,7 @@
     "twitter": "https://twitter.com/Scroll_ZKP",
     "description": "",
     "chain_id":1,
-    "chain_name":"mannet"
+    "chain_name":"mainnet"
   },
   {
     "address": "0x0CBee811C47C3A5cb4637f1E58d98B0Abbb4c54f",
@@ -2607,7 +2607,7 @@
     "twitter": "https://twitter.com/CIAN_protocol",
     "description": "",
     "chain_id":1,
-    "chain_name":"mannet"
+    "chain_name":"mainnet"
   },
   {
     "address": "0x0BC3807Ec262cB779b38D65b38158acC3bfedE10",
@@ -2619,7 +2619,7 @@
     "twitter": "https://twitter.com/nounsdao",
     "description": "",
     "chain_id":1,
-    "chain_name":"mannet"
+    "chain_name":"mainnet"
   },
   {
     "address": "0x0afA5DB1438F82BC143Fb6e1f07F0bBd433c0123",
@@ -2631,7 +2631,7 @@
     "twitter": "http://www.x.com/SuperVerse",
     "description": "",
     "chain_id":1,
-    "chain_name":"mannet"
+    "chain_name":"mainnet"
   },
   {
     "address": "0x0AD030B3ED355Aa1690b0748176129AeFc2C33BD",
@@ -2643,7 +2643,7 @@
     "twitter": "https://x.com/veda_labs",
     "description": "",
     "chain_id":1,
-    "chain_name":"mannet"
+    "chain_name":"mainnet"
   },
   {
     "address": "0x0A53500007000A02f5c60e60F04fA290507c0005",
@@ -2655,7 +2655,7 @@
     "twitter": "https://twitter.com/paraswap",
     "description": "",
     "chain_id":1,
-    "chain_name":"mannet"
+    "chain_name":"mainnet"
   },
   {
     "address": "0x09D81464c7293C774203E46E3C921559c8E9D53f",
@@ -2667,7 +2667,7 @@
     "twitter": "https://twitter.com/AngleProtocol",
     "description": "",
     "chain_id":1,
-    "chain_name":"mannet"
+    "chain_name":"mainnet"
   },
   {
     "address": "0x08eDF0F2AF8672029eb445742B3b4072c6158DF3",
@@ -2679,7 +2679,7 @@
     "twitter": "https://x.com/OnyxDAO",
     "description": "",
     "chain_id":1,
-    "chain_name":"mannet"
+    "chain_name":"mainnet"
   },
   {
     "address": "0x08558D8bB5E792839fC6A21367e6590071305115",
@@ -2691,7 +2691,7 @@
     "twitter": "https://twitter.com/chainlink",
     "description": "",
     "chain_id":1,
-    "chain_name":"mannet"
+    "chain_name":"mainnet"
   },
   {
     "address": "0x0835b0832f5A7a1e6eA55454ED7B01eb36eb6Ba3",
@@ -2703,7 +2703,7 @@
     "twitter": "https://twitter.com/reserveprotocol",
     "description": "",
     "chain_id":1,
-    "chain_name":"mannet"
+    "chain_name":"mainnet"
   },
   {
     "address": "0x072ff28113eEb3D79D58deB73012d2c0c0b4D0df",
@@ -2715,7 +2715,7 @@
     "twitter": "http://www.x.com/Spectral_Labs",
     "description": "",
     "chain_id":1,
-    "chain_name":"mannet"
+    "chain_name":"mainnet"
   },
   {
     "address": "0x068ca64DeF5E2B7050546eCBdA7425999B2Ec5C2",
@@ -2727,7 +2727,7 @@
     "twitter": "https://twitter.com/DeFireXorg",
     "description": "",
     "chain_id":1,
-    "chain_name":"mannet"
+    "chain_name":"mainnet"
   },
   {
     "address": "0x064C10d1A1659Af66A49Afdd4e77e376bFaec6E8",
@@ -2739,7 +2739,7 @@
     "twitter": "https://x.com/veda_labs",
     "description": "",
     "chain_id":1,
-    "chain_name":"mannet"
+    "chain_name":"mainnet"
   },
   {
     "address": "0x055E84e7FE8955E2781010B866f10Ef6E1E77e59",
@@ -2751,7 +2751,7 @@
     "twitter": "https://x.com/Lombard_Finance",
     "description": "",
     "chain_id":1,
-    "chain_name":"mannet"
+    "chain_name":"mainnet"
   },
   {
     "address": "0x0528445c44eC5A91DbeA8C447Fb711AD5aF858dE",
@@ -2763,7 +2763,7 @@
     "twitter": "http://www.x.com/hyperlane",
     "description": "",
     "chain_id":1,
-    "chain_name":"mannet"
+    "chain_name":"mainnet"
   },
   {
     "address": "0x04719a2c2bF08fE755297035337616662fA8d392",
@@ -2775,7 +2775,7 @@
     "twitter": "https://x.com/RelayProtocol",
     "description": "",
     "chain_id":1,
-    "chain_name":"mannet"
+    "chain_name":"mainnet"
   },
   {
     "address": "0x01D0Be6a499F91a4572F78F042D0f7a1FdE1EbcE",
@@ -2787,7 +2787,7 @@
     "twitter": "https://twitter.com/ChainUpOfficial",
     "description": "",
     "chain_id":1,
-    "chain_name":"mannet"
+    "chain_name":"mainnet"
   },
   {
     "address": "0x01a74ea66C1D645ae2Ef6B4fB4A161ff18D76f79",
@@ -2799,7 +2799,7 @@
     "twitter": "http://www.x.com/hyperlane",
     "description": "",
     "chain_id":1,
-    "chain_name":"mannet"
+    "chain_name":"mainnet"
   },
   {
     "address": "0x0167Eed0Dd3e644fA06E6de44bF65503B37a7e47",
@@ -2811,7 +2811,7 @@
     "twitter": "http://www.x.com/SuperVerse",
     "description": "",
     "chain_id":1,
-    "chain_name":"mannet"
+    "chain_name":"mainnet"
   },
   {
     "address": "0x00E72315F630b11034Fd081793fCa1279B6A3d82",
