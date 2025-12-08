@@ -1,7 +1,7 @@
 [
   {
     "address": "0xdAbad81aF85554E9ae636395611C58F7eC1aAEc5",
-    "icon": "/aave.png",
+    "icon": "/icons/aave.png",
     "name": "AAVE",
     "description": "",
     "website": "https://aave.com/",
@@ -10,7 +10,7 @@
   },
   {
     "address": "0xCE0425301C85c5Ea2A0873A2dEe44d78E02D2316",
-    "icon": "/lido.png",
+    "icon": "/icons/lido.png",
     "name": "Lido",
     "description": "",
     "website": "https://lido.fi/",
@@ -19,7 +19,7 @@
   },
   {
     "address": "0x1a9C8182C09F50C8318d769245beA52c32BE35BC",
-    "icon": "/uniswap.png",
+    "icon": "/icons/uniswap.png",
     "name": "Uniswap",
     "description": "",
     "website": "https://uniswap.org/",
@@ -28,7 +28,7 @@
   },
   {
     "address": "0xA6Db1A8C5a981d1536266D2a393c5F8dDb210EAF",
-    "icon": "/eigenlayer.png",
+    "icon": "/icons/eigenlayer.png",
     "name": "EigenLayer",
     "description": "",
     "website": "https://app.eigenlayer.xyz/",
