@@ -1,41 +1,5 @@
 [
   {
-    "address": "0xdAbad81aF85554E9ae636395611C58F7eC1aAEc5",
-    "icon": "/icons/aave.png",
-    "name": "AAVE",
-    "description": "",
-    "website": "https://aave.com/",
-    "chain_id": 1,
-    "chain_name": "mainnet"
-  },
-  {
-    "address": "0xCE0425301C85c5Ea2A0873A2dEe44d78E02D2316",
-    "icon": "/icons/lido.png",
-    "name": "Lido",
-    "description": "",
-    "website": "https://lido.fi/",
-    "chain_id": 1,
-    "chain_name": "mainnet"
-  },
-  {
-    "address": "0x1a9C8182C09F50C8318d769245beA52c32BE35BC",
-    "icon": "/icons/uniswap.png",
-    "name": "Uniswap",
-    "description": "",
-    "website": "https://uniswap.org/",
-    "chain_id": 1,
-    "chain_name": "mainnet"
-  },
-  {
-    "address": "0xA6Db1A8C5a981d1536266D2a393c5F8dDb210EAF",
-    "icon": "/icons/eigenlayer.png",
-    "name": "EigenLayer",
-    "description": "",
-    "website": "https://app.eigenlayer.xyz/",
-    "chain_id": 1,
-    "chain_name": "mainnet"
-  },
-  {
     "address": "0xb1a32fc9f9d8b2cf86c068cae13108809547ef71",
     "icon": "/icons/nouns-dao.png",
     "name": "Nouns DAO",
